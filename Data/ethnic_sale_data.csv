@@ -1,0 +1,2001 @@
+date,sku_id,category,subcategory,price,discount_percentage,rating,city,channel,weather,90_days_sales
+2024-05-16,SKU2824,Ethnic Wear,Saree,4914,0,4.6,Mumbai,Brand Website,Summer,144
+2023-03-07,SKU9935,Ethnic Wear,Saree,4122,0,3.8,Mumbai,Brand Website,Summer,118
+2025-05-09,SKU1434,Ethnic Wear,Lehenga,8902,15,4.4,Pune,Myntra,Summer,62
+2025-05-15,SKU1106,Ethnic Wear,Lehenga,9393,10,3.7,Bhopal,Myntra,Summer,45
+2023-07-18,SKU6514,Ethnic Wear,Saree,5470,30,4.0,Mumbai,Myntra,Monsoon,136
+2023-09-13,SKU1711,Ethnic Wear,Lehenga,9550,0,4.3,Lucknow,Offline,Monsoon,34
+2023-05-23,SKU6925,Ethnic Wear,Lehenga,8187,25,3.8,Pune,Myntra,Summer,51
+2025-02-17,SKU2307,Ethnic Wear,Kurta,2638,15,4.5,Bhopal,Myntra,Winter,103
+2024-06-30,SKU7065,Ethnic Wear,Lehenga,8292,20,4.5,Bengaluru,Myntra,Summer,68
+2024-07-06,SKU5010,Ethnic Wear,Saree,6281,0,4.5,Delhi,Offline,Monsoon,99
+2025-04-01,SKU1916,Ethnic Wear,Saree,5096,0,3.8,Delhi,Myntra,Summer,148
+2025-03-21,SKU6155,Ethnic Wear,Saree,5879,0,3.9,Delhi,Brand Website,Summer,92
+2025-05-27,SKU9830,Ethnic Wear,Lehenga,10390,15,4.0,Bengaluru,Brand Website,Summer,58
+2023-04-07,SKU3266,Ethnic Wear,Kurta,1949,0,4.4,Pune,Offline,Summer,152
+2025-02-20,SKU7916,Ethnic Wear,Saree,6440,15,4.3,Pune,Myntra,Winter,263
+2024-06-30,SKU1188,Ethnic Wear,Kurta,2893,0,3.9,Lucknow,Brand Website,Summer,89
+2025-10-22,SKU1053,Ethnic Wear,Saree,4731,20,4.9,Lucknow,Brand Website,Winter,327
+2024-02-12,SKU5889,Ethnic Wear,Lehenga,8626,10,4.6,Bhopal,Brand Website,Winter,130
+2025-09-27,SKU9689,Ethnic Wear,Saree,4079,0,4.9,Mumbai,Brand Website,Monsoon,182
+2023-06-11,SKU6038,Ethnic Wear,Kurta,1850,25,4.2,Delhi,Myntra,Summer,193
+2025-08-31,SKU9727,Ethnic Wear,Kurta,3751,0,3.9,Bhopal,Myntra,Monsoon,112
+2024-02-16,SKU7932,Ethnic Wear,Lehenga,9276,15,5.0,Delhi,Brand Website,Winter,220
+2024-05-22,SKU8177,Ethnic Wear,Kurta,2420,0,4.0,Pune,Offline,Summer,121
+2023-05-26,SKU4770,Ethnic Wear,Kurta,1741,0,3.6,Pune,Myntra,Summer,101
+2024-07-24,SKU6413,Ethnic Wear,Kurta,3488,0,4.3,Mumbai,Brand Website,Monsoon,157
+2024-01-25,SKU8744,Ethnic Wear,Saree,4386,0,4.5,Delhi,Offline,Winter,149
+2023-07-21,SKU7735,Ethnic Wear,Kurta,1748,15,4.6,Hyderabad,Brand Website,Monsoon,204
+2025-07-07,SKU2790,Ethnic Wear,Kurta,2074,15,3.8,Delhi,Myntra,Monsoon,179
+2023-04-14,SKU2235,Ethnic Wear,Kurta,3714,30,3.5,Hyderabad,Brand Website,Summer,113
+2025-09-12,SKU4872,Ethnic Wear,Saree,4875,30,4.1,Delhi,Offline,Monsoon,90
+2025-07-20,SKU7209,Ethnic Wear,Saree,5168,15,4.5,Mumbai,Offline,Monsoon,118
+2024-03-21,SKU8973,Ethnic Wear,Saree,4239,20,4.6,Delhi,Myntra,Summer,150
+2025-09-03,SKU6138,Ethnic Wear,Lehenga,10059,30,4.3,Mumbai,Myntra,Monsoon,61
+2023-05-20,SKU9320,Ethnic Wear,Kurta,2463,15,3.7,Mumbai,Myntra,Summer,218
+2023-06-17,SKU5033,Ethnic Wear,Kurta,3217,25,4.4,Pune,Brand Website,Summer,166
+2024-10-05,SKU5272,Ethnic Wear,Lehenga,8977,10,4.1,Delhi,Brand Website,Winter,191
+2023-01-20,SKU5915,Ethnic Wear,Kurta,3377,20,5.0,Hyderabad,Offline,Winter,160
+2024-06-27,SKU2200,Ethnic Wear,Lehenga,8542,10,4.8,Pune,Myntra,Summer,71
+2024-09-11,SKU7054,Ethnic Wear,Saree,6166,0,4.5,Bengaluru,Myntra,Monsoon,107
+2023-08-08,SKU2697,Ethnic Wear,Kurta,3766,0,3.9,Delhi,Offline,Monsoon,99
+2024-06-24,SKU6617,Ethnic Wear,Lehenga,10070,15,3.9,Delhi,Brand Website,Summer,67
+2024-07-20,SKU1832,Ethnic Wear,Saree,4180,0,4.0,Mumbai,Brand Website,Monsoon,100
+2025-05-25,SKU5291,Ethnic Wear,Saree,6297,0,3.7,Delhi,Brand Website,Summer,116
+2023-10-31,SKU3442,Ethnic Wear,Saree,5760,0,3.6,Pune,Myntra,Winter,170
+2024-05-26,SKU1653,Ethnic Wear,Lehenga,8421,10,4.7,Bengaluru,Myntra,Summer,74
+2024-04-29,SKU7658,Ethnic Wear,Kurta,2165,30,4.7,Pune,Brand Website,Summer,237
+2025-04-23,SKU1406,Ethnic Wear,Saree,5016,10,3.7,Delhi,Brand Website,Summer,132
+2024-03-31,SKU7267,Ethnic Wear,Saree,4817,30,4.9,Bhopal,Myntra,Summer,129
+2024-01-31,SKU4728,Ethnic Wear,Lehenga,9632,10,3.9,Delhi,Myntra,Winter,81
+2025-03-29,SKU5573,Ethnic Wear,Lehenga,10196,10,4.9,Bengaluru,Brand Website,Summer,44
+2023-03-20,SKU5279,Ethnic Wear,Saree,4444,20,4.2,Delhi,Brand Website,Summer,176
+2023-08-25,SKU6139,Ethnic Wear,Lehenga,9577,20,3.8,Hyderabad,Brand Website,Monsoon,40
+2024-02-08,SKU8144,Ethnic Wear,Lehenga,9491,15,3.6,Mumbai,Brand Website,Winter,153
+2023-09-13,SKU6409,Ethnic Wear,Lehenga,9230,20,4.0,Pune,Offline,Monsoon,34
+2023-09-18,SKU7592,Ethnic Wear,Lehenga,8785,15,4.5,Lucknow,Offline,Monsoon,34
+2025-04-11,SKU3851,Ethnic Wear,Saree,6244,30,3.5,Pune,Brand Website,Summer,82
+2024-10-21,SKU8043,Ethnic Wear,Lehenga,9904,15,4.2,Bhopal,Brand Website,Winter,107
+2023-06-23,SKU8752,Ethnic Wear,Kurta,2662,20,4.5,Bhopal,Brand Website,Summer,153
+2024-09-27,SKU2530,Ethnic Wear,Lehenga,8920,30,3.8,Bhopal,Myntra,Monsoon,37
+2025-07-21,SKU5011,Ethnic Wear,Kurta,3197,25,4.4,Hyderabad,Brand Website,Monsoon,182
+2023-10-30,SKU7291,Ethnic Wear,Kurta,1522,30,4.8,Hyderabad,Offline,Winter,323
+2025-11-26,SKU7965,Ethnic Wear,Lehenga,9902,0,4.3,Delhi,Myntra,Winter,353
+2025-12-23,SKU2988,Ethnic Wear,Saree,6289,20,4.0,Hyderabad,Myntra,Winter,260
+2025-05-23,SKU8251,Ethnic Wear,Lehenga,10244,15,4.8,Pune,Brand Website,Summer,60
+2024-07-21,SKU8777,Ethnic Wear,Kurta,3635,15,4.4,Hyderabad,Offline,Monsoon,93
+2024-07-10,SKU2269,Ethnic Wear,Kurta,2875,10,4.8,Lucknow,Offline,Monsoon,76
+2023-11-09,SKU3471,Ethnic Wear,Lehenga,8876,0,4.1,Delhi,Offline,Winter,217
+2025-05-10,SKU8633,Ethnic Wear,Kurta,3095,30,4.4,Hyderabad,Myntra,Summer,226
+2024-09-03,SKU7232,Ethnic Wear,Saree,5597,30,4.8,Hyderabad,Myntra,Monsoon,189
+2024-03-27,SKU9818,Ethnic Wear,Lehenga,9999,0,3.9,Lucknow,Brand Website,Summer,33
+2025-04-08,SKU7371,Ethnic Wear,Lehenga,8676,30,4.2,Bengaluru,Brand Website,Summer,47
+2023-02-25,SKU9751,Ethnic Wear,Lehenga,8343,25,4.1,Mumbai,Offline,Winter,209
+2024-11-01,SKU3977,Ethnic Wear,Saree,4866,15,4.0,Mumbai,Offline,Winter,479
+2023-06-17,SKU7211,Ethnic Wear,Saree,5926,0,4.6,Bengaluru,Offline,Summer,71
+2023-03-24,SKU6733,Ethnic Wear,Kurta,1627,0,3.8,Delhi,Brand Website,Summer,126
+2023-08-23,SKU3496,Ethnic Wear,Saree,6310,0,4.2,Delhi,Myntra,Monsoon,103
+2023-08-23,SKU7043,Ethnic Wear,Lehenga,8670,10,3.7,Delhi,Brand Website,Monsoon,43
+2025-03-23,SKU6111,Ethnic Wear,Saree,4812,0,4.4,Pune,Brand Website,Summer,120
+2023-09-05,SKU4978,Ethnic Wear,Saree,6318,30,3.6,Mumbai,Brand Website,Monsoon,118
+2024-11-29,SKU7071,Ethnic Wear,Lehenga,8051,30,4.1,Mumbai,Brand Website,Winter,368
+2023-11-10,SKU8102,Ethnic Wear,Saree,5783,0,4.6,Bengaluru,Brand Website,Winter,442
+2025-08-10,SKU5425,Ethnic Wear,Saree,5784,30,4.6,Pune,Brand Website,Monsoon,112
+2025-07-12,SKU5022,Ethnic Wear,Saree,4998,30,4.2,Bhopal,Myntra,Monsoon,124
+2024-01-08,SKU6511,Ethnic Wear,Saree,5997,0,4.0,Mumbai,Offline,Winter,102
+2023-01-21,SKU5581,Ethnic Wear,Saree,6116,0,3.6,Pune,Brand Website,Winter,102
+2025-09-02,SKU9004,Ethnic Wear,Lehenga,10010,15,4.7,Pune,Myntra,Monsoon,48
+2024-09-19,SKU4630,Ethnic Wear,Kurta,3882,10,4.2,Hyderabad,Brand Website,Monsoon,131
+2024-12-21,SKU7971,Ethnic Wear,Saree,5858,10,4.0,Lucknow,Brand Website,Winter,145
+2024-01-15,SKU4155,Ethnic Wear,Lehenga,8784,0,4.6,Bengaluru,Myntra,Winter,83
+2024-02-02,SKU9595,Ethnic Wear,Kurta,2713,0,4.0,Pune,Offline,Winter,74
+2024-08-21,SKU3073,Ethnic Wear,Kurta,2017,25,4.8,Bengaluru,Myntra,Monsoon,204
+2025-09-07,SKU1200,Ethnic Wear,Saree,5804,10,3.8,Pune,Offline,Monsoon,50
+2025-10-04,SKU8827,Ethnic Wear,Saree,4303,20,4.4,Mumbai,Myntra,Winter,299
+2023-06-24,SKU3444,Ethnic Wear,Saree,5016,0,4.3,Bhopal,Brand Website,Summer,81
+2025-07-11,SKU4697,Ethnic Wear,Saree,5813,10,4.8,Bhopal,Brand Website,Monsoon,119
+2023-07-23,SKU6003,Ethnic Wear,Kurta,2351,25,3.8,Pune,Brand Website,Monsoon,149
+2023-06-03,SKU3573,Ethnic Wear,Lehenga,8641,0,4.1,Delhi,Myntra,Summer,64
+2024-08-13,SKU8699,Ethnic Wear,Kurta,2658,25,4.8,Bengaluru,Myntra,Monsoon,153
+2024-02-10,SKU4824,Ethnic Wear,Lehenga,9741,0,4.3,Bengaluru,Brand Website,Winter,134
+2023-05-03,SKU5352,Ethnic Wear,Kurta,2179,30,4.0,Bhopal,Myntra,Summer,178
+2024-09-14,SKU5728,Ethnic Wear,Saree,5648,10,4.3,Hyderabad,Myntra,Monsoon,121
+2024-10-22,SKU2317,Ethnic Wear,Saree,6472,10,3.5,Pune,Myntra,Winter,156
+2023-03-24,SKU1339,Ethnic Wear,Saree,4717,15,4.3,Bhopal,Brand Website,Summer,97
+2025-10-04,SKU5557,Ethnic Wear,Saree,4373,15,4.0,Delhi,Brand Website,Winter,291
+2025-04-23,SKU2713,Ethnic Wear,Saree,6029,10,4.5,Bhopal,Myntra,Summer,91
+2024-05-31,SKU1601,Ethnic Wear,Saree,5324,0,5.0,Hyderabad,Myntra,Summer,127
+2025-08-04,SKU9431,Ethnic Wear,Lehenga,9692,0,3.8,Bhopal,Myntra,Monsoon,34
+2024-02-21,SKU9167,Ethnic Wear,Kurta,2593,20,3.7,Lucknow,Offline,Winter,74
+2024-05-05,SKU8941,Ethnic Wear,Lehenga,8648,10,4.3,Mumbai,Myntra,Summer,67
+2023-08-29,SKU2527,Ethnic Wear,Saree,4630,15,4.9,Delhi,Myntra,Monsoon,169
+2024-05-14,SKU5479,Ethnic Wear,Saree,5870,20,3.7,Hyderabad,Offline,Summer,78
+2024-07-19,SKU9327,Ethnic Wear,Kurta,3199,10,4.9,Lucknow,Myntra,Monsoon,145
+2025-09-29,SKU1042,Ethnic Wear,Saree,4608,15,4.3,Bengaluru,Brand Website,Monsoon,114
+2024-01-22,SKU9903,Ethnic Wear,Saree,4978,20,4.1,Hyderabad,Offline,Winter,166
+2025-08-26,SKU7730,Ethnic Wear,Lehenga,9561,15,5.0,Mumbai,Offline,Monsoon,61
+2025-10-25,SKU3492,Ethnic Wear,Kurta,3917,10,4.8,Hyderabad,Myntra,Winter,268
+2023-02-01,SKU8213,Ethnic Wear,Saree,4590,15,4.8,Mumbai,Brand Website,Winter,405
+2025-03-25,SKU2225,Ethnic Wear,Saree,4328,30,4.0,Hyderabad,Offline,Summer,138
+2025-09-26,SKU9742,Ethnic Wear,Lehenga,10216,0,4.4,Hyderabad,Offline,Monsoon,31
+2025-06-07,SKU5708,Ethnic Wear,Kurta,1903,30,4.5,Delhi,Brand Website,Summer,296
+2023-03-01,SKU8269,Ethnic Wear,Saree,4188,10,4.7,Delhi,Brand Website,Summer,148
+2025-12-23,SKU7141,Ethnic Wear,Kurta,3187,20,4.5,Hyderabad,Myntra,Winter,118
+2024-05-08,SKU3868,Ethnic Wear,Saree,6038,20,3.7,Mumbai,Brand Website,Summer,111
+2023-01-20,SKU5161,Ethnic Wear,Lehenga,9905,10,4.5,Hyderabad,Offline,Winter,70
+2025-05-18,SKU8237,Ethnic Wear,Saree,5024,15,4.8,Bengaluru,Brand Website,Summer,113
+2024-04-30,SKU7302,Ethnic Wear,Kurta,3062,20,4.0,Bhopal,Offline,Summer,101
+2024-07-16,SKU5837,Ethnic Wear,Saree,4033,20,4.8,Mumbai,Brand Website,Monsoon,205
+2024-08-09,SKU1803,Ethnic Wear,Saree,4942,20,4.7,Pune,Brand Website,Monsoon,112
+2023-10-08,SKU4115,Ethnic Wear,Lehenga,8397,25,4.5,Pune,Offline,Winter,154
+2023-09-27,SKU8222,Ethnic Wear,Saree,4369,10,4.0,Mumbai,Brand Website,Monsoon,128
+2025-12-23,SKU4289,Ethnic Wear,Saree,6055,10,4.7,Delhi,Brand Website,Winter,241
+2024-11-24,SKU8894,Ethnic Wear,Lehenga,8471,15,4.9,Bhopal,Offline,Winter,190
+2025-03-24,SKU4696,Ethnic Wear,Lehenga,10282,10,3.6,Bhopal,Brand Website,Summer,31
+2025-01-24,SKU5332,Ethnic Wear,Saree,5073,20,4.1,Pune,Myntra,Winter,164
+2025-08-23,SKU7086,Ethnic Wear,Kurta,1602,20,4.8,Mumbai,Brand Website,Monsoon,227
+2025-08-08,SKU4626,Ethnic Wear,Lehenga,9237,25,4.1,Lucknow,Myntra,Monsoon,43
+2023-07-19,SKU1609,Ethnic Wear,Kurta,2461,20,3.7,Bengaluru,Offline,Monsoon,95
+2023-11-13,SKU9850,Ethnic Wear,Lehenga,9699,25,3.6,Hyderabad,Brand Website,Winter,237
+2025-01-28,SKU7686,Ethnic Wear,Lehenga,8889,15,4.2,Bengaluru,Myntra,Winter,84
+2025-01-04,SKU6942,Ethnic Wear,Saree,4248,15,3.9,Mumbai,Brand Website,Winter,212
+2023-02-13,SKU8450,Ethnic Wear,Kurta,1707,30,4.0,Mumbai,Brand Website,Winter,196
+2024-03-18,SKU4362,Ethnic Wear,Kurta,2454,10,4.7,Mumbai,Brand Website,Summer,233
+2024-05-28,SKU1046,Ethnic Wear,Kurta,2214,0,4.5,Bengaluru,Myntra,Summer,127
+2024-10-25,SKU1243,Ethnic Wear,Lehenga,8064,0,3.9,Bengaluru,Myntra,Winter,127
+2023-05-11,SKU7897,Ethnic Wear,Lehenga,9950,15,4.7,Pune,Myntra,Summer,57
+2023-03-30,SKU2786,Ethnic Wear,Kurta,3635,10,4.2,Hyderabad,Brand Website,Summer,180
+2023-08-10,SKU1996,Ethnic Wear,Saree,6008,25,4.9,Hyderabad,Offline,Monsoon,79
+2023-05-15,SKU2323,Ethnic Wear,Kurta,2016,10,4.4,Bengaluru,Brand Website,Summer,174
+2024-08-26,SKU6327,Ethnic Wear,Lehenga,9858,20,4.4,Hyderabad,Brand Website,Monsoon,48
+2024-03-16,SKU2874,Ethnic Wear,Lehenga,9761,15,4.8,Bhopal,Brand Website,Summer,43
+2023-07-14,SKU8430,Ethnic Wear,Lehenga,9280,15,4.0,Hyderabad,Offline,Monsoon,33
+2023-07-06,SKU3500,Ethnic Wear,Kurta,1849,0,4.1,Lucknow,Offline,Monsoon,91
+2023-05-03,SKU7105,Ethnic Wear,Lehenga,10402,20,4.3,Bhopal,Myntra,Summer,50
+2023-04-16,SKU6793,Ethnic Wear,Saree,5178,20,4.0,Bhopal,Brand Website,Summer,74
+2025-09-14,SKU9313,Ethnic Wear,Lehenga,8918,30,3.7,Delhi,Myntra,Monsoon,83
+2024-04-08,SKU7022,Ethnic Wear,Lehenga,9757,30,4.3,Mumbai,Offline,Summer,69
+2024-07-01,SKU1430,Ethnic Wear,Lehenga,8118,0,3.9,Pune,Brand Website,Monsoon,52
+2023-10-21,SKU6567,Ethnic Wear,Kurta,3819,25,4.1,Bengaluru,Myntra,Winter,173
+2024-03-16,SKU1502,Ethnic Wear,Lehenga,9540,15,4.2,Mumbai,Brand Website,Summer,48
+2023-06-23,SKU6105,Ethnic Wear,Lehenga,8215,0,3.7,Lucknow,Offline,Summer,35
+2025-05-18,SKU2336,Ethnic Wear,Lehenga,9989,20,4.2,Bengaluru,Offline,Summer,41
+2023-08-16,SKU9394,Ethnic Wear,Saree,5160,25,4.5,Mumbai,Offline,Monsoon,114
+2023-04-23,SKU6053,Ethnic Wear,Saree,4031,0,4.0,Mumbai,Myntra,Summer,117
+2024-11-02,SKU3248,Ethnic Wear,Saree,4491,0,4.2,Bhopal,Offline,Winter,268
+2024-04-16,SKU3116,Ethnic Wear,Lehenga,10049,20,4.8,Hyderabad,Brand Website,Summer,70
+2025-06-12,SKU2180,Ethnic Wear,Kurta,1576,15,4.9,Hyderabad,Brand Website,Summer,248
+2025-05-05,SKU8033,Ethnic Wear,Lehenga,9185,0,4.1,Pune,Offline,Summer,44
+2025-01-11,SKU3815,Ethnic Wear,Saree,4360,15,4.8,Bhopal,Brand Website,Winter,126
+2024-09-27,SKU7560,Ethnic Wear,Saree,5390,0,4.0,Pune,Myntra,Monsoon,80
+2025-11-10,SKU9363,Ethnic Wear,Lehenga,8794,30,4.0,Lucknow,Myntra,Winter,286
+2024-06-08,SKU3419,Ethnic Wear,Kurta,2308,0,4.4,Delhi,Myntra,Summer,224
+2025-08-08,SKU2234,Ethnic Wear,Saree,6309,30,4.4,Delhi,Brand Website,Monsoon,161
+2023-11-06,SKU6295,Ethnic Wear,Saree,5801,0,4.2,Bhopal,Brand Website,Winter,285
+2025-11-05,SKU5500,Ethnic Wear,Saree,4303,10,4.2,Pune,Myntra,Winter,335
+2023-07-04,SKU7041,Ethnic Wear,Kurta,3933,20,4.1,Bhopal,Offline,Monsoon,81
+2024-01-21,SKU1672,Ethnic Wear,Lehenga,9316,20,4.2,Hyderabad,Brand Website,Winter,78
+2023-06-22,SKU2013,Ethnic Wear,Saree,6066,25,3.8,Hyderabad,Myntra,Summer,102
+2023-11-22,SKU8172,Ethnic Wear,Lehenga,9490,10,4.9,Hyderabad,Brand Website,Winter,270
+2024-11-16,SKU6543,Ethnic Wear,Kurta,1769,10,3.6,Lucknow,Brand Website,Winter,166
+2023-11-04,SKU5655,Ethnic Wear,Lehenga,9365,0,4.4,Bengaluru,Brand Website,Winter,183
+2025-03-13,SKU6731,Ethnic Wear,Lehenga,8528,20,4.6,Bengaluru,Brand Website,Summer,47
+2025-12-14,SKU7171,Ethnic Wear,Kurta,1882,25,4.5,Lucknow,Offline,Winter,112
+2024-03-14,SKU1298,Ethnic Wear,Kurta,2899,30,4.2,Bengaluru,Offline,Summer,138
+2023-07-27,SKU3253,Ethnic Wear,Saree,6079,30,4.3,Delhi,Myntra,Monsoon,180
+2023-09-26,SKU9626,Ethnic Wear,Saree,6446,15,3.7,Mumbai,Brand Website,Monsoon,87
+2025-04-21,SKU3712,Ethnic Wear,Kurta,2992,25,4.6,Lucknow,Offline,Summer,178
+2024-04-24,SKU5668,Ethnic Wear,Saree,6187,0,4.0,Bhopal,Brand Website,Summer,80
+2025-06-21,SKU8684,Ethnic Wear,Saree,5891,30,3.9,Bhopal,Myntra,Summer,93
+2023-10-11,SKU9641,Ethnic Wear,Kurta,2524,0,4.5,Hyderabad,Myntra,Winter,257
+2024-08-06,SKU2680,Ethnic Wear,Kurta,1843,30,3.7,Lucknow,Brand Website,Monsoon,128
+2024-03-30,SKU9410,Ethnic Wear,Kurta,3347,10,4.9,Delhi,Offline,Summer,178
+2025-03-01,SKU7495,Ethnic Wear,Kurta,1834,10,3.8,Pune,Offline,Summer,115
+2024-11-17,SKU2623,Ethnic Wear,Lehenga,8598,0,3.6,Bhopal,Brand Website,Winter,193
+2025-08-18,SKU8740,Ethnic Wear,Lehenga,9837,20,3.5,Lucknow,Myntra,Monsoon,34
+2025-12-16,SKU5193,Ethnic Wear,Lehenga,9733,0,4.7,Delhi,Myntra,Winter,158
+2025-07-25,SKU2996,Ethnic Wear,Saree,4257,0,4.8,Mumbai,Myntra,Monsoon,160
+2024-05-10,SKU9782,Ethnic Wear,Lehenga,8588,10,4.1,Mumbai,Brand Website,Summer,61
+2023-06-25,SKU4941,Ethnic Wear,Kurta,3644,10,3.6,Pune,Offline,Summer,105
+2023-02-11,SKU9312,Ethnic Wear,Lehenga,9599,30,4.2,Bhopal,Brand Website,Winter,138
+2025-01-01,SKU7116,Ethnic Wear,Kurta,1776,10,3.9,Bengaluru,Brand Website,Winter,118
+2024-11-11,SKU2698,Ethnic Wear,Lehenga,8546,0,4.0,Bhopal,Brand Website,Winter,164
+2024-01-09,SKU8612,Ethnic Wear,Lehenga,8552,0,4.6,Lucknow,Offline,Winter,86
+2024-02-13,SKU1605,Ethnic Wear,Kurta,1671,10,4.9,Bengaluru,Myntra,Winter,152
+2024-01-27,SKU9897,Ethnic Wear,Kurta,2671,10,4.8,Hyderabad,Offline,Winter,92
+2025-06-13,SKU6438,Ethnic Wear,Saree,5638,25,4.2,Bengaluru,Myntra,Summer,159
+2025-10-15,SKU6554,Ethnic Wear,Lehenga,9504,30,4.3,Delhi,Offline,Winter,227
+2024-01-05,SKU7955,Ethnic Wear,Lehenga,10234,10,4.0,Mumbai,Offline,Winter,67
+2025-05-22,SKU5843,Ethnic Wear,Lehenga,8682,25,4.2,Bengaluru,Offline,Summer,49
+2023-04-28,SKU6776,Ethnic Wear,Saree,4307,25,4.5,Pune,Offline,Summer,117
+2025-06-16,SKU3621,Ethnic Wear,Lehenga,8142,0,3.6,Mumbai,Myntra,Summer,61
+2023-03-08,SKU7001,Ethnic Wear,Lehenga,10478,0,4.5,Bengaluru,Offline,Summer,50
+2023-10-09,SKU7095,Ethnic Wear,Lehenga,10168,10,4.1,Hyderabad,Myntra,Winter,175
+2024-01-17,SKU5089,Ethnic Wear,Lehenga,10044,20,4.1,Mumbai,Myntra,Winter,118
+2025-07-02,SKU5288,Ethnic Wear,Lehenga,8878,20,3.9,Bhopal,Offline,Monsoon,37
+2023-06-01,SKU9047,Ethnic Wear,Kurta,3351,0,4.8,Delhi,Myntra,Summer,193
+2024-12-12,SKU2438,Ethnic Wear,Saree,4265,20,4.3,Bhopal,Brand Website,Winter,262
+2023-12-23,SKU3580,Ethnic Wear,Lehenga,9480,20,3.8,Lucknow,Brand Website,Winter,142
+2025-01-09,SKU3275,Ethnic Wear,Kurta,3769,20,4.1,Delhi,Offline,Winter,137
+2024-09-25,SKU3126,Ethnic Wear,Kurta,3130,25,4.6,Pune,Myntra,Monsoon,174
+2023-09-14,SKU7708,Ethnic Wear,Kurta,2798,25,3.6,Bhopal,Brand Website,Monsoon,106
+2024-01-08,SKU9476,Ethnic Wear,Lehenga,8528,15,4.3,Bengaluru,Myntra,Winter,125
+2023-12-04,SKU3034,Ethnic Wear,Saree,4663,10,4.9,Pune,Myntra,Winter,242
+2024-02-07,SKU9501,Ethnic Wear,Saree,6256,10,3.7,Bengaluru,Myntra,Winter,169
+2023-12-12,SKU9740,Ethnic Wear,Lehenga,10424,20,3.7,Mumbai,Brand Website,Winter,164
+2023-02-28,SKU6531,Ethnic Wear,Kurta,1832,0,4.9,Bhopal,Brand Website,Winter,116
+2025-05-03,SKU5336,Ethnic Wear,Lehenga,8124,15,4.8,Lucknow,Myntra,Summer,61
+2025-04-11,SKU5949,Ethnic Wear,Lehenga,9218,15,3.6,Hyderabad,Myntra,Summer,37
+2024-02-22,SKU8202,Ethnic Wear,Saree,5393,20,3.7,Hyderabad,Offline,Winter,231
+2023-09-25,SKU6231,Ethnic Wear,Saree,5517,20,4.3,Lucknow,Offline,Monsoon,67
+2024-05-22,SKU8642,Ethnic Wear,Saree,4577,0,3.6,Mumbai,Offline,Summer,119
+2024-10-02,SKU7850,Ethnic Wear,Saree,4777,30,3.7,Delhi,Myntra,Winter,434
+2023-02-17,SKU8648,Ethnic Wear,Saree,4368,15,4.3,Hyderabad,Offline,Winter,298
+2023-04-14,SKU4524,Ethnic Wear,Kurta,2652,15,4.4,Pune,Offline,Summer,169
+2023-08-09,SKU8710,Ethnic Wear,Kurta,3265,0,4.8,Bengaluru,Brand Website,Monsoon,151
+2023-04-15,SKU7606,Ethnic Wear,Saree,6335,20,3.8,Bengaluru,Myntra,Summer,107
+2024-07-26,SKU2204,Ethnic Wear,Saree,4486,0,5.0,Hyderabad,Brand Website,Monsoon,125
+2024-02-12,SKU6555,Ethnic Wear,Kurta,3967,20,4.1,Pune,Offline,Winter,70
+2025-08-28,SKU1637,Ethnic Wear,Saree,6127,15,3.7,Delhi,Brand Website,Monsoon,134
+2023-11-29,SKU3290,Ethnic Wear,Saree,5609,20,4.6,Bengaluru,Brand Website,Winter,394
+2025-09-30,SKU9311,Ethnic Wear,Lehenga,10305,10,4.2,Bhopal,Brand Website,Monsoon,31
+2024-09-22,SKU6427,Ethnic Wear,Saree,4109,20,4.2,Lucknow,Myntra,Monsoon,154
+2025-12-09,SKU1841,Ethnic Wear,Kurta,3057,0,4.7,Pune,Offline,Winter,82
+2024-10-04,SKU2800,Ethnic Wear,Saree,5715,0,4.1,Delhi,Myntra,Winter,229
+2023-05-08,SKU9221,Ethnic Wear,Saree,4565,20,3.8,Bhopal,Brand Website,Summer,85
+2023-12-21,SKU8837,Ethnic Wear,Saree,5882,20,4.0,Pune,Offline,Winter,170
+2024-05-19,SKU5331,Ethnic Wear,Kurta,2642,20,3.9,Pune,Offline,Summer,163
+2024-02-29,SKU5876,Ethnic Wear,Lehenga,10002,10,4.2,Bhopal,Offline,Winter,102
+2025-02-16,SKU5480,Ethnic Wear,Lehenga,9616,30,4.0,Bengaluru,Myntra,Winter,187
+2023-06-11,SKU3399,Ethnic Wear,Saree,5418,15,4.5,Bengaluru,Myntra,Summer,147
+2024-07-10,SKU4505,Ethnic Wear,Saree,4562,0,4.4,Delhi,Brand Website,Monsoon,142
+2024-04-07,SKU4972,Ethnic Wear,Lehenga,8953,0,3.7,Mumbai,Brand Website,Summer,40
+2023-01-11,SKU8739,Ethnic Wear,Kurta,3754,0,4.1,Mumbai,Brand Website,Winter,128
+2024-08-11,SKU8793,Ethnic Wear,Kurta,2815,10,4.5,Hyderabad,Brand Website,Monsoon,183
+2025-12-31,SKU2465,Ethnic Wear,Kurta,1652,0,4.1,Lucknow,Brand Website,Winter,106
+2024-01-17,SKU1595,Ethnic Wear,Saree,5185,0,3.5,Bhopal,Offline,Winter,79
+2025-12-09,SKU2758,Ethnic Wear,Saree,6023,0,4.8,Bengaluru,Offline,Winter,186
+2023-11-29,SKU4159,Ethnic Wear,Saree,5879,25,3.9,Bhopal,Myntra,Winter,283
+2024-01-31,SKU6523,Ethnic Wear,Lehenga,8718,20,4.8,Bhopal,Offline,Winter,97
+2025-03-31,SKU8007,Ethnic Wear,Kurta,1890,0,5.0,Pune,Offline,Summer,149
+2024-04-27,SKU5064,Ethnic Wear,Saree,5829,30,3.9,Mumbai,Offline,Summer,110
+2024-04-28,SKU1187,Ethnic Wear,Saree,4254,25,3.7,Bengaluru,Brand Website,Summer,108
+2024-09-28,SKU7642,Ethnic Wear,Lehenga,8480,25,4.9,Lucknow,Brand Website,Monsoon,56
+2023-11-10,SKU4618,Ethnic Wear,Saree,5863,25,5.0,Delhi,Myntra,Winter,606
+2024-03-23,SKU9998,Ethnic Wear,Lehenga,9013,25,4.6,Hyderabad,Brand Website,Summer,72
+2025-01-10,SKU2341,Ethnic Wear,Lehenga,8319,20,3.7,Pune,Offline,Winter,90
+2023-11-03,SKU9281,Ethnic Wear,Lehenga,8673,10,4.8,Delhi,Brand Website,Winter,337
+2023-07-06,SKU4365,Ethnic Wear,Saree,6090,15,4.7,Lucknow,Brand Website,Monsoon,98
+2023-04-29,SKU9409,Ethnic Wear,Lehenga,10288,15,4.5,Hyderabad,Offline,Summer,45
+2024-03-22,SKU1356,Ethnic Wear,Kurta,3868,0,3.6,Hyderabad,Offline,Summer,93
+2025-08-24,SKU2044,Ethnic Wear,Kurta,1629,10,4.1,Pune,Myntra,Monsoon,172
+2025-02-12,SKU7887,Ethnic Wear,Saree,5538,0,4.5,Bengaluru,Offline,Winter,202
+2023-08-31,SKU9835,Ethnic Wear,Saree,4731,20,4.1,Delhi,Brand Website,Monsoon,122
+2024-09-03,SKU4648,Ethnic Wear,Kurta,3396,25,4.6,Bhopal,Myntra,Monsoon,138
+2025-08-01,SKU7214,Ethnic Wear,Kurta,2917,0,3.9,Bhopal,Myntra,Monsoon,124
+2023-02-02,SKU2848,Ethnic Wear,Saree,4985,0,3.6,Mumbai,Brand Website,Winter,215
+2023-04-10,SKU8314,Ethnic Wear,Lehenga,9002,25,3.6,Pune,Brand Website,Summer,42
+2025-10-28,SKU9843,Ethnic Wear,Kurta,2684,0,4.7,Delhi,Myntra,Winter,292
+2024-10-18,SKU6224,Ethnic Wear,Lehenga,8970,10,4.8,Pune,Brand Website,Winter,199
+2024-07-17,SKU9540,Ethnic Wear,Saree,4249,20,4.9,Delhi,Offline,Monsoon,162
+2025-10-12,SKU3869,Ethnic Wear,Saree,4192,10,4.9,Lucknow,Brand Website,Winter,289
+2025-04-16,SKU9592,Ethnic Wear,Saree,4611,10,4.1,Bengaluru,Brand Website,Summer,127
+2023-10-23,SKU8758,Ethnic Wear,Saree,5896,0,4.3,Delhi,Myntra,Winter,342
+2024-06-06,SKU9683,Ethnic Wear,Kurta,2332,10,4.5,Delhi,Offline,Summer,225
+2024-01-26,SKU7079,Ethnic Wear,Lehenga,8211,10,4.1,Mumbai,Brand Website,Winter,115
+2024-03-20,SKU1647,Ethnic Wear,Kurta,3463,0,4.8,Bhopal,Myntra,Summer,120
+2023-08-29,SKU1251,Ethnic Wear,Lehenga,9961,0,4.5,Delhi,Myntra,Monsoon,72
+2024-08-02,SKU7498,Ethnic Wear,Saree,5559,15,4.3,Delhi,Brand Website,Monsoon,128
+2025-08-12,SKU5285,Ethnic Wear,Saree,4403,30,5.0,Bengaluru,Brand Website,Monsoon,164
+2025-04-27,SKU6246,Ethnic Wear,Saree,4187,20,4.8,Delhi,Offline,Summer,188
+2025-05-05,SKU1265,Ethnic Wear,Lehenga,9209,0,3.8,Bengaluru,Brand Website,Summer,33
+2024-11-22,SKU5026,Ethnic Wear,Lehenga,9054,30,4.7,Hyderabad,Brand Website,Winter,400
+2024-12-22,SKU9037,Ethnic Wear,Lehenga,8693,0,4.6,Hyderabad,Myntra,Winter,159
+2023-03-11,SKU9882,Ethnic Wear,Lehenga,8304,30,4.5,Lucknow,Myntra,Summer,70
+2023-05-20,SKU7756,Ethnic Wear,Kurta,2118,0,3.8,Delhi,Brand Website,Summer,156
+2025-09-16,SKU1990,Ethnic Wear,Lehenga,9998,0,3.5,Pune,Brand Website,Monsoon,37
+2024-07-16,SKU1194,Ethnic Wear,Lehenga,10194,10,3.5,Mumbai,Brand Website,Monsoon,57
+2023-07-17,SKU8054,Ethnic Wear,Kurta,3647,0,3.9,Bhopal,Myntra,Monsoon,101
+2025-03-23,SKU5135,Ethnic Wear,Saree,4323,10,4.9,Bhopal,Offline,Summer,101
+2023-06-15,SKU4984,Ethnic Wear,Saree,4129,0,4.1,Lucknow,Myntra,Summer,95
+2023-12-17,SKU8798,Ethnic Wear,Kurta,1838,15,4.8,Mumbai,Brand Website,Winter,178
+2024-03-08,SKU2562,Ethnic Wear,Kurta,3821,15,3.9,Pune,Myntra,Summer,168
+2023-03-09,SKU5593,Ethnic Wear,Lehenga,8734,30,4.0,Pune,Brand Website,Summer,64
+2023-06-07,SKU3362,Ethnic Wear,Saree,5225,0,4.3,Bhopal,Brand Website,Summer,85
+2025-02-25,SKU7375,Ethnic Wear,Saree,4573,30,5.0,Lucknow,Brand Website,Winter,315
+2023-07-20,SKU9204,Ethnic Wear,Kurta,3290,0,4.8,Lucknow,Offline,Monsoon,78
+2024-07-13,SKU7499,Ethnic Wear,Kurta,3345,15,3.8,Bhopal,Offline,Monsoon,75
+2025-02-17,SKU7150,Ethnic Wear,Lehenga,8351,30,4.4,Hyderabad,Myntra,Winter,241
+2023-11-12,SKU2344,Ethnic Wear,Saree,5595,10,4.0,Bengaluru,Myntra,Winter,304
+2023-07-29,SKU6050,Ethnic Wear,Saree,4542,0,3.8,Hyderabad,Offline,Monsoon,71
+2023-07-03,SKU9395,Ethnic Wear,Kurta,2949,20,3.6,Hyderabad,Myntra,Monsoon,150
+2024-08-20,SKU6315,Ethnic Wear,Kurta,3194,15,4.7,Bhopal,Offline,Monsoon,102
+2025-02-18,SKU4977,Ethnic Wear,Kurta,2194,0,3.9,Pune,Brand Website,Winter,81
+2024-07-19,SKU3390,Ethnic Wear,Saree,5724,10,4.2,Mumbai,Myntra,Monsoon,105
+2025-10-12,SKU5123,Ethnic Wear,Lehenga,10432,20,3.8,Delhi,Brand Website,Winter,142
+2025-02-17,SKU5991,Ethnic Wear,Saree,5349,15,4.0,Mumbai,Offline,Winter,267
+2024-02-16,SKU3230,Ethnic Wear,Lehenga,9962,10,3.8,Bengaluru,Offline,Winter,104
+2025-10-02,SKU6228,Ethnic Wear,Lehenga,10358,30,3.9,Bengaluru,Brand Website,Winter,151
+2024-02-14,SKU7437,Ethnic Wear,Lehenga,10425,20,3.8,Bengaluru,Myntra,Winter,163
+2024-03-05,SKU1440,Ethnic Wear,Lehenga,9795,30,3.9,Lucknow,Offline,Summer,44
+2024-09-12,SKU7703,Ethnic Wear,Kurta,2491,10,4.5,Lucknow,Offline,Monsoon,104
+2025-09-08,SKU7176,Ethnic Wear,Lehenga,10384,15,4.3,Mumbai,Offline,Monsoon,56
+2023-06-24,SKU7853,Ethnic Wear,Saree,4447,30,3.9,Pune,Myntra,Summer,145
+2025-03-29,SKU3725,Ethnic Wear,Kurta,2858,30,4.1,Lucknow,Brand Website,Summer,112
+2025-11-28,SKU5239,Ethnic Wear,Lehenga,10285,20,4.5,Delhi,Brand Website,Winter,289
+2025-10-21,SKU7129,Ethnic Wear,Lehenga,8617,10,5.0,Hyderabad,Offline,Winter,175
+2023-10-18,SKU5840,Ethnic Wear,Kurta,2926,10,4.0,Hyderabad,Myntra,Winter,234
+2023-07-19,SKU9537,Ethnic Wear,Saree,5794,25,4.5,Hyderabad,Offline,Monsoon,86
+2023-02-16,SKU5919,Ethnic Wear,Kurta,2905,25,3.7,Mumbai,Brand Website,Winter,147
+2023-11-24,SKU4996,Ethnic Wear,Lehenga,9355,20,4.1,Pune,Myntra,Winter,255
+2025-06-04,SKU7636,Ethnic Wear,Kurta,3120,0,4.6,Lucknow,Myntra,Summer,163
+2023-01-10,SKU8365,Ethnic Wear,Saree,4879,0,3.9,Pune,Offline,Winter,114
+2024-01-18,SKU2025,Ethnic Wear,Lehenga,9498,10,3.8,Pune,Myntra,Winter,63
+2025-03-06,SKU9019,Ethnic Wear,Saree,5607,20,3.7,Pune,Brand Website,Summer,89
+2024-09-01,SKU8501,Ethnic Wear,Lehenga,10417,0,4.5,Pune,Myntra,Monsoon,46
+2025-02-03,SKU4908,Ethnic Wear,Kurta,2079,20,4.1,Bengaluru,Myntra,Winter,140
+2023-12-21,SKU7286,Ethnic Wear,Saree,6272,0,4.2,Hyderabad,Myntra,Winter,165
+2023-04-20,SKU6154,Ethnic Wear,Lehenga,9470,0,4.2,Bhopal,Offline,Summer,26
+2025-10-10,SKU7290,Ethnic Wear,Lehenga,9675,25,4.2,Pune,Brand Website,Winter,175
+2023-03-05,SKU8272,Ethnic Wear,Kurta,2403,10,3.5,Hyderabad,Myntra,Summer,126
+2025-10-11,SKU5729,Ethnic Wear,Lehenga,10251,20,3.7,Delhi,Offline,Winter,126
+2023-03-27,SKU9898,Ethnic Wear,Lehenga,9807,20,3.8,Bhopal,Offline,Summer,33
+2024-06-22,SKU5055,Ethnic Wear,Saree,5427,30,4.7,Bengaluru,Myntra,Summer,149
+2024-12-19,SKU2923,Ethnic Wear,Kurta,3999,25,4.1,Bhopal,Myntra,Winter,103
+2024-12-19,SKU4385,Ethnic Wear,Kurta,3680,10,4.4,Bhopal,Myntra,Winter,78
+2025-11-19,SKU5794,Ethnic Wear,Saree,4390,0,4.9,Bengaluru,Brand Website,Winter,503
+2023-09-29,SKU1971,Ethnic Wear,Kurta,2522,0,4.6,Bengaluru,Brand Website,Monsoon,161
+2024-07-04,SKU7434,Ethnic Wear,Lehenga,9696,15,4.2,Hyderabad,Myntra,Monsoon,63
+2024-07-23,SKU2525,Ethnic Wear,Lehenga,9511,15,4.9,Hyderabad,Brand Website,Monsoon,58
+2025-07-27,SKU1040,Ethnic Wear,Kurta,2967,30,3.6,Bhopal,Brand Website,Monsoon,113
+2024-07-03,SKU4568,Ethnic Wear,Saree,5322,30,3.9,Hyderabad,Myntra,Monsoon,138
+2023-04-10,SKU3139,Ethnic Wear,Saree,4188,0,4.4,Pune,Offline,Summer,116
+2025-07-23,SKU1266,Ethnic Wear,Saree,4002,15,3.8,Mumbai,Myntra,Monsoon,164
+2024-07-15,SKU3161,Ethnic Wear,Kurta,1882,25,4.0,Lucknow,Offline,Monsoon,78
+2024-09-17,SKU3711,Ethnic Wear,Lehenga,8959,15,4.5,Mumbai,Offline,Monsoon,53
+2023-09-29,SKU1017,Ethnic Wear,Kurta,3931,0,4.3,Delhi,Offline,Monsoon,99
+2025-05-14,SKU1132,Ethnic Wear,Kurta,2041,15,3.6,Lucknow,Offline,Summer,105
+2024-09-04,SKU2678,Ethnic Wear,Saree,4561,15,4.7,Mumbai,Offline,Monsoon,132
+2023-05-21,SKU3181,Ethnic Wear,Kurta,3672,20,3.5,Lucknow,Brand Website,Summer,117
+2023-11-07,SKU8210,Ethnic Wear,Kurta,3186,20,4.5,Bengaluru,Brand Website,Winter,255
+2025-02-25,SKU2420,Ethnic Wear,Kurta,2939,15,4.0,Mumbai,Myntra,Winter,113
+2024-08-06,SKU5537,Ethnic Wear,Kurta,1609,30,4.8,Lucknow,Myntra,Monsoon,226
+2024-01-22,SKU4366,Ethnic Wear,Lehenga,9604,10,4.5,Pune,Brand Website,Winter,97
+2024-05-08,SKU4921,Ethnic Wear,Kurta,3546,25,4.4,Hyderabad,Offline,Summer,161
+2025-03-03,SKU1197,Ethnic Wear,Kurta,3828,15,4.0,Bengaluru,Offline,Summer,135
+2023-05-19,SKU8717,Ethnic Wear,Kurta,1556,10,3.8,Bhopal,Myntra,Summer,161
+2025-10-23,SKU7520,Ethnic Wear,Lehenga,9701,15,4.6,Pune,Offline,Winter,115
+2024-07-22,SKU9791,Ethnic Wear,Kurta,1842,10,3.6,Pune,Brand Website,Monsoon,145
+2023-05-16,SKU3545,Ethnic Wear,Saree,5270,25,4.2,Pune,Offline,Summer,131
+2025-06-08,SKU4909,Ethnic Wear,Kurta,1975,15,4.4,Mumbai,Myntra,Summer,175
+2023-10-09,SKU3877,Ethnic Wear,Lehenga,8046,0,4.2,Mumbai,Myntra,Winter,184
+2023-12-08,SKU9474,Ethnic Wear,Saree,5523,0,4.6,Bhopal,Brand Website,Winter,204
+2025-05-29,SKU2934,Ethnic Wear,Saree,5114,20,3.6,Bhopal,Myntra,Summer,102
+2025-01-07,SKU2262,Ethnic Wear,Lehenga,8227,15,4.8,Hyderabad,Offline,Winter,89
+2023-08-25,SKU3577,Ethnic Wear,Lehenga,8935,25,4.3,Bengaluru,Myntra,Monsoon,49
+2025-01-15,SKU1201,Ethnic Wear,Saree,5568,0,3.8,Delhi,Myntra,Winter,178
+2025-05-08,SKU1579,Ethnic Wear,Lehenga,8919,10,3.9,Pune,Brand Website,Summer,50
+2025-02-02,SKU6241,Ethnic Wear,Lehenga,8489,20,4.5,Bengaluru,Myntra,Winter,144
+2025-04-01,SKU4656,Ethnic Wear,Kurta,1782,15,4.8,Bhopal,Brand Website,Summer,180
+2025-07-24,SKU6090,Ethnic Wear,Lehenga,8032,10,3.8,Bengaluru,Myntra,Monsoon,59
+2025-08-08,SKU5979,Ethnic Wear,Kurta,3008,20,5.0,Lucknow,Brand Website,Monsoon,187
+2023-11-05,SKU4201,Ethnic Wear,Kurta,1526,15,3.5,Lucknow,Brand Website,Winter,161
+2025-02-09,SKU1157,Ethnic Wear,Lehenga,9259,0,3.8,Bengaluru,Myntra,Winter,149
+2024-07-27,SKU7878,Ethnic Wear,Kurta,1881,0,4.9,Hyderabad,Myntra,Monsoon,212
+2025-07-27,SKU9515,Ethnic Wear,Saree,4347,20,3.6,Hyderabad,Brand Website,Monsoon,95
+2023-05-08,SKU7461,Ethnic Wear,Lehenga,9781,25,4.9,Mumbai,Brand Website,Summer,63
+2024-10-30,SKU5276,Ethnic Wear,Saree,5302,15,3.9,Bhopal,Offline,Winter,134
+2023-11-15,SKU4321,Ethnic Wear,Kurta,1932,0,4.2,Delhi,Brand Website,Winter,206
+2025-07-14,SKU2978,Ethnic Wear,Kurta,2762,15,3.9,Pune,Offline,Monsoon,74
+2023-03-24,SKU3582,Ethnic Wear,Saree,4880,30,4.8,Bhopal,Brand Website,Summer,103
+2023-04-11,SKU5066,Ethnic Wear,Lehenga,9224,10,4.7,Bengaluru,Offline,Summer,39
+2024-05-26,SKU7625,Ethnic Wear,Lehenga,8387,15,3.7,Bhopal,Offline,Summer,40
+2023-09-25,SKU2989,Ethnic Wear,Kurta,2311,30,4.1,Mumbai,Myntra,Monsoon,230
+2023-06-03,SKU2376,Ethnic Wear,Saree,4089,0,3.8,Pune,Brand Website,Summer,102
+2023-03-29,SKU3110,Ethnic Wear,Kurta,3388,0,3.8,Mumbai,Offline,Summer,130
+2025-05-23,SKU7471,Ethnic Wear,Saree,4707,10,3.8,Hyderabad,Myntra,Summer,100
+2024-05-18,SKU5585,Ethnic Wear,Kurta,2708,15,4.1,Hyderabad,Myntra,Summer,180
+2023-10-09,SKU1999,Ethnic Wear,Saree,5717,0,4.5,Mumbai,Offline,Winter,272
+2025-02-22,SKU5082,Ethnic Wear,Kurta,2970,15,4.3,Lucknow,Brand Website,Winter,98
+2024-01-04,SKU9231,Ethnic Wear,Saree,4106,10,4.4,Bengaluru,Offline,Winter,110
+2025-01-02,SKU5602,Ethnic Wear,Lehenga,10392,0,5.0,Mumbai,Offline,Winter,78
+2023-04-25,SKU4951,Ethnic Wear,Lehenga,8898,20,4.8,Bengaluru,Brand Website,Summer,68
+2024-04-29,SKU6813,Ethnic Wear,Kurta,3926,10,4.7,Bhopal,Myntra,Summer,149
+2023-10-19,SKU1462,Ethnic Wear,Saree,6306,0,4.8,Lucknow,Brand Website,Winter,220
+2025-10-01,SKU9064,Ethnic Wear,Kurta,1655,0,3.6,Pune,Offline,Winter,148
+2024-11-10,SKU1326,Ethnic Wear,Kurta,2325,30,3.7,Pune,Offline,Winter,198
+2023-10-18,SKU6301,Ethnic Wear,Kurta,1954,30,4.3,Mumbai,Myntra,Winter,297
+2025-03-21,SKU2188,Ethnic Wear,Lehenga,10400,0,4.0,Bengaluru,Brand Website,Summer,37
+2024-10-11,SKU8157,Ethnic Wear,Saree,4713,25,5.0,Bhopal,Brand Website,Winter,305
+2023-12-26,SKU6846,Ethnic Wear,Lehenga,9549,10,4.6,Delhi,Brand Website,Winter,161
+2025-03-12,SKU3911,Ethnic Wear,Lehenga,10324,0,3.8,Lucknow,Myntra,Summer,33
+2025-10-13,SKU4619,Ethnic Wear,Kurta,2076,10,4.6,Lucknow,Brand Website,Winter,166
+2024-11-18,SKU6234,Ethnic Wear,Kurta,3329,0,3.9,Delhi,Brand Website,Winter,165
+2023-01-03,SKU2110,Ethnic Wear,Kurta,1697,15,4.2,Bengaluru,Offline,Winter,108
+2025-02-07,SKU7783,Ethnic Wear,Saree,4415,30,4.2,Hyderabad,Offline,Winter,314
+2023-03-10,SKU4695,Ethnic Wear,Kurta,2707,0,4.0,Delhi,Offline,Summer,179
+2023-11-26,SKU2215,Ethnic Wear,Saree,4307,20,4.9,Bengaluru,Myntra,Winter,719
+2023-03-05,SKU6536,Ethnic Wear,Saree,5766,25,3.7,Pune,Brand Website,Summer,117
+2024-01-25,SKU1877,Ethnic Wear,Kurta,3176,25,4.3,Mumbai,Offline,Winter,160
+2024-09-01,SKU9849,Ethnic Wear,Saree,4972,0,3.6,Bengaluru,Brand Website,Monsoon,90
+2023-01-08,SKU9043,Ethnic Wear,Saree,5751,0,3.9,Delhi,Myntra,Winter,157
+2024-02-28,SKU8869,Ethnic Wear,Kurta,2199,25,3.9,Delhi,Myntra,Winter,127
+2025-09-28,SKU2892,Ethnic Wear,Saree,5085,0,4.5,Bengaluru,Offline,Monsoon,74
+2025-07-01,SKU7078,Ethnic Wear,Kurta,1682,10,4.2,Hyderabad,Offline,Monsoon,99
+2023-07-18,SKU5400,Ethnic Wear,Kurta,1851,25,4.0,Pune,Myntra,Monsoon,169
+2025-12-06,SKU4727,Ethnic Wear,Saree,5714,20,4.5,Pune,Myntra,Winter,307
+2025-03-19,SKU4860,Ethnic Wear,Kurta,1642,20,4.4,Hyderabad,Offline,Summer,179
+2023-12-09,SKU3415,Ethnic Wear,Kurta,2367,30,3.8,Mumbai,Offline,Winter,100
+2023-10-30,SKU2283,Ethnic Wear,Kurta,3937,10,4.0,Lucknow,Offline,Winter,144
+2025-03-24,SKU2097,Ethnic Wear,Lehenga,10261,10,4.8,Mumbai,Offline,Summer,58
+2025-12-06,SKU1202,Ethnic Wear,Lehenga,9718,0,4.1,Bhopal,Brand Website,Winter,80
+2024-08-08,SKU2641,Ethnic Wear,Kurta,3693,10,4.8,Mumbai,Brand Website,Monsoon,150
+2023-03-18,SKU8955,Ethnic Wear,Saree,4705,10,4.1,Pune,Brand Website,Summer,113
+2024-05-01,SKU7581,Ethnic Wear,Saree,4201,25,4.2,Mumbai,Offline,Summer,130
+2024-09-28,SKU7102,Ethnic Wear,Saree,5148,30,4.2,Mumbai,Offline,Monsoon,122
+2024-09-07,SKU2609,Ethnic Wear,Kurta,3314,30,4.7,Bhopal,Myntra,Monsoon,136
+2024-01-20,SKU7828,Ethnic Wear,Kurta,3309,0,4.9,Pune,Brand Website,Winter,100
+2023-04-26,SKU8937,Ethnic Wear,Saree,6110,30,3.7,Bhopal,Brand Website,Summer,76
+2023-03-01,SKU9303,Ethnic Wear,Lehenga,8711,0,4.8,Hyderabad,Myntra,Summer,49
+2023-04-14,SKU1944,Ethnic Wear,Saree,5476,25,3.8,Delhi,Myntra,Summer,136
+2023-09-11,SKU8605,Ethnic Wear,Lehenga,8125,0,4.1,Pune,Offline,Monsoon,37
+2024-12-17,SKU3909,Ethnic Wear,Lehenga,9410,0,4.8,Bhopal,Offline,Winter,91
+2023-04-12,SKU2480,Ethnic Wear,Saree,4667,30,4.4,Bengaluru,Myntra,Summer,192
+2025-04-18,SKU4688,Ethnic Wear,Saree,6102,0,4.8,Lucknow,Myntra,Summer,120
+2023-12-21,SKU1145,Ethnic Wear,Lehenga,10462,30,3.5,Hyderabad,Myntra,Winter,132
+2024-07-17,SKU6004,Ethnic Wear,Lehenga,9735,15,4.8,Lucknow,Brand Website,Monsoon,50
+2025-12-02,SKU4575,Ethnic Wear,Lehenga,9626,20,3.7,Hyderabad,Offline,Winter,123
+2024-08-01,SKU7131,Ethnic Wear,Lehenga,9222,25,3.7,Pune,Brand Website,Monsoon,37
+2024-06-18,SKU5529,Ethnic Wear,Saree,5223,0,3.7,Lucknow,Offline,Summer,77
+2024-10-16,SKU1930,Ethnic Wear,Saree,4573,25,3.5,Bhopal,Brand Website,Winter,197
+2023-03-14,SKU5250,Ethnic Wear,Saree,6388,25,5.0,Hyderabad,Offline,Summer,143
+2025-12-30,SKU6622,Ethnic Wear,Kurta,3448,25,4.0,Lucknow,Brand Website,Winter,86
+2024-01-06,SKU3785,Ethnic Wear,Lehenga,9203,0,4.2,Bhopal,Brand Website,Winter,69
+2023-07-02,SKU3999,Ethnic Wear,Lehenga,8910,10,3.8,Lucknow,Offline,Monsoon,34
+2024-06-17,SKU7889,Ethnic Wear,Saree,6398,10,4.2,Bhopal,Offline,Summer,57
+2023-05-26,SKU1879,Ethnic Wear,Lehenga,9934,0,4.3,Bhopal,Brand Website,Summer,42
+2023-04-21,SKU7253,Ethnic Wear,Saree,4617,0,5.0,Pune,Offline,Summer,100
+2024-01-05,SKU8496,Ethnic Wear,Lehenga,8331,15,4.0,Delhi,Offline,Winter,128
+2025-07-14,SKU6134,Ethnic Wear,Kurta,2620,0,4.6,Lucknow,Myntra,Monsoon,108
+2025-06-07,SKU3595,Ethnic Wear,Kurta,3258,15,4.1,Hyderabad,Myntra,Summer,166
+2025-02-03,SKU1076,Ethnic Wear,Kurta,1557,10,4.6,Mumbai,Brand Website,Winter,158
+2024-05-24,SKU1293,Ethnic Wear,Lehenga,8926,25,4.8,Lucknow,Myntra,Summer,52
+2024-09-18,SKU2682,Ethnic Wear,Lehenga,8684,0,4.7,Hyderabad,Brand Website,Monsoon,50
+2025-12-09,SKU5764,Ethnic Wear,Lehenga,9383,15,4.8,Hyderabad,Brand Website,Winter,209
+2023-12-04,SKU6615,Ethnic Wear,Kurta,3152,0,3.8,Hyderabad,Offline,Winter,92
+2025-10-30,SKU3149,Ethnic Wear,Kurta,2192,0,4.0,Delhi,Brand Website,Winter,229
+2025-12-31,SKU1612,Ethnic Wear,Saree,4199,20,5.0,Hyderabad,Brand Website,Winter,354
+2025-05-03,SKU1323,Ethnic Wear,Kurta,3319,15,3.7,Mumbai,Brand Website,Summer,137
+2023-01-20,SKU3508,Ethnic Wear,Lehenga,9233,15,4.5,Delhi,Brand Website,Winter,124
+2023-10-08,SKU5423,Ethnic Wear,Lehenga,9715,30,4.8,Pune,Brand Website,Winter,190
+2025-10-16,SKU2928,Ethnic Wear,Kurta,2313,20,3.8,Bengaluru,Myntra,Winter,188
+2025-04-19,SKU9571,Ethnic Wear,Lehenga,9209,0,3.6,Delhi,Offline,Summer,40
+2024-04-25,SKU4402,Ethnic Wear,Saree,4011,0,4.5,Lucknow,Offline,Summer,113
+2023-06-03,SKU9095,Ethnic Wear,Lehenga,8414,10,4.5,Delhi,Myntra,Summer,72
+2023-07-24,SKU5850,Ethnic Wear,Kurta,2215,30,3.6,Bengaluru,Offline,Monsoon,94
+2023-07-14,SKU6123,Ethnic Wear,Kurta,1687,0,4.8,Hyderabad,Brand Website,Monsoon,174
+2024-07-03,SKU3793,Ethnic Wear,Saree,4380,10,4.7,Bengaluru,Offline,Monsoon,81
+2025-02-28,SKU7566,Ethnic Wear,Saree,5958,30,4.1,Hyderabad,Offline,Winter,264
+2023-05-01,SKU3732,Ethnic Wear,Lehenga,8652,0,4.1,Mumbai,Myntra,Summer,59
+2025-01-04,SKU8178,Ethnic Wear,Saree,4118,30,4.5,Delhi,Brand Website,Winter,276
+2025-04-22,SKU3140,Ethnic Wear,Kurta,3305,0,3.6,Hyderabad,Offline,Summer,114
+2024-04-03,SKU9598,Ethnic Wear,Lehenga,9385,20,4.3,Bhopal,Brand Website,Summer,47
+2024-05-24,SKU2560,Ethnic Wear,Lehenga,9973,10,4.5,Hyderabad,Brand Website,Summer,56
+2023-04-22,SKU3435,Ethnic Wear,Lehenga,8047,25,4.9,Bhopal,Brand Website,Summer,59
+2023-06-03,SKU8688,Ethnic Wear,Kurta,3513,10,3.9,Bhopal,Offline,Summer,120
+2025-02-14,SKU1824,Ethnic Wear,Lehenga,9651,30,3.9,Pune,Myntra,Winter,150
+2024-10-09,SKU8341,Ethnic Wear,Saree,4486,15,4.6,Mumbai,Offline,Winter,240
+2023-01-01,SKU7609,Ethnic Wear,Lehenga,8372,30,4.4,Hyderabad,Myntra,Winter,138
+2025-07-23,SKU5990,Ethnic Wear,Kurta,2896,10,4.7,Pune,Brand Website,Monsoon,167
+2025-08-26,SKU8445,Ethnic Wear,Lehenga,9488,25,4.2,Bengaluru,Brand Website,Monsoon,45
+2024-08-20,SKU4633,Ethnic Wear,Saree,6243,20,4.1,Mumbai,Offline,Monsoon,71
+2025-04-18,SKU3689,Ethnic Wear,Lehenga,8438,10,4.4,Hyderabad,Myntra,Summer,51
+2024-11-23,SKU4532,Ethnic Wear,Lehenga,8441,30,4.1,Hyderabad,Myntra,Winter,409
+2025-10-29,SKU3018,Ethnic Wear,Saree,4551,15,3.5,Bhopal,Offline,Winter,185
+2025-11-07,SKU8091,Ethnic Wear,Saree,4725,25,4.4,Bhopal,Brand Website,Winter,436
+2024-10-21,SKU3103,Ethnic Wear,Lehenga,10064,15,4.1,Mumbai,Offline,Winter,169
+2024-08-25,SKU5067,Ethnic Wear,Saree,5854,30,3.7,Bengaluru,Offline,Monsoon,74
+2024-10-04,SKU9393,Ethnic Wear,Lehenga,10267,25,3.8,Bengaluru,Brand Website,Winter,128
+2023-09-29,SKU5760,Ethnic Wear,Lehenga,8728,20,4.3,Lucknow,Offline,Monsoon,39
+2025-09-10,SKU2890,Ethnic Wear,Lehenga,10387,20,4.9,Bhopal,Offline,Monsoon,42
+2025-12-06,SKU9747,Ethnic Wear,Kurta,1936,0,4.1,Bengaluru,Offline,Winter,73
+2024-08-09,SKU1927,Ethnic Wear,Kurta,2526,0,4.8,Delhi,Offline,Monsoon,141
+2025-01-04,SKU5835,Ethnic Wear,Kurta,3353,0,4.4,Delhi,Brand Website,Winter,132
+2025-03-07,SKU4675,Ethnic Wear,Lehenga,8973,20,4.7,Lucknow,Brand Website,Summer,57
+2025-02-20,SKU5712,Ethnic Wear,Kurta,3087,15,4.9,Lucknow,Brand Website,Winter,138
+2024-05-29,SKU6122,Ethnic Wear,Kurta,2331,20,4.8,Pune,Myntra,Summer,238
+2025-01-23,SKU8259,Ethnic Wear,Lehenga,10410,20,4.6,Bhopal,Myntra,Winter,75
+2023-06-02,SKU4170,Ethnic Wear,Kurta,2265,0,4.6,Bengaluru,Offline,Summer,114
+2024-06-25,SKU1665,Ethnic Wear,Lehenga,8532,0,4.4,Hyderabad,Offline,Summer,40
+2023-03-23,SKU6415,Ethnic Wear,Kurta,2129,10,4.4,Hyderabad,Brand Website,Summer,197
+2025-01-03,SKU5934,Ethnic Wear,Lehenga,8298,30,4.6,Hyderabad,Brand Website,Winter,128
+2023-11-23,SKU4012,Ethnic Wear,Lehenga,9703,20,4.3,Pune,Myntra,Winter,217
+2024-11-09,SKU4624,Ethnic Wear,Saree,5477,10,3.8,Delhi,Brand Website,Winter,466
+2023-01-19,SKU9691,Ethnic Wear,Lehenga,8469,25,4.0,Hyderabad,Brand Website,Winter,89
+2025-02-20,SKU4994,Ethnic Wear,Saree,4464,15,3.9,Mumbai,Brand Website,Winter,300
+2025-11-07,SKU1404,Ethnic Wear,Lehenga,9825,15,3.6,Pune,Offline,Winter,218
+2023-07-16,SKU4154,Ethnic Wear,Kurta,2185,30,4.3,Bengaluru,Brand Website,Monsoon,130
+2024-03-12,SKU2072,Ethnic Wear,Lehenga,9737,30,3.7,Delhi,Brand Website,Summer,61
+2023-11-11,SKU8130,Ethnic Wear,Lehenga,8097,15,4.6,Lucknow,Myntra,Winter,224
+2023-05-25,SKU1889,Ethnic Wear,Lehenga,10355,30,3.8,Delhi,Offline,Summer,49
+2025-06-05,SKU7357,Ethnic Wear,Saree,5295,0,4.1,Hyderabad,Brand Website,Summer,81
+2023-05-10,SKU1096,Ethnic Wear,Lehenga,10398,0,4.6,Lucknow,Brand Website,Summer,31
+2024-09-09,SKU9238,Ethnic Wear,Lehenga,10484,0,3.9,Mumbai,Offline,Monsoon,44
+2025-08-28,SKU7249,Ethnic Wear,Kurta,2140,20,3.8,Hyderabad,Brand Website,Monsoon,166
+2024-09-02,SKU9941,Ethnic Wear,Kurta,3028,0,4.3,Bengaluru,Brand Website,Monsoon,128
+2025-03-18,SKU3019,Ethnic Wear,Lehenga,10200,20,4.9,Mumbai,Myntra,Summer,69
+2025-11-15,SKU6633,Ethnic Wear,Lehenga,8583,0,3.8,Delhi,Offline,Winter,243
+2023-04-22,SKU5140,Ethnic Wear,Kurta,3748,15,4.5,Delhi,Myntra,Summer,163
+2025-09-24,SKU2103,Ethnic Wear,Kurta,2855,10,3.7,Bengaluru,Myntra,Monsoon,140
+2024-02-01,SKU2639,Ethnic Wear,Kurta,2801,15,4.2,Bengaluru,Brand Website,Winter,120
+2025-01-16,SKU6008,Ethnic Wear,Kurta,2795,15,3.8,Lucknow,Brand Website,Winter,80
+2025-06-12,SKU4629,Ethnic Wear,Lehenga,9133,30,4.0,Lucknow,Brand Website,Summer,49
+2025-01-04,SKU6432,Ethnic Wear,Saree,5251,15,4.3,Hyderabad,Offline,Winter,116
+2024-02-07,SKU2343,Ethnic Wear,Kurta,2578,25,4.8,Bhopal,Offline,Winter,84
+2023-03-05,SKU1305,Ethnic Wear,Lehenga,10383,20,4.1,Bhopal,Brand Website,Summer,42
+2025-08-24,SKU1600,Ethnic Wear,Lehenga,8608,10,4.1,Pune,Offline,Monsoon,43
+2025-11-11,SKU5767,Ethnic Wear,Lehenga,8370,15,4.0,Delhi,Offline,Winter,217
+2023-12-06,SKU4913,Ethnic Wear,Lehenga,10105,0,4.2,Bhopal,Brand Website,Winter,83
+2025-01-04,SKU3395,Ethnic Wear,Saree,4165,0,4.6,Lucknow,Brand Website,Winter,112
+2024-02-28,SKU7052,Ethnic Wear,Lehenga,10121,30,4.0,Delhi,Myntra,Winter,199
+2024-10-25,SKU8448,Ethnic Wear,Lehenga,8422,25,5.0,Mumbai,Myntra,Winter,299
+2023-12-23,SKU5314,Ethnic Wear,Lehenga,9542,25,4.1,Pune,Brand Website,Winter,148
+2024-04-01,SKU2275,Ethnic Wear,Saree,6115,15,4.0,Pune,Offline,Summer,101
+2023-01-14,SKU8976,Ethnic Wear,Lehenga,10055,0,4.2,Bhopal,Offline,Winter,49
+2023-11-04,SKU9430,Ethnic Wear,Kurta,2265,0,4.0,Lucknow,Offline,Winter,150
+2024-11-07,SKU2938,Ethnic Wear,Saree,4464,15,4.5,Lucknow,Myntra,Winter,430
+2024-05-14,SKU3641,Ethnic Wear,Kurta,1676,0,4.4,Lucknow,Offline,Summer,101
+2023-04-25,SKU9399,Ethnic Wear,Kurta,2181,10,4.9,Mumbai,Brand Website,Summer,219
+2025-08-23,SKU5644,Ethnic Wear,Saree,5972,0,3.8,Mumbai,Myntra,Monsoon,102
+2025-11-12,SKU3338,Ethnic Wear,Kurta,2583,0,4.6,Bhopal,Brand Website,Winter,145
+2024-04-15,SKU8429,Ethnic Wear,Kurta,3049,15,3.7,Pune,Brand Website,Summer,97
+2025-05-09,SKU9564,Ethnic Wear,Lehenga,8612,20,3.6,Bhopal,Brand Website,Summer,37
+2023-08-29,SKU1639,Ethnic Wear,Lehenga,8381,15,4.5,Bhopal,Brand Website,Monsoon,61
+2025-06-02,SKU1019,Ethnic Wear,Lehenga,10138,15,4.1,Bhopal,Brand Website,Summer,30
+2025-02-19,SKU9680,Ethnic Wear,Saree,5435,20,4.7,Hyderabad,Myntra,Winter,358
+2025-09-04,SKU2600,Ethnic Wear,Saree,4952,30,3.6,Hyderabad,Myntra,Monsoon,136
+2023-01-12,SKU9908,Ethnic Wear,Kurta,1529,20,4.3,Hyderabad,Offline,Winter,129
+2024-10-08,SKU7144,Ethnic Wear,Lehenga,9674,10,3.7,Lucknow,Myntra,Winter,117
+2025-01-18,SKU5155,Ethnic Wear,Saree,5128,25,4.1,Bengaluru,Brand Website,Winter,130
+2025-09-17,SKU8904,Ethnic Wear,Lehenga,9039,10,4.4,Delhi,Offline,Monsoon,53
+2023-09-01,SKU7522,Ethnic Wear,Lehenga,8941,15,4.7,Lucknow,Myntra,Monsoon,68
+2024-11-24,SKU2642,Ethnic Wear,Saree,6255,20,4.5,Delhi,Brand Website,Winter,541
+2023-07-06,SKU3633,Ethnic Wear,Kurta,2095,15,4.9,Hyderabad,Brand Website,Monsoon,178
+2023-06-13,SKU2049,Ethnic Wear,Saree,6494,0,4.6,Bengaluru,Myntra,Summer,125
+2024-08-09,SKU7564,Ethnic Wear,Lehenga,10447,0,4.9,Pune,Brand Website,Monsoon,59
+2025-11-27,SKU9099,Ethnic Wear,Kurta,2671,0,3.6,Hyderabad,Myntra,Winter,180
+2023-12-14,SKU9451,Ethnic Wear,Lehenga,8147,10,3.9,Lucknow,Myntra,Winter,100
+2024-12-24,SKU3579,Ethnic Wear,Saree,5618,15,4.4,Mumbai,Offline,Winter,249
+2024-12-13,SKU2124,Ethnic Wear,Saree,5423,30,3.9,Mumbai,Brand Website,Winter,292
+2023-01-10,SKU4187,Ethnic Wear,Lehenga,9069,0,4.1,Hyderabad,Offline,Winter,56
+2023-08-28,SKU2185,Ethnic Wear,Saree,6102,10,4.8,Pune,Offline,Monsoon,91
+2025-09-17,SKU5098,Ethnic Wear,Saree,4996,30,4.0,Lucknow,Offline,Monsoon,89
+2023-08-27,SKU8548,Ethnic Wear,Saree,5056,0,4.1,Pune,Myntra,Monsoon,117
+2024-10-08,SKU4610,Ethnic Wear,Kurta,3189,10,4.3,Lucknow,Brand Website,Winter,123
+2024-12-01,SKU5706,Ethnic Wear,Lehenga,8311,20,4.9,Mumbai,Offline,Winter,202
+2024-01-10,SKU6792,Ethnic Wear,Saree,4778,15,4.6,Delhi,Brand Website,Winter,174
+2024-04-14,SKU4965,Ethnic Wear,Kurta,2330,30,3.9,Bhopal,Offline,Summer,134
+2023-06-10,SKU3555,Ethnic Wear,Kurta,3517,20,3.5,Bhopal,Myntra,Summer,135
+2024-10-07,SKU1692,Ethnic Wear,Saree,6016,20,4.8,Bhopal,Offline,Winter,202
+2023-09-20,SKU9374,Ethnic Wear,Kurta,1721,20,4.7,Bengaluru,Offline,Monsoon,130
+2025-03-17,SKU9859,Ethnic Wear,Saree,4715,15,5.0,Mumbai,Brand Website,Summer,185
+2023-01-25,SKU8537,Ethnic Wear,Kurta,2363,15,4.4,Bengaluru,Brand Website,Winter,112
+2024-04-30,SKU5254,Ethnic Wear,Saree,5103,15,4.9,Delhi,Brand Website,Summer,152
+2025-05-08,SKU4013,Ethnic Wear,Kurta,3024,10,4.8,Hyderabad,Offline,Summer,142
+2024-04-13,SKU3947,Ethnic Wear,Lehenga,8409,25,3.9,Pune,Myntra,Summer,49
+2023-10-26,SKU8081,Ethnic Wear,Kurta,2112,15,4.7,Bhopal,Offline,Winter,147
+2025-12-29,SKU9185,Ethnic Wear,Lehenga,9293,30,4.2,Delhi,Brand Website,Winter,170
+2023-12-01,SKU1781,Ethnic Wear,Lehenga,8245,0,4.7,Hyderabad,Myntra,Winter,173
+2024-06-16,SKU2577,Ethnic Wear,Saree,5478,10,4.3,Hyderabad,Brand Website,Summer,138
+2023-09-06,SKU5222,Ethnic Wear,Saree,5438,30,4.5,Bengaluru,Myntra,Monsoon,155
+2024-10-27,SKU9821,Ethnic Wear,Saree,6090,15,4.7,Delhi,Offline,Winter,276
+2025-08-07,SKU2284,Ethnic Wear,Saree,4593,30,3.8,Hyderabad,Brand Website,Monsoon,150
+2025-04-08,SKU6527,Ethnic Wear,Lehenga,8292,0,3.7,Hyderabad,Brand Website,Summer,37
+2024-07-01,SKU6191,Ethnic Wear,Lehenga,10479,25,4.1,Lucknow,Offline,Monsoon,41
+2025-07-11,SKU6950,Ethnic Wear,Lehenga,9695,0,3.8,Lucknow,Brand Website,Monsoon,27
+2023-06-13,SKU4844,Ethnic Wear,Lehenga,8862,0,4.1,Lucknow,Offline,Summer,26
+2025-12-09,SKU9985,Ethnic Wear,Saree,4340,0,3.9,Mumbai,Myntra,Winter,214
+2024-08-04,SKU7387,Ethnic Wear,Kurta,3315,25,3.7,Bengaluru,Myntra,Monsoon,144
+2024-12-31,SKU3795,Ethnic Wear,Lehenga,9332,30,4.2,Mumbai,Myntra,Winter,252
+2023-10-04,SKU9856,Ethnic Wear,Saree,6208,0,4.4,Bengaluru,Brand Website,Winter,200
+2025-12-29,SKU8126,Ethnic Wear,Lehenga,9268,10,4.2,Pune,Brand Website,Winter,110
+2025-04-24,SKU2467,Ethnic Wear,Saree,5064,0,4.0,Hyderabad,Offline,Summer,68
+2025-12-31,SKU3233,Ethnic Wear,Saree,4034,25,4.9,Bengaluru,Offline,Winter,361
+2024-08-22,SKU8816,Ethnic Wear,Saree,6445,0,4.7,Bengaluru,Myntra,Monsoon,108
+2025-03-19,SKU4089,Ethnic Wear,Saree,5023,0,4.6,Hyderabad,Brand Website,Summer,124
+2025-05-14,SKU7199,Ethnic Wear,Kurta,2481,20,4.6,Delhi,Offline,Summer,247
+2025-12-25,SKU5454,Ethnic Wear,Lehenga,9101,15,3.8,Bengaluru,Brand Website,Winter,99
+2025-07-21,SKU3238,Ethnic Wear,Lehenga,9854,10,4.6,Bengaluru,Myntra,Monsoon,59
+2025-12-31,SKU6253,Ethnic Wear,Kurta,1590,0,5.0,Mumbai,Myntra,Winter,149
+2023-01-17,SKU3048,Ethnic Wear,Lehenga,8953,0,3.7,Lucknow,Offline,Winter,52
+2025-01-30,SKU6601,Ethnic Wear,Saree,5899,25,4.7,Hyderabad,Offline,Winter,140
+2023-05-27,SKU3393,Ethnic Wear,Saree,6224,15,3.8,Mumbai,Offline,Summer,119
+2023-09-07,SKU5097,Ethnic Wear,Kurta,2519,15,4.7,Bhopal,Offline,Monsoon,94
+2023-07-12,SKU1549,Ethnic Wear,Lehenga,10134,25,5.0,Delhi,Offline,Monsoon,59
+2023-03-28,SKU6113,Ethnic Wear,Lehenga,10251,20,3.7,Bengaluru,Myntra,Summer,48
+2024-03-22,SKU5895,Ethnic Wear,Kurta,1962,0,4.4,Delhi,Offline,Summer,155
+2023-09-03,SKU3742,Ethnic Wear,Lehenga,9621,30,3.9,Bhopal,Offline,Monsoon,40
+2025-01-30,SKU8786,Ethnic Wear,Kurta,1866,0,3.7,Lucknow,Brand Website,Winter,64
+2023-05-03,SKU6544,Ethnic Wear,Kurta,2956,25,3.7,Bhopal,Brand Website,Summer,123
+2024-10-10,SKU2759,Ethnic Wear,Kurta,3787,30,4.5,Delhi,Offline,Winter,229
+2025-02-12,SKU8187,Ethnic Wear,Kurta,2967,25,3.7,Lucknow,Myntra,Winter,121
+2024-08-26,SKU8951,Ethnic Wear,Lehenga,10223,25,4.2,Lucknow,Offline,Monsoon,37
+2025-08-17,SKU9906,Ethnic Wear,Lehenga,9127,30,4.7,Bengaluru,Offline,Monsoon,58
+2025-07-09,SKU3627,Ethnic Wear,Kurta,2711,30,3.9,Mumbai,Brand Website,Monsoon,166
+2025-02-15,SKU1011,Ethnic Wear,Lehenga,8759,0,4.4,Bhopal,Brand Website,Winter,101
+2025-03-04,SKU4912,Ethnic Wear,Kurta,2277,20,4.5,Bengaluru,Brand Website,Summer,207
+2025-04-19,SKU3525,Ethnic Wear,Saree,5319,0,3.6,Pune,Offline,Summer,79
+2023-03-06,SKU1717,Ethnic Wear,Kurta,2327,0,4.2,Bhopal,Myntra,Summer,101
+2024-06-08,SKU7366,Ethnic Wear,Lehenga,8201,10,3.8,Lucknow,Offline,Summer,41
+2023-06-13,SKU1214,Ethnic Wear,Saree,5917,30,4.5,Delhi,Brand Website,Summer,146
+2023-04-30,SKU7814,Ethnic Wear,Lehenga,9088,20,3.6,Bhopal,Offline,Summer,25
+2023-07-27,SKU2276,Ethnic Wear,Kurta,2446,20,4.1,Delhi,Brand Website,Monsoon,155
+2025-04-30,SKU5075,Ethnic Wear,Kurta,1932,30,4.5,Pune,Brand Website,Summer,180
+2023-08-02,SKU8515,Ethnic Wear,Saree,4683,30,3.8,Lucknow,Brand Website,Monsoon,101
+2025-06-26,SKU6529,Ethnic Wear,Lehenga,9443,10,4.3,Lucknow,Myntra,Summer,56
+2024-10-24,SKU7090,Ethnic Wear,Saree,6492,0,4.3,Hyderabad,Brand Website,Winter,173
+2025-03-24,SKU5162,Ethnic Wear,Saree,4000,25,3.6,Bengaluru,Offline,Summer,97
+2023-01-14,SKU1267,Ethnic Wear,Saree,5230,0,3.8,Pune,Myntra,Winter,106
+2023-11-13,SKU5521,Ethnic Wear,Lehenga,8386,0,4.2,Pune,Brand Website,Winter,185
+2024-04-22,SKU5341,Ethnic Wear,Kurta,2549,30,4.0,Bengaluru,Brand Website,Summer,178
+2024-10-26,SKU4562,Ethnic Wear,Lehenga,9976,0,4.2,Lucknow,Myntra,Winter,150
+2025-02-20,SKU5921,Ethnic Wear,Lehenga,8321,30,3.6,Mumbai,Brand Website,Winter,203
+2023-09-04,SKU6700,Ethnic Wear,Saree,4928,25,4.5,Bhopal,Offline,Monsoon,85
+2023-03-26,SKU7266,Ethnic Wear,Lehenga,9307,20,4.3,Mumbai,Offline,Summer,51
+2025-03-15,SKU4617,Ethnic Wear,Lehenga,9825,30,4.4,Delhi,Myntra,Summer,78
+2023-10-31,SKU4638,Ethnic Wear,Saree,4541,10,3.6,Hyderabad,Offline,Winter,215
+2023-06-24,SKU1807,Ethnic Wear,Saree,5632,20,4.2,Pune,Offline,Summer,108
+2025-09-26,SKU3209,Ethnic Wear,Kurta,3119,25,4.4,Hyderabad,Brand Website,Monsoon,170
+2024-06-29,SKU9589,Ethnic Wear,Kurta,3261,10,4.5,Delhi,Myntra,Summer,214
+2025-01-18,SKU2843,Ethnic Wear,Saree,5426,0,4.0,Lucknow,Offline,Winter,95
+2024-12-17,SKU1396,Ethnic Wear,Kurta,3311,20,3.7,Bhopal,Offline,Winter,57
+2023-11-16,SKU4825,Ethnic Wear,Saree,4351,0,4.6,Delhi,Brand Website,Winter,443
+2023-08-16,SKU5713,Ethnic Wear,Lehenga,9249,15,4.2,Mumbai,Offline,Monsoon,41
+2025-12-07,SKU9814,Ethnic Wear,Lehenga,9059,20,4.2,Delhi,Myntra,Winter,218
+2023-02-07,SKU3315,Ethnic Wear,Lehenga,9542,20,4.9,Lucknow,Brand Website,Winter,149
+2024-02-16,SKU5185,Ethnic Wear,Saree,5111,0,4.2,Delhi,Myntra,Winter,329
+2025-01-07,SKU2091,Ethnic Wear,Saree,4441,0,3.9,Hyderabad,Brand Website,Winter,155
+2023-07-23,SKU7332,Ethnic Wear,Lehenga,9292,15,4.8,Delhi,Offline,Monsoon,54
+2023-02-14,SKU4054,Ethnic Wear,Saree,4162,0,4.9,Delhi,Brand Website,Winter,284
+2023-02-07,SKU9027,Ethnic Wear,Kurta,2920,25,4.0,Hyderabad,Brand Website,Winter,129
+2024-06-11,SKU4869,Ethnic Wear,Kurta,3085,30,5.0,Pune,Offline,Summer,218
+2025-03-15,SKU5590,Ethnic Wear,Saree,4562,0,4.6,Delhi,Myntra,Summer,157
+2023-11-09,SKU4726,Ethnic Wear,Lehenga,9746,10,4.9,Hyderabad,Myntra,Winter,285
+2023-10-11,SKU9883,Ethnic Wear,Lehenga,10379,20,4.5,Delhi,Myntra,Winter,195
+2025-12-08,SKU3262,Ethnic Wear,Lehenga,8553,15,5.0,Bengaluru,Brand Website,Winter,222
+2024-10-12,SKU3378,Ethnic Wear,Kurta,1777,20,4.3,Lucknow,Brand Website,Winter,221
+2023-03-02,SKU4016,Ethnic Wear,Lehenga,9305,15,4.9,Bengaluru,Myntra,Summer,56
+2023-09-27,SKU5485,Ethnic Wear,Kurta,2256,0,4.6,Delhi,Myntra,Monsoon,200
+2024-04-17,SKU5372,Ethnic Wear,Lehenga,10442,0,3.8,Pune,Brand Website,Summer,28
+2025-10-25,SKU2302,Ethnic Wear,Kurta,3976,15,4.6,Lucknow,Offline,Winter,145
+2023-12-02,SKU7348,Ethnic Wear,Kurta,2291,0,3.5,Hyderabad,Offline,Winter,92
+2024-02-20,SKU1245,Ethnic Wear,Kurta,2337,0,3.8,Bengaluru,Offline,Winter,103
+2024-10-27,SKU8197,Ethnic Wear,Saree,5874,0,4.1,Bhopal,Brand Website,Winter,184
+2025-12-11,SKU6126,Ethnic Wear,Lehenga,8157,20,3.7,Hyderabad,Brand Website,Winter,150
+2025-03-21,SKU1694,Ethnic Wear,Lehenga,8160,20,4.1,Delhi,Brand Website,Summer,79
+2024-09-15,SKU4110,Ethnic Wear,Saree,5171,15,3.7,Bengaluru,Offline,Monsoon,66
+2025-08-07,SKU1893,Ethnic Wear,Kurta,3350,0,4.6,Lucknow,Brand Website,Monsoon,90
+2024-10-24,SKU9952,Ethnic Wear,Saree,5846,0,3.8,Delhi,Offline,Winter,214
+2024-10-25,SKU4308,Ethnic Wear,Saree,4671,25,4.6,Hyderabad,Myntra,Winter,285
+2025-12-08,SKU8362,Ethnic Wear,Kurta,3073,25,4.7,Lucknow,Offline,Winter,107
+2023-03-31,SKU3619,Ethnic Wear,Saree,4699,10,4.3,Hyderabad,Brand Website,Summer,133
+2023-04-16,SKU3459,Ethnic Wear,Kurta,3218,10,4.0,Delhi,Myntra,Summer,209
+2023-08-29,SKU8311,Ethnic Wear,Kurta,2038,0,3.5,Bengaluru,Brand Website,Monsoon,124
+2023-01-12,SKU8514,Ethnic Wear,Lehenga,10490,15,3.9,Hyderabad,Offline,Winter,80
+2023-06-12,SKU8794,Ethnic Wear,Saree,6462,20,3.5,Hyderabad,Offline,Summer,98
+2024-03-01,SKU5556,Ethnic Wear,Lehenga,8200,0,3.7,Pune,Brand Website,Summer,43
+2024-09-03,SKU3381,Ethnic Wear,Lehenga,9356,0,3.6,Bhopal,Myntra,Monsoon,33
+2023-12-30,SKU3920,Ethnic Wear,Saree,5865,25,4.4,Delhi,Brand Website,Winter,362
+2023-05-19,SKU5903,Ethnic Wear,Saree,5750,30,4.3,Bengaluru,Offline,Summer,101
+2024-11-05,SKU3204,Ethnic Wear,Saree,6158,15,4.3,Mumbai,Brand Website,Winter,480
+2025-12-19,SKU1953,Ethnic Wear,Lehenga,8359,15,4.6,Mumbai,Brand Website,Winter,211
+2024-06-15,SKU5705,Ethnic Wear,Saree,6152,20,5.0,Hyderabad,Brand Website,Summer,124
+2025-11-30,SKU3125,Ethnic Wear,Saree,6038,15,4.7,Pune,Brand Website,Winter,466
+2023-01-04,SKU4812,Ethnic Wear,Kurta,1984,0,4.2,Lucknow,Offline,Winter,95
+2025-04-27,SKU4396,Ethnic Wear,Saree,4186,10,4.0,Bhopal,Brand Website,Summer,108
+2024-07-30,SKU4478,Ethnic Wear,Kurta,2542,30,3.6,Mumbai,Brand Website,Monsoon,150
+2024-11-13,SKU6307,Ethnic Wear,Kurta,2898,15,4.6,Bhopal,Myntra,Winter,204
+2024-11-07,SKU1477,Ethnic Wear,Kurta,2884,25,4.2,Bhopal,Myntra,Winter,189
+2023-11-15,SKU1582,Ethnic Wear,Saree,5886,30,4.3,Lucknow,Myntra,Winter,373
+2024-09-05,SKU7782,Ethnic Wear,Lehenga,10314,25,4.5,Lucknow,Myntra,Monsoon,59
+2024-11-10,SKU1306,Ethnic Wear,Lehenga,9448,0,5.0,Delhi,Brand Website,Winter,277
+2025-12-30,SKU1510,Ethnic Wear,Lehenga,8679,20,4.4,Bengaluru,Offline,Winter,123
+2024-10-06,SKU2914,Ethnic Wear,Lehenga,8129,10,4.1,Bhopal,Offline,Winter,121
+2024-03-18,SKU4893,Ethnic Wear,Saree,6150,10,3.8,Bengaluru,Offline,Summer,76
+2023-02-21,SKU4311,Ethnic Wear,Lehenga,9976,20,3.7,Mumbai,Offline,Winter,127
+2024-11-01,SKU8921,Ethnic Wear,Saree,4586,30,4.8,Lucknow,Brand Website,Winter,551
+2023-03-16,SKU9456,Ethnic Wear,Kurta,3381,15,4.6,Lucknow,Myntra,Summer,155
+2023-06-28,SKU1067,Ethnic Wear,Lehenga,9365,15,4.8,Bengaluru,Myntra,Summer,49
+2024-03-05,SKU6119,Ethnic Wear,Saree,5314,0,3.8,Mumbai,Brand Website,Summer,93
+2023-11-02,SKU8227,Ethnic Wear,Saree,4645,10,3.7,Lucknow,Myntra,Winter,413
+2024-12-18,SKU9422,Ethnic Wear,Lehenga,10250,10,3.9,Mumbai,Myntra,Winter,196
+2023-05-26,SKU5641,Ethnic Wear,Kurta,2775,20,4.8,Pune,Myntra,Summer,199
+2023-04-14,SKU1831,Ethnic Wear,Saree,4433,15,3.6,Delhi,Myntra,Summer,136
+2025-07-02,SKU3932,Ethnic Wear,Lehenga,9456,10,4.0,Lucknow,Brand Website,Monsoon,35
+2023-09-27,SKU2286,Ethnic Wear,Lehenga,8380,30,4.7,Bhopal,Offline,Monsoon,48
+2025-08-11,SKU2593,Ethnic Wear,Lehenga,9927,0,4.9,Hyderabad,Offline,Monsoon,33
+2024-11-07,SKU5227,Ethnic Wear,Kurta,2830,15,4.2,Bengaluru,Offline,Winter,141
+2023-12-16,SKU2849,Ethnic Wear,Saree,5156,30,4.0,Bengaluru,Offline,Winter,233
+2023-08-08,SKU9322,Ethnic Wear,Lehenga,9334,20,4.5,Mumbai,Offline,Monsoon,57
+2025-04-26,SKU9728,Ethnic Wear,Lehenga,8977,20,3.9,Hyderabad,Offline,Summer,37
+2024-03-02,SKU8903,Ethnic Wear,Saree,6420,15,4.7,Hyderabad,Myntra,Summer,123
+2023-12-21,SKU6606,Ethnic Wear,Kurta,1819,25,4.9,Pune,Brand Website,Winter,154
+2025-08-06,SKU8972,Ethnic Wear,Lehenga,9332,20,3.6,Mumbai,Brand Website,Monsoon,54
+2023-08-11,SKU6046,Ethnic Wear,Lehenga,10442,30,4.7,Hyderabad,Myntra,Monsoon,69
+2023-01-01,SKU2007,Ethnic Wear,Kurta,2100,25,3.7,Mumbai,Myntra,Winter,151
+2024-02-05,SKU7389,Ethnic Wear,Saree,4842,25,4.8,Pune,Brand Website,Winter,253
+2023-07-02,SKU5989,Ethnic Wear,Saree,6386,0,4.4,Hyderabad,Brand Website,Monsoon,96
+2025-01-26,SKU3089,Ethnic Wear,Kurta,3748,0,3.5,Bhopal,Offline,Winter,58
+2024-04-26,SKU6885,Ethnic Wear,Kurta,3268,25,4.4,Mumbai,Offline,Summer,196
+2024-03-08,SKU7271,Ethnic Wear,Saree,4710,15,3.7,Hyderabad,Offline,Summer,103
+2024-08-13,SKU6902,Ethnic Wear,Kurta,2014,0,3.5,Bhopal,Offline,Monsoon,70
+2025-06-13,SKU3359,Ethnic Wear,Lehenga,8556,0,3.7,Lucknow,Offline,Summer,36
+2025-05-21,SKU8471,Ethnic Wear,Lehenga,8736,15,4.3,Bhopal,Brand Website,Summer,44
+2024-01-16,SKU8373,Ethnic Wear,Kurta,3239,20,3.5,Hyderabad,Offline,Winter,90
+2025-04-21,SKU4878,Ethnic Wear,Saree,6237,20,4.1,Lucknow,Brand Website,Summer,111
+2025-09-13,SKU8917,Ethnic Wear,Kurta,1827,0,4.6,Lucknow,Offline,Monsoon,93
+2025-12-07,SKU5578,Ethnic Wear,Kurta,3998,0,3.9,Hyderabad,Brand Website,Winter,92
+2024-10-01,SKU2279,Ethnic Wear,Lehenga,8216,10,4.3,Lucknow,Brand Website,Winter,110
+2024-11-09,SKU8438,Ethnic Wear,Lehenga,9724,10,4.9,Pune,Offline,Winter,273
+2024-09-14,SKU5738,Ethnic Wear,Lehenga,10308,10,3.6,Delhi,Myntra,Monsoon,56
+2024-08-20,SKU3770,Ethnic Wear,Lehenga,8111,10,4.2,Pune,Myntra,Monsoon,48
+2023-09-29,SKU2259,Ethnic Wear,Saree,5150,10,4.8,Bhopal,Offline,Monsoon,56
+2023-11-06,SKU2827,Ethnic Wear,Lehenga,9829,10,4.7,Pune,Myntra,Winter,240
+2024-12-03,SKU8944,Ethnic Wear,Kurta,1845,0,4.4,Delhi,Brand Website,Winter,159
+2024-05-02,SKU9125,Ethnic Wear,Saree,5802,25,4.5,Bhopal,Offline,Summer,79
+2023-08-26,SKU6653,Ethnic Wear,Saree,4215,0,4.2,Mumbai,Brand Website,Monsoon,128
+2025-02-16,SKU8803,Ethnic Wear,Kurta,3097,15,3.9,Lucknow,Brand Website,Winter,90
+2025-02-21,SKU8122,Ethnic Wear,Saree,5293,20,4.5,Mumbai,Offline,Winter,210
+2024-07-12,SKU9704,Ethnic Wear,Saree,5372,10,3.9,Lucknow,Offline,Monsoon,50
+2024-05-10,SKU7408,Ethnic Wear,Lehenga,10411,30,3.8,Hyderabad,Brand Website,Summer,48
+2023-01-18,SKU6132,Ethnic Wear,Lehenga,8278,0,4.1,Pune,Myntra,Winter,87
+2024-08-03,SKU8306,Ethnic Wear,Lehenga,9031,0,3.6,Bengaluru,Myntra,Monsoon,45
+2023-09-07,SKU1931,Ethnic Wear,Kurta,1991,0,4.8,Pune,Brand Website,Monsoon,117
+2024-06-02,SKU4027,Ethnic Wear,Kurta,2706,15,4.5,Mumbai,Brand Website,Summer,157
+2024-10-24,SKU5528,Ethnic Wear,Lehenga,9054,0,4.7,Bhopal,Offline,Winter,98
+2023-05-04,SKU2022,Ethnic Wear,Saree,5057,30,3.9,Hyderabad,Offline,Summer,112
+2024-01-01,SKU9056,Ethnic Wear,Saree,6015,0,3.7,Delhi,Brand Website,Winter,140
+2025-06-23,SKU4578,Ethnic Wear,Kurta,2560,0,3.6,Pune,Brand Website,Summer,89
+2025-10-16,SKU5105,Ethnic Wear,Kurta,2109,25,4.5,Bhopal,Offline,Winter,222
+2024-11-06,SKU7397,Ethnic Wear,Lehenga,9602,20,3.5,Bengaluru,Myntra,Winter,257
+2023-05-24,SKU9039,Ethnic Wear,Saree,6212,0,3.5,Hyderabad,Offline,Summer,86
+2025-01-05,SKU8898,Ethnic Wear,Lehenga,9365,25,4.0,Mumbai,Brand Website,Winter,83
+2023-06-14,SKU2485,Ethnic Wear,Saree,5882,30,4.6,Bengaluru,Brand Website,Summer,141
+2024-01-27,SKU3893,Ethnic Wear,Saree,5224,25,4.1,Pune,Myntra,Winter,126
+2025-06-15,SKU6886,Ethnic Wear,Lehenga,8776,0,3.6,Hyderabad,Myntra,Summer,33
+2024-09-22,SKU4907,Ethnic Wear,Kurta,3546,20,4.9,Hyderabad,Offline,Monsoon,143
+2024-11-22,SKU1268,Ethnic Wear,Kurta,1675,15,3.7,Mumbai,Offline,Winter,238
+2023-11-02,SKU9570,Ethnic Wear,Lehenga,10373,0,4.9,Hyderabad,Brand Website,Winter,200
+2025-08-23,SKU3319,Ethnic Wear,Kurta,1687,0,4.6,Hyderabad,Brand Website,Monsoon,126
+2023-07-19,SKU3822,Ethnic Wear,Saree,5868,20,3.8,Lucknow,Myntra,Monsoon,99
+2024-03-27,SKU2742,Ethnic Wear,Lehenga,8258,30,3.8,Mumbai,Offline,Summer,55
+2023-10-09,SKU7586,Ethnic Wear,Lehenga,9317,30,4.9,Bengaluru,Myntra,Winter,189
+2023-05-10,SKU1746,Ethnic Wear,Saree,4494,10,3.7,Pune,Myntra,Summer,103
+2024-05-13,SKU7060,Ethnic Wear,Saree,6383,0,3.7,Pune,Myntra,Summer,92
+2025-09-24,SKU7162,Ethnic Wear,Kurta,1830,0,3.5,Bhopal,Myntra,Monsoon,120
+2023-09-17,SKU5648,Ethnic Wear,Saree,4844,0,4.5,Hyderabad,Brand Website,Monsoon,116
+2023-03-19,SKU7750,Ethnic Wear,Lehenga,10442,0,4.6,Delhi,Myntra,Summer,66
+2025-05-07,SKU2442,Ethnic Wear,Saree,4018,20,3.9,Lucknow,Offline,Summer,78
+2025-11-05,SKU9686,Ethnic Wear,Saree,4898,15,4.7,Mumbai,Brand Website,Winter,590
+2025-08-29,SKU1869,Ethnic Wear,Kurta,3537,0,3.7,Delhi,Myntra,Monsoon,166
+2024-03-05,SKU1885,Ethnic Wear,Saree,5780,10,4.0,Lucknow,Offline,Summer,88
+2023-04-18,SKU8424,Ethnic Wear,Lehenga,10201,0,3.7,Mumbai,Myntra,Summer,37
+2025-06-29,SKU9436,Ethnic Wear,Kurta,3927,20,4.0,Mumbai,Myntra,Summer,154
+2024-04-11,SKU6336,Ethnic Wear,Saree,4401,0,4.6,Delhi,Myntra,Summer,187
+2025-09-19,SKU7152,Ethnic Wear,Saree,4222,15,3.7,Delhi,Myntra,Monsoon,180
+2023-10-07,SKU8454,Ethnic Wear,Saree,5874,25,3.8,Delhi,Offline,Winter,237
+2023-03-07,SKU5418,Ethnic Wear,Kurta,3829,0,3.9,Delhi,Offline,Summer,104
+2024-12-04,SKU8627,Ethnic Wear,Kurta,2400,10,4.4,Hyderabad,Offline,Winter,128
+2023-06-27,SKU3784,Ethnic Wear,Kurta,3186,30,4.3,Pune,Brand Website,Summer,198
+2024-07-25,SKU4546,Ethnic Wear,Saree,4059,25,4.1,Pune,Offline,Monsoon,111
+2024-03-31,SKU5060,Ethnic Wear,Lehenga,10423,0,4.9,Bengaluru,Offline,Summer,54
+2025-10-29,SKU7844,Ethnic Wear,Saree,4137,15,4.3,Mumbai,Myntra,Winter,362
+2023-06-20,SKU2605,Ethnic Wear,Kurta,3787,30,3.5,Hyderabad,Offline,Summer,144
+2024-05-04,SKU4571,Ethnic Wear,Saree,4371,0,4.2,Delhi,Offline,Summer,108
+2023-02-19,SKU8524,Ethnic Wear,Lehenga,9863,15,4.7,Bhopal,Brand Website,Winter,152
+2025-08-08,SKU7641,Ethnic Wear,Lehenga,8005,30,4.4,Delhi,Offline,Monsoon,61
+2025-05-22,SKU6454,Ethnic Wear,Saree,5105,25,4.9,Pune,Myntra,Summer,155
+2024-11-18,SKU4393,Ethnic Wear,Kurta,1724,20,4.9,Bhopal,Brand Website,Winter,235
+2025-08-11,SKU1844,Ethnic Wear,Saree,4167,10,4.0,Mumbai,Offline,Monsoon,106
+2023-08-21,SKU4354,Ethnic Wear,Kurta,3459,25,4.9,Delhi,Offline,Monsoon,158
+2024-10-18,SKU4437,Ethnic Wear,Kurta,2944,10,4.3,Bhopal,Brand Website,Winter,151
+2025-07-15,SKU1892,Ethnic Wear,Saree,5991,20,4.3,Mumbai,Offline,Monsoon,78
+2025-07-14,SKU9714,Ethnic Wear,Saree,5507,30,4.5,Lucknow,Brand Website,Monsoon,127
+2023-06-14,SKU2075,Ethnic Wear,Kurta,3100,0,3.9,Delhi,Offline,Summer,169
+2023-10-31,SKU2791,Ethnic Wear,Kurta,3532,0,4.8,Delhi,Offline,Winter,210
+2023-09-28,SKU1371,Ethnic Wear,Lehenga,9941,10,4.1,Bengaluru,Offline,Monsoon,39
+2023-02-15,SKU1351,Ethnic Wear,Kurta,2451,30,4.9,Bengaluru,Myntra,Winter,181
+2024-10-30,SKU7745,Ethnic Wear,Lehenga,9991,20,4.5,Pune,Offline,Winter,151
+2023-09-28,SKU9986,Ethnic Wear,Saree,5255,0,4.7,Hyderabad,Offline,Monsoon,72
+2024-12-24,SKU7093,Ethnic Wear,Kurta,2664,15,4.9,Bengaluru,Myntra,Winter,155
+2024-01-09,SKU3634,Ethnic Wear,Saree,4718,30,4.6,Lucknow,Brand Website,Winter,193
+2023-03-26,SKU3514,Ethnic Wear,Kurta,2796,20,3.7,Delhi,Myntra,Summer,169
+2023-03-13,SKU4022,Ethnic Wear,Lehenga,9298,10,3.7,Delhi,Brand Website,Summer,49
+2023-02-21,SKU3663,Ethnic Wear,Kurta,3157,15,4.7,Pune,Offline,Winter,131
+2025-11-05,SKU3556,Ethnic Wear,Lehenga,9356,25,4.6,Mumbai,Brand Website,Winter,340
+2023-10-29,SKU5748,Ethnic Wear,Lehenga,10315,25,4.9,Bhopal,Brand Website,Winter,154
+2023-10-13,SKU2840,Ethnic Wear,Kurta,3756,0,4.0,Lucknow,Offline,Winter,113
+2024-02-04,SKU6855,Ethnic Wear,Kurta,3889,20,3.8,Mumbai,Offline,Winter,128
+2025-07-01,SKU5553,Ethnic Wear,Kurta,1857,20,4.1,Delhi,Myntra,Monsoon,208
+2025-03-25,SKU9381,Ethnic Wear,Saree,4605,25,4.8,Mumbai,Brand Website,Summer,166
+2024-12-20,SKU7108,Ethnic Wear,Saree,5261,15,4.8,Mumbai,Offline,Winter,221
+2024-08-14,SKU8278,Ethnic Wear,Saree,4670,30,4.6,Lucknow,Offline,Monsoon,112
+2023-06-26,SKU7786,Ethnic Wear,Lehenga,8588,0,4.0,Delhi,Brand Website,Summer,66
+2025-02-08,SKU9606,Ethnic Wear,Lehenga,8362,0,4.1,Bengaluru,Myntra,Winter,173
+2023-10-08,SKU7791,Ethnic Wear,Saree,4816,0,4.7,Delhi,Brand Website,Winter,278
+2024-09-14,SKU1691,Ethnic Wear,Lehenga,10023,20,4.6,Bhopal,Offline,Monsoon,30
+2025-08-25,SKU3523,Ethnic Wear,Lehenga,8508,25,4.5,Bengaluru,Offline,Monsoon,43
+2024-05-16,SKU3938,Ethnic Wear,Lehenga,8116,0,4.6,Hyderabad,Brand Website,Summer,55
+2025-09-11,SKU2093,Ethnic Wear,Saree,6316,15,4.8,Pune,Brand Website,Monsoon,117
+2025-11-15,SKU8799,Ethnic Wear,Saree,6356,0,4.8,Lucknow,Myntra,Winter,275
+2023-10-05,SKU1958,Ethnic Wear,Saree,5463,0,3.6,Delhi,Offline,Winter,188
+2025-12-20,SKU6832,Ethnic Wear,Saree,4314,20,3.8,Mumbai,Offline,Winter,269
+2024-10-22,SKU2548,Ethnic Wear,Lehenga,9295,30,4.8,Pune,Myntra,Winter,237
+2025-01-12,SKU5447,Ethnic Wear,Lehenga,8392,20,4.4,Lucknow,Brand Website,Winter,105
+2025-02-02,SKU1211,Ethnic Wear,Saree,5986,15,4.0,Delhi,Brand Website,Winter,296
+2024-01-21,SKU4569,Ethnic Wear,Kurta,3788,20,4.5,Delhi,Brand Website,Winter,176
+2023-08-22,SKU9717,Ethnic Wear,Lehenga,9709,15,4.9,Lucknow,Brand Website,Monsoon,42
+2024-09-30,SKU3150,Ethnic Wear,Saree,5485,0,4.7,Mumbai,Offline,Monsoon,111
+2023-02-28,SKU6604,Ethnic Wear,Saree,4485,0,3.7,Delhi,Brand Website,Winter,253
+2023-09-24,SKU4712,Ethnic Wear,Kurta,1821,15,4.5,Bengaluru,Myntra,Monsoon,205
+2023-03-29,SKU2273,Ethnic Wear,Saree,4804,0,3.5,Mumbai,Offline,Summer,100
+2023-05-16,SKU8685,Ethnic Wear,Kurta,2735,25,3.5,Mumbai,Offline,Summer,122
+2024-02-14,SKU3028,Ethnic Wear,Lehenga,8756,25,4.0,Pune,Myntra,Winter,125
+2023-11-25,SKU5544,Ethnic Wear,Saree,6050,30,4.6,Pune,Offline,Winter,342
+2025-12-19,SKU2119,Ethnic Wear,Kurta,2388,25,3.8,Mumbai,Brand Website,Winter,122
+2024-03-14,SKU9800,Ethnic Wear,Kurta,3565,30,4.6,Mumbai,Brand Website,Summer,200
+2024-01-06,SKU4033,Ethnic Wear,Kurta,2953,15,4.1,Hyderabad,Brand Website,Winter,115
+2025-08-12,SKU7677,Ethnic Wear,Kurta,1951,20,3.7,Mumbai,Offline,Monsoon,136
+2023-06-18,SKU5723,Ethnic Wear,Kurta,2843,15,3.7,Pune,Brand Website,Summer,117
+2024-08-18,SKU8273,Ethnic Wear,Saree,5752,0,4.8,Delhi,Brand Website,Monsoon,157
+2025-10-03,SKU7020,Ethnic Wear,Lehenga,8430,15,4.2,Delhi,Myntra,Winter,242
+2025-03-31,SKU2392,Ethnic Wear,Saree,6418,0,4.6,Mumbai,Myntra,Summer,147
+2024-11-24,SKU3764,Ethnic Wear,Kurta,2320,20,4.8,Mumbai,Offline,Winter,253
+2025-10-19,SKU4815,Ethnic Wear,Lehenga,9140,30,4.6,Bhopal,Offline,Winter,147
+2024-12-30,SKU5472,Ethnic Wear,Saree,5948,25,4.4,Bhopal,Brand Website,Winter,187
+2025-07-20,SKU8938,Ethnic Wear,Kurta,1942,0,3.9,Pune,Offline,Monsoon,85
+2023-04-19,SKU3205,Ethnic Wear,Lehenga,8279,15,4.5,Mumbai,Myntra,Summer,93
+2023-11-09,SKU7269,Ethnic Wear,Saree,5240,20,4.4,Pune,Brand Website,Winter,470
+2024-02-18,SKU9518,Ethnic Wear,Saree,5202,25,4.2,Bhopal,Offline,Winter,185
+2023-02-06,SKU9887,Ethnic Wear,Lehenga,8129,15,4.8,Bengaluru,Brand Website,Winter,148
+2025-07-30,SKU8374,Ethnic Wear,Saree,4147,0,3.8,Bengaluru,Offline,Monsoon,78
+2025-06-01,SKU5965,Ethnic Wear,Saree,4550,10,4.6,Lucknow,Myntra,Summer,119
+2025-08-20,SKU2792,Ethnic Wear,Saree,5949,20,4.8,Pune,Brand Website,Monsoon,120
+2025-02-12,SKU7412,Ethnic Wear,Lehenga,9444,30,5.0,Bengaluru,Offline,Winter,156
+2025-01-20,SKU1461,Ethnic Wear,Kurta,2928,30,4.6,Pune,Myntra,Winter,111
+2024-12-07,SKU6591,Ethnic Wear,Saree,5463,15,4.0,Hyderabad,Myntra,Winter,261
+2023-06-23,SKU5056,Ethnic Wear,Saree,4268,30,4.0,Delhi,Brand Website,Summer,152
+2025-08-01,SKU1322,Ethnic Wear,Kurta,3230,20,4.3,Pune,Offline,Monsoon,98
+2023-02-15,SKU1334,Ethnic Wear,Lehenga,9296,15,4.4,Lucknow,Offline,Winter,105
+2024-02-26,SKU2601,Ethnic Wear,Kurta,2876,15,4.3,Bhopal,Offline,Winter,97
+2025-01-14,SKU6563,Ethnic Wear,Saree,5785,0,4.2,Delhi,Brand Website,Winter,168
+2023-04-08,SKU9779,Ethnic Wear,Saree,5217,20,4.1,Delhi,Offline,Summer,112
+2024-11-20,SKU2506,Ethnic Wear,Kurta,2619,0,4.3,Lucknow,Brand Website,Winter,158
+2024-09-10,SKU7997,Ethnic Wear,Kurta,3567,30,3.9,Delhi,Offline,Monsoon,135
+2024-05-29,SKU6133,Ethnic Wear,Saree,6110,15,4.5,Delhi,Offline,Summer,127
+2024-01-18,SKU1304,Ethnic Wear,Lehenga,10362,15,3.8,Lucknow,Brand Website,Winter,84
+2025-06-07,SKU8656,Ethnic Wear,Lehenga,10318,25,4.4,Bengaluru,Brand Website,Summer,56
+2023-11-05,SKU6968,Ethnic Wear,Kurta,2729,30,4.2,Hyderabad,Myntra,Winter,235
+2024-06-30,SKU2055,Ethnic Wear,Saree,5175,25,3.7,Lucknow,Myntra,Summer,113
+2023-11-04,SKU4868,Ethnic Wear,Kurta,2286,0,3.9,Hyderabad,Myntra,Winter,222
+2025-05-14,SKU8604,Ethnic Wear,Saree,4151,0,3.7,Hyderabad,Brand Website,Summer,83
+2023-12-27,SKU5233,Ethnic Wear,Lehenga,8172,25,4.2,Bhopal,Offline,Winter,98
+2023-05-11,SKU2375,Ethnic Wear,Saree,5667,10,4.5,Bengaluru,Brand Website,Summer,133
+2024-04-28,SKU7502,Ethnic Wear,Kurta,1958,20,4.6,Bhopal,Brand Website,Summer,190
+2024-05-30,SKU9551,Ethnic Wear,Lehenga,10033,0,3.9,Lucknow,Brand Website,Summer,27
+2025-03-09,SKU6395,Ethnic Wear,Lehenga,8966,15,3.8,Bhopal,Brand Website,Summer,29
+2024-06-04,SKU4507,Ethnic Wear,Saree,6414,0,4.2,Bengaluru,Offline,Summer,74
+2025-08-30,SKU2850,Ethnic Wear,Saree,5009,10,4.8,Bengaluru,Brand Website,Monsoon,155
+2024-09-23,SKU6947,Ethnic Wear,Saree,4086,25,5.0,Hyderabad,Brand Website,Monsoon,181
+2024-06-02,SKU1895,Ethnic Wear,Kurta,3763,15,4.0,Lucknow,Brand Website,Summer,146
+2025-12-31,SKU6945,Ethnic Wear,Kurta,2468,30,4.2,Bhopal,Brand Website,Winter,81
+2024-04-27,SKU7438,Ethnic Wear,Kurta,2718,0,4.8,Bengaluru,Offline,Summer,118
+2025-04-12,SKU8190,Ethnic Wear,Lehenga,8138,10,4.8,Lucknow,Offline,Summer,55
+2024-11-12,SKU9055,Ethnic Wear,Saree,5730,30,3.7,Hyderabad,Brand Website,Winter,327
+2025-05-11,SKU5275,Ethnic Wear,Saree,6466,25,4.7,Pune,Myntra,Summer,141
+2024-01-12,SKU8426,Ethnic Wear,Kurta,3316,30,4.5,Lucknow,Myntra,Winter,93
+2023-06-18,SKU4278,Ethnic Wear,Saree,4453,0,3.9,Lucknow,Offline,Summer,86
+2025-04-20,SKU3131,Ethnic Wear,Lehenga,9308,15,4.2,Bhopal,Brand Website,Summer,44
+2024-11-01,SKU5270,Ethnic Wear,Lehenga,9154,0,3.6,Delhi,Brand Website,Winter,209
+2023-02-12,SKU7447,Ethnic Wear,Kurta,1594,20,4.5,Hyderabad,Brand Website,Winter,155
+2023-12-12,SKU2457,Ethnic Wear,Saree,4203,15,4.4,Hyderabad,Myntra,Winter,316
+2023-08-29,SKU3445,Ethnic Wear,Kurta,1557,25,4.3,Mumbai,Offline,Monsoon,170
+2023-08-31,SKU8433,Ethnic Wear,Saree,4919,25,3.8,Bhopal,Brand Website,Monsoon,115
+2025-02-21,SKU5361,Ethnic Wear,Saree,4533,15,4.8,Bengaluru,Brand Website,Winter,293
+2025-05-06,SKU5636,Ethnic Wear,Kurta,2238,15,4.7,Lucknow,Brand Website,Summer,121
+2024-05-23,SKU5289,Ethnic Wear,Saree,5514,20,4.5,Delhi,Brand Website,Summer,148
+2025-03-25,SKU1169,Ethnic Wear,Saree,4869,25,4.1,Hyderabad,Myntra,Summer,137
+2023-05-01,SKU5198,Ethnic Wear,Lehenga,8213,10,4.9,Mumbai,Myntra,Summer,78
+2023-04-04,SKU6804,Ethnic Wear,Lehenga,8021,10,4.3,Pune,Brand Website,Summer,50
+2023-03-26,SKU7466,Ethnic Wear,Kurta,3877,0,3.9,Lucknow,Offline,Summer,90
+2024-10-11,SKU6557,Ethnic Wear,Kurta,3672,15,3.7,Hyderabad,Myntra,Winter,150
+2025-01-08,SKU1723,Ethnic Wear,Saree,5761,10,4.9,Delhi,Offline,Winter,148
+2023-12-04,SKU5321,Ethnic Wear,Saree,5292,25,5.0,Pune,Offline,Winter,288
+2025-06-20,SKU3478,Ethnic Wear,Lehenga,8217,0,3.7,Pune,Brand Website,Summer,35
+2025-08-14,SKU1587,Ethnic Wear,Kurta,3287,0,5.0,Hyderabad,Offline,Monsoon,130
+2025-09-20,SKU1668,Ethnic Wear,Lehenga,9874,15,3.7,Hyderabad,Offline,Monsoon,39
+2024-02-22,SKU3425,Ethnic Wear,Kurta,2663,0,4.8,Mumbai,Offline,Winter,138
+2024-03-10,SKU5469,Ethnic Wear,Lehenga,10390,0,4.3,Pune,Brand Website,Summer,43
+2023-07-13,SKU7822,Ethnic Wear,Saree,5346,0,3.9,Mumbai,Myntra,Monsoon,145
+2023-08-06,SKU2998,Ethnic Wear,Lehenga,9325,0,3.5,Hyderabad,Offline,Monsoon,28
+2023-01-12,SKU8861,Ethnic Wear,Saree,5349,0,4.5,Hyderabad,Brand Website,Winter,168
+2023-09-22,SKU6323,Ethnic Wear,Lehenga,8865,30,3.6,Lucknow,Brand Website,Monsoon,48
+2023-05-25,SKU6294,Ethnic Wear,Lehenga,10241,20,4.1,Bhopal,Myntra,Summer,42
+2023-02-12,SKU3916,Ethnic Wear,Kurta,2352,0,4.1,Delhi,Offline,Winter,106
+2024-09-27,SKU2975,Ethnic Wear,Saree,6471,0,4.0,Bengaluru,Offline,Monsoon,47
+2025-09-02,SKU4274,Ethnic Wear,Saree,5099,20,4.4,Hyderabad,Offline,Monsoon,76
+2024-01-17,SKU7922,Ethnic Wear,Lehenga,9778,25,4.1,Bhopal,Offline,Winter,53
+2023-11-14,SKU6599,Ethnic Wear,Kurta,3528,20,4.4,Hyderabad,Brand Website,Winter,217
+2025-09-05,SKU5762,Ethnic Wear,Kurta,2730,0,5.0,Hyderabad,Offline,Monsoon,123
+2023-04-08,SKU5073,Ethnic Wear,Saree,6256,0,4.9,Pune,Offline,Summer,90
+2025-08-09,SKU9366,Ethnic Wear,Kurta,3828,30,3.9,Hyderabad,Offline,Monsoon,91
+2023-08-22,SKU2339,Ethnic Wear,Kurta,3395,0,4.7,Bhopal,Brand Website,Monsoon,126
+2024-09-01,SKU1741,Ethnic Wear,Lehenga,9285,20,4.6,Mumbai,Offline,Monsoon,58
+2024-01-19,SKU8371,Ethnic Wear,Saree,4864,0,3.6,Pune,Offline,Winter,118
+2025-06-07,SKU5248,Ethnic Wear,Kurta,3688,0,3.5,Bhopal,Brand Website,Summer,69
+2025-04-09,SKU3813,Ethnic Wear,Saree,6465,25,4.2,Lucknow,Offline,Summer,90
+2025-03-19,SKU6910,Ethnic Wear,Lehenga,9239,0,3.7,Lucknow,Brand Website,Summer,24
+2024-01-21,SKU2833,Ethnic Wear,Lehenga,8109,0,4.2,Bhopal,Myntra,Winter,64
+2024-01-26,SKU4961,Ethnic Wear,Lehenga,8352,10,4.7,Hyderabad,Brand Website,Winter,89
+2023-11-09,SKU7912,Ethnic Wear,Kurta,3323,15,4.2,Mumbai,Myntra,Winter,290
+2025-03-13,SKU4975,Ethnic Wear,Lehenga,8208,10,3.5,Delhi,Offline,Summer,52
+2024-08-18,SKU8074,Ethnic Wear,Lehenga,8151,15,4.1,Hyderabad,Offline,Monsoon,44
+2025-12-17,SKU8993,Ethnic Wear,Kurta,1577,15,4.4,Delhi,Brand Website,Winter,165
+2023-08-28,SKU5388,Ethnic Wear,Saree,6026,20,4.9,Lucknow,Offline,Monsoon,74
+2024-01-29,SKU8147,Ethnic Wear,Saree,5922,10,4.2,Mumbai,Myntra,Winter,164
+2025-08-17,SKU6556,Ethnic Wear,Lehenga,8537,10,4.6,Pune,Brand Website,Monsoon,53
+2025-01-07,SKU7829,Ethnic Wear,Lehenga,9934,30,5.0,Bhopal,Brand Website,Winter,80
+2023-06-26,SKU4394,Ethnic Wear,Lehenga,9977,0,3.8,Bengaluru,Brand Website,Summer,31
+2024-09-13,SKU9063,Ethnic Wear,Saree,4961,0,4.3,Mumbai,Offline,Monsoon,112
+2023-11-21,SKU6878,Ethnic Wear,Lehenga,8715,30,4.8,Bengaluru,Offline,Winter,302
+2024-04-09,SKU2043,Ethnic Wear,Kurta,1994,20,3.8,Bengaluru,Offline,Summer,126
+2024-07-01,SKU6575,Ethnic Wear,Kurta,2119,30,4.5,Bhopal,Offline,Monsoon,109
+2025-07-25,SKU2706,Ethnic Wear,Saree,4454,0,4.7,Lucknow,Myntra,Monsoon,119
+2025-11-04,SKU2669,Ethnic Wear,Kurta,1931,0,4.4,Bhopal,Brand Website,Winter,188
+2025-06-23,SKU3572,Ethnic Wear,Lehenga,10072,15,4.6,Lucknow,Offline,Summer,33
+2024-02-18,SKU6959,Ethnic Wear,Kurta,3298,15,4.7,Bengaluru,Myntra,Winter,100
+2023-12-17,SKU8760,Ethnic Wear,Lehenga,8349,10,4.1,Bengaluru,Offline,Winter,148
+2023-11-07,SKU6908,Ethnic Wear,Kurta,3669,15,4.7,Lucknow,Brand Website,Winter,146
+2025-11-23,SKU8025,Ethnic Wear,Saree,5481,0,4.2,Hyderabad,Offline,Winter,365
+2025-04-02,SKU2140,Ethnic Wear,Saree,4673,15,3.6,Mumbai,Offline,Summer,125
+2025-11-30,SKU3473,Ethnic Wear,Lehenga,9211,15,4.1,Pune,Myntra,Winter,272
+2024-12-05,SKU5986,Ethnic Wear,Saree,4032,30,3.9,Lucknow,Brand Website,Winter,235
+2024-02-25,SKU3406,Ethnic Wear,Saree,6229,20,4.7,Lucknow,Offline,Winter,202
+2024-02-09,SKU6656,Ethnic Wear,Saree,5235,0,3.6,Bhopal,Brand Website,Winter,127
+2024-03-13,SKU3064,Ethnic Wear,Saree,4380,20,4.3,Pune,Brand Website,Summer,127
+2024-06-13,SKU1383,Ethnic Wear,Lehenga,8988,30,4.7,Mumbai,Brand Website,Summer,81
+2025-02-02,SKU9278,Ethnic Wear,Kurta,2563,25,4.3,Mumbai,Brand Website,Winter,124
+2023-01-11,SKU3043,Ethnic Wear,Lehenga,9856,10,5.0,Hyderabad,Offline,Winter,109
+2024-12-18,SKU9737,Ethnic Wear,Kurta,2725,10,4.5,Bhopal,Brand Website,Winter,111
+2024-05-22,SKU3293,Ethnic Wear,Lehenga,8431,10,4.3,Lucknow,Offline,Summer,34
+2025-05-21,SKU6919,Ethnic Wear,Kurta,3187,0,3.6,Hyderabad,Myntra,Summer,124
+2023-06-09,SKU3130,Ethnic Wear,Saree,5512,25,4.3,Hyderabad,Myntra,Summer,146
+2025-10-18,SKU9502,Ethnic Wear,Saree,5734,15,4.5,Bhopal,Offline,Winter,231
+2025-11-01,SKU7830,Ethnic Wear,Kurta,2020,15,4.6,Bhopal,Myntra,Winter,169
+2024-03-11,SKU9408,Ethnic Wear,Kurta,3365,15,3.5,Bhopal,Brand Website,Summer,84
+2023-08-14,SKU7051,Ethnic Wear,Saree,4495,10,4.4,Mumbai,Brand Website,Monsoon,111
+2025-02-05,SKU3511,Ethnic Wear,Saree,5242,10,4.2,Mumbai,Offline,Winter,268
+2023-04-10,SKU3328,Ethnic Wear,Saree,5249,10,3.8,Bhopal,Brand Website,Summer,93
+2024-12-15,SKU9008,Ethnic Wear,Lehenga,8276,30,3.6,Mumbai,Myntra,Winter,194
+2025-02-11,SKU6074,Ethnic Wear,Saree,5946,30,4.6,Pune,Offline,Winter,239
+2025-07-10,SKU3269,Ethnic Wear,Saree,5839,0,4.8,Pune,Brand Website,Monsoon,92
+2024-11-25,SKU7711,Ethnic Wear,Saree,6215,0,4.9,Hyderabad,Myntra,Winter,496
+2023-02-20,SKU2450,Ethnic Wear,Lehenga,10342,25,4.7,Bhopal,Myntra,Winter,168
+2023-04-19,SKU2395,Ethnic Wear,Lehenga,10335,20,3.8,Delhi,Brand Website,Summer,56
+2023-02-08,SKU2970,Ethnic Wear,Kurta,2626,30,3.8,Lucknow,Brand Website,Winter,119
+2024-10-18,SKU2386,Ethnic Wear,Lehenga,9645,20,3.6,Bhopal,Brand Website,Winter,132
+2025-04-29,SKU1381,Ethnic Wear,Kurta,1598,30,4.3,Bengaluru,Offline,Summer,170
+2023-12-11,SKU2491,Ethnic Wear,Lehenga,9168,0,3.8,Mumbai,Myntra,Winter,161
+2023-12-13,SKU3526,Ethnic Wear,Lehenga,8241,20,4.9,Bengaluru,Offline,Winter,147
+2023-10-19,SKU5882,Ethnic Wear,Saree,5690,10,3.9,Hyderabad,Myntra,Winter,294
+2024-04-29,SKU2981,Ethnic Wear,Kurta,3519,20,4.6,Mumbai,Myntra,Summer,205
+2025-08-09,SKU2885,Ethnic Wear,Saree,6265,15,3.6,Bengaluru,Myntra,Monsoon,72
+2023-07-27,SKU4829,Ethnic Wear,Lehenga,9008,30,4.3,Mumbai,Offline,Monsoon,59
+2025-10-21,SKU7664,Ethnic Wear,Lehenga,8833,30,5.0,Hyderabad,Myntra,Winter,226
+2025-05-17,SKU3755,Ethnic Wear,Lehenga,10273,15,3.6,Bhopal,Myntra,Summer,43
+2023-05-04,SKU5739,Ethnic Wear,Kurta,3475,10,4.4,Lucknow,Myntra,Summer,163
+2025-11-11,SKU7228,Ethnic Wear,Kurta,2652,0,3.7,Bengaluru,Brand Website,Winter,157
+2023-09-09,SKU2145,Ethnic Wear,Saree,4572,25,4.3,Bengaluru,Myntra,Monsoon,131
+2024-10-13,SKU8077,Ethnic Wear,Lehenga,9403,25,3.9,Delhi,Brand Website,Winter,214
+2024-10-20,SKU8417,Ethnic Wear,Lehenga,9399,0,4.2,Bengaluru,Myntra,Winter,152
+2023-01-05,SKU1260,Ethnic Wear,Lehenga,10493,15,3.5,Lucknow,Myntra,Winter,51
+2025-09-28,SKU3843,Ethnic Wear,Lehenga,9608,20,3.6,Hyderabad,Brand Website,Monsoon,58
+2025-06-30,SKU2270,Ethnic Wear,Lehenga,8505,10,5.0,Pune,Myntra,Summer,59
+2023-01-18,SKU6864,Ethnic Wear,Lehenga,8511,15,4.1,Hyderabad,Myntra,Winter,89
+2024-07-29,SKU1153,Ethnic Wear,Kurta,2965,0,3.6,Delhi,Brand Website,Monsoon,135
+2024-04-24,SKU5967,Ethnic Wear,Kurta,3522,10,3.6,Bhopal,Brand Website,Summer,98
+2025-03-22,SKU4425,Ethnic Wear,Lehenga,8454,30,3.9,Mumbai,Myntra,Summer,72
+2023-12-26,SKU4174,Ethnic Wear,Lehenga,8267,20,3.7,Lucknow,Brand Website,Winter,97
+2024-07-15,SKU5253,Ethnic Wear,Lehenga,8785,30,4.5,Pune,Myntra,Monsoon,85
+2025-07-18,SKU9731,Ethnic Wear,Lehenga,8008,15,4.5,Pune,Offline,Monsoon,55
+2025-04-13,SKU1849,Ethnic Wear,Saree,5122,0,4.5,Bhopal,Offline,Summer,78
+2024-04-04,SKU6922,Ethnic Wear,Lehenga,8192,10,4.9,Pune,Myntra,Summer,65
+2024-11-16,SKU6181,Ethnic Wear,Kurta,1835,20,4.7,Mumbai,Offline,Winter,336
+2023-12-03,SKU7943,Ethnic Wear,Kurta,2848,10,3.6,Mumbai,Myntra,Winter,127
+2024-11-15,SKU1456,Ethnic Wear,Kurta,2525,0,3.7,Hyderabad,Offline,Winter,129
+2025-11-30,SKU6583,Ethnic Wear,Saree,4969,0,4.7,Bhopal,Myntra,Winter,377
+2023-09-13,SKU2567,Ethnic Wear,Lehenga,8350,0,4.9,Lucknow,Offline,Monsoon,34
+2025-06-24,SKU2065,Ethnic Wear,Kurta,1724,10,4.4,Bhopal,Myntra,Summer,147
+2023-04-17,SKU2668,Ethnic Wear,Lehenga,9207,30,4.1,Lucknow,Myntra,Summer,40
+2023-01-22,SKU4819,Ethnic Wear,Lehenga,9857,15,4.2,Bhopal,Brand Website,Winter,69
+2023-02-23,SKU2659,Ethnic Wear,Lehenga,9859,20,4.0,Bengaluru,Brand Website,Winter,117
+2023-09-16,SKU2106,Ethnic Wear,Lehenga,10084,10,4.0,Pune,Myntra,Monsoon,49
+2023-04-01,SKU8284,Ethnic Wear,Kurta,1747,0,4.0,Delhi,Myntra,Summer,182
+2023-10-26,SKU6861,Ethnic Wear,Lehenga,8603,15,4.0,Bengaluru,Brand Website,Winter,143
+2023-10-24,SKU7042,Ethnic Wear,Lehenga,8234,0,4.3,Mumbai,Brand Website,Winter,212
+2024-02-15,SKU1894,Ethnic Wear,Kurta,2324,30,3.6,Hyderabad,Offline,Winter,92
+2024-11-18,SKU8657,Ethnic Wear,Saree,5227,15,4.0,Pune,Brand Website,Winter,291
+2024-04-16,SKU4594,Ethnic Wear,Kurta,3410,20,3.8,Mumbai,Brand Website,Summer,164
+2024-02-25,SKU6431,Ethnic Wear,Saree,5639,0,4.7,Bhopal,Brand Website,Winter,131
+2023-08-24,SKU1162,Ethnic Wear,Kurta,2083,10,4.2,Mumbai,Offline,Monsoon,132
+2024-02-10,SKU6896,Ethnic Wear,Kurta,2663,0,3.8,Mumbai,Myntra,Winter,103
+2024-01-01,SKU3855,Ethnic Wear,Kurta,2302,0,3.8,Bengaluru,Brand Website,Winter,82
+2025-02-15,SKU2657,Ethnic Wear,Kurta,1954,10,4.9,Mumbai,Brand Website,Winter,145
+2023-12-17,SKU4934,Ethnic Wear,Lehenga,10158,30,5.0,Bengaluru,Offline,Winter,204
+2024-01-24,SKU2071,Ethnic Wear,Kurta,2285,20,4.1,Mumbai,Myntra,Winter,146
+2024-01-23,SKU8037,Ethnic Wear,Kurta,3693,10,4.7,Lucknow,Myntra,Winter,97
+2025-11-06,SKU1872,Ethnic Wear,Kurta,3892,15,3.8,Lucknow,Offline,Winter,102
+2023-05-13,SKU8711,Ethnic Wear,Lehenga,8685,20,4.1,Bhopal,Brand Website,Summer,51
+2025-08-08,SKU9342,Ethnic Wear,Lehenga,8733,10,4.6,Bengaluru,Offline,Monsoon,42
+2024-07-03,SKU8918,Ethnic Wear,Saree,6380,15,4.5,Lucknow,Offline,Monsoon,77
+2025-07-14,SKU1599,Ethnic Wear,Kurta,2460,15,3.8,Delhi,Myntra,Monsoon,170
+2024-06-05,SKU7178,Ethnic Wear,Saree,6255,0,3.7,Pune,Myntra,Summer,64
+2023-03-26,SKU8282,Ethnic Wear,Kurta,3405,20,4.4,Pune,Offline,Summer,136
+2025-10-15,SKU8660,Ethnic Wear,Saree,5298,10,4.1,Hyderabad,Offline,Winter,184
+2025-01-05,SKU4830,Ethnic Wear,Kurta,1837,10,4.8,Bengaluru,Brand Website,Winter,135
+2023-07-21,SKU2280,Ethnic Wear,Kurta,1985,0,4.0,Bhopal,Offline,Monsoon,76
+2024-05-27,SKU6468,Ethnic Wear,Saree,5239,25,4.7,Delhi,Brand Website,Summer,185
+2023-10-10,SKU5496,Ethnic Wear,Lehenga,10224,10,3.5,Delhi,Brand Website,Winter,135
+2023-01-25,SKU6679,Ethnic Wear,Saree,5933,25,4.3,Bhopal,Offline,Winter,123
+2024-03-05,SKU7512,Ethnic Wear,Lehenga,9943,0,4.3,Delhi,Myntra,Summer,66
+2023-06-25,SKU8679,Ethnic Wear,Saree,5282,30,3.8,Lucknow,Offline,Summer,103
+2023-03-03,SKU7843,Ethnic Wear,Saree,5534,0,4.4,Delhi,Offline,Summer,91
+2024-11-26,SKU1158,Ethnic Wear,Saree,4923,15,4.1,Hyderabad,Brand Website,Winter,473
+2023-02-17,SKU9808,Ethnic Wear,Lehenga,10324,30,3.5,Bengaluru,Offline,Winter,98
+2025-03-11,SKU6410,Ethnic Wear,Lehenga,9561,0,4.9,Pune,Brand Website,Summer,37
+2024-11-04,SKU7331,Ethnic Wear,Kurta,3832,15,4.5,Delhi,Offline,Winter,197
+2023-12-30,SKU3808,Ethnic Wear,Lehenga,8131,30,4.5,Mumbai,Brand Website,Winter,228
+2024-08-04,SKU4058,Ethnic Wear,Saree,4843,0,3.9,Delhi,Myntra,Monsoon,129
+2023-01-23,SKU8449,Ethnic Wear,Lehenga,8703,10,4.8,Mumbai,Offline,Winter,103
+2025-09-06,SKU2814,Ethnic Wear,Saree,4281,15,4.9,Delhi,Brand Website,Monsoon,212
+2025-06-04,SKU3128,Ethnic Wear,Saree,5944,0,4.4,Bhopal,Myntra,Summer,104
+2025-07-28,SKU4325,Ethnic Wear,Lehenga,9128,0,3.5,Pune,Brand Website,Monsoon,29
+2024-05-20,SKU2048,Ethnic Wear,Lehenga,10153,10,4.9,Bhopal,Offline,Summer,48
+2023-07-06,SKU8539,Ethnic Wear,Kurta,2679,25,4.8,Hyderabad,Brand Website,Monsoon,182
+2025-04-30,SKU5873,Ethnic Wear,Kurta,2520,0,4.8,Hyderabad,Brand Website,Summer,186
+2025-03-16,SKU4005,Ethnic Wear,Kurta,1678,0,4.8,Lucknow,Brand Website,Summer,121
+2024-03-20,SKU9810,Ethnic Wear,Kurta,3521,15,5.0,Bengaluru,Brand Website,Summer,180
+2024-10-29,SKU2253,Ethnic Wear,Lehenga,9679,15,3.7,Bhopal,Myntra,Winter,102
+2025-08-03,SKU1731,Ethnic Wear,Kurta,3061,10,4.6,Hyderabad,Myntra,Monsoon,196
+2023-10-07,SKU1618,Ethnic Wear,Kurta,2839,25,4.6,Mumbai,Offline,Winter,252
+2024-05-11,SKU2117,Ethnic Wear,Lehenga,9792,0,4.2,Mumbai,Brand Website,Summer,44
+2023-07-25,SKU3643,Ethnic Wear,Lehenga,8725,10,3.7,Delhi,Myntra,Monsoon,69
+2024-07-13,SKU3759,Ethnic Wear,Kurta,2128,15,4.0,Mumbai,Brand Website,Monsoon,145
+2025-06-24,SKU1564,Ethnic Wear,Kurta,1695,30,4.5,Lucknow,Brand Website,Summer,180
+2025-06-28,SKU2684,Ethnic Wear,Saree,4214,20,3.5,Hyderabad,Brand Website,Summer,130
+2024-02-14,SKU4305,Ethnic Wear,Kurta,1874,0,4.1,Delhi,Offline,Winter,144
+2024-03-27,SKU4148,Ethnic Wear,Kurta,1895,30,4.8,Lucknow,Brand Website,Summer,203
+2023-08-09,SKU3736,Ethnic Wear,Lehenga,9339,10,4.3,Mumbai,Offline,Monsoon,37
+2024-04-20,SKU9875,Ethnic Wear,Kurta,2375,0,4.0,Hyderabad,Offline,Summer,106
+2025-03-08,SKU7588,Ethnic Wear,Kurta,2371,15,3.8,Lucknow,Offline,Summer,124
+2023-03-31,SKU5562,Ethnic Wear,Saree,4275,0,4.1,Lucknow,Brand Website,Summer,104
+2024-05-30,SKU9784,Ethnic Wear,Kurta,1888,20,4.0,Bhopal,Brand Website,Summer,146
+2024-10-13,SKU3177,Ethnic Wear,Lehenga,9974,0,4.0,Bengaluru,Myntra,Winter,146
+2024-04-21,SKU8354,Ethnic Wear,Lehenga,10062,20,4.6,Hyderabad,Brand Website,Summer,44
+2024-04-29,SKU1347,Ethnic Wear,Saree,5755,30,3.9,Pune,Myntra,Summer,93
+2023-11-07,SKU7136,Ethnic Wear,Kurta,3039,0,4.5,Hyderabad,Offline,Winter,150
+2024-07-23,SKU8270,Ethnic Wear,Kurta,2800,25,4.7,Lucknow,Offline,Monsoon,83
+2024-04-14,SKU7797,Ethnic Wear,Kurta,2856,10,3.9,Lucknow,Offline,Summer,111
+2024-03-31,SKU5068,Ethnic Wear,Lehenga,10490,30,4.1,Bhopal,Brand Website,Summer,40
+2025-10-03,SKU8247,Ethnic Wear,Kurta,1786,0,3.6,Lucknow,Myntra,Winter,189
+2024-02-23,SKU4345,Ethnic Wear,Kurta,2467,20,3.6,Delhi,Myntra,Winter,156
+2024-05-16,SKU6103,Ethnic Wear,Kurta,3236,0,4.4,Delhi,Brand Website,Summer,152
+2025-09-12,SKU8344,Ethnic Wear,Saree,4327,10,4.1,Lucknow,Myntra,Monsoon,91
+2025-06-06,SKU8231,Ethnic Wear,Lehenga,8638,30,4.9,Hyderabad,Brand Website,Summer,71
+2023-11-09,SKU8002,Ethnic Wear,Saree,6264,25,3.8,Bhopal,Myntra,Winter,294
+2025-09-11,SKU6011,Ethnic Wear,Saree,4294,10,3.7,Hyderabad,Offline,Monsoon,78
+2025-10-22,SKU3535,Ethnic Wear,Kurta,3032,15,4.1,Delhi,Myntra,Winter,245
+2025-09-29,SKU7465,Ethnic Wear,Saree,5260,25,5.0,Lucknow,Offline,Monsoon,72
+2023-11-29,SKU1636,Ethnic Wear,Lehenga,8795,30,4.2,Mumbai,Offline,Winter,270
+2025-01-24,SKU6711,Ethnic Wear,Saree,4236,25,4.1,Pune,Brand Website,Winter,153
+2025-01-10,SKU5043,Ethnic Wear,Kurta,1615,25,4.5,Delhi,Offline,Winter,133
+2024-05-21,SKU8462,Ethnic Wear,Saree,6466,20,4.9,Lucknow,Myntra,Summer,133
+2025-02-26,SKU2912,Ethnic Wear,Lehenga,9628,25,4.4,Bhopal,Myntra,Winter,171
+2025-05-24,SKU9495,Ethnic Wear,Kurta,2535,25,4.0,Delhi,Offline,Summer,228
+2023-07-02,SKU6045,Ethnic Wear,Lehenga,8447,25,4.4,Lucknow,Offline,Monsoon,47
+2025-03-26,SKU5407,Ethnic Wear,Lehenga,9261,0,5.0,Lucknow,Myntra,Summer,55
+2025-05-05,SKU1025,Ethnic Wear,Lehenga,10150,15,4.5,Mumbai,Myntra,Summer,75
+2023-10-03,SKU3890,Ethnic Wear,Lehenga,8811,15,3.8,Bengaluru,Myntra,Winter,191
+2024-02-16,SKU8383,Ethnic Wear,Kurta,1741,25,3.8,Pune,Myntra,Winter,143
+2023-08-12,SKU5249,Ethnic Wear,Saree,4680,0,3.9,Bhopal,Offline,Monsoon,54
+2024-04-25,SKU5534,Ethnic Wear,Kurta,3457,15,4.5,Mumbai,Offline,Summer,136
+2023-03-27,SKU2000,Ethnic Wear,Lehenga,8396,0,4.3,Bengaluru,Myntra,Summer,39
+2025-08-27,SKU9520,Ethnic Wear,Saree,5380,20,4.1,Bhopal,Offline,Monsoon,63
+2025-03-27,SKU6620,Ethnic Wear,Saree,5550,20,3.6,Bengaluru,Myntra,Summer,100
+2023-10-12,SKU1050,Ethnic Wear,Saree,4105,20,3.7,Hyderabad,Brand Website,Winter,271
+2025-08-31,SKU5072,Ethnic Wear,Lehenga,10109,15,4.5,Bengaluru,Offline,Monsoon,30
+2023-04-04,SKU6278,Ethnic Wear,Saree,5333,25,4.2,Mumbai,Brand Website,Summer,152
+2024-12-14,SKU7556,Ethnic Wear,Kurta,3252,15,5.0,Lucknow,Brand Website,Winter,133
+2024-02-04,SKU2645,Ethnic Wear,Saree,4586,30,4.3,Lucknow,Offline,Winter,229
+2023-06-28,SKU9267,Ethnic Wear,Saree,5234,30,4.5,Mumbai,Myntra,Summer,182
+2024-05-08,SKU3753,Ethnic Wear,Saree,4996,0,3.8,Hyderabad,Myntra,Summer,128
+2023-11-25,SKU2728,Ethnic Wear,Kurta,2837,15,4.6,Hyderabad,Brand Website,Winter,196
+2023-09-10,SKU5220,Ethnic Wear,Lehenga,8556,20,4.5,Lucknow,Offline,Monsoon,39
+2023-05-13,SKU6452,Ethnic Wear,Lehenga,9405,15,4.9,Bhopal,Myntra,Summer,57
+2025-06-13,SKU7252,Ethnic Wear,Lehenga,8955,0,3.9,Lucknow,Brand Website,Summer,30
+2024-01-21,SKU2460,Ethnic Wear,Lehenga,8475,20,4.1,Bengaluru,Brand Website,Winter,114
+2024-09-28,SKU7229,Ethnic Wear,Kurta,1753,20,4.3,Pune,Brand Website,Monsoon,185
+2023-09-16,SKU7941,Ethnic Wear,Lehenga,10128,25,4.4,Bengaluru,Offline,Monsoon,37
+2024-10-09,SKU7476,Ethnic Wear,Saree,4592,30,4.9,Mumbai,Brand Website,Winter,484
+2024-08-03,SKU9189,Ethnic Wear,Kurta,2097,25,4.5,Lucknow,Offline,Monsoon,126
+2025-10-25,SKU1562,Ethnic Wear,Saree,4505,10,5.0,Pune,Offline,Winter,292
+2024-08-19,SKU8836,Ethnic Wear,Saree,5542,0,5.0,Lucknow,Myntra,Monsoon,98
+2023-04-18,SKU4450,Ethnic Wear,Kurta,2233,30,4.2,Bhopal,Brand Website,Summer,143
+2024-11-22,SKU3608,Ethnic Wear,Saree,5730,25,4.2,Mumbai,Brand Website,Winter,450
+2024-08-02,SKU7407,Ethnic Wear,Lehenga,9156,25,4.9,Mumbai,Brand Website,Monsoon,86
+2024-10-24,SKU9978,Ethnic Wear,Kurta,3877,30,4.7,Hyderabad,Myntra,Winter,308
+2023-10-09,SKU5981,Ethnic Wear,Kurta,3309,25,4.2,Hyderabad,Brand Website,Winter,260
+2023-01-19,SKU4436,Ethnic Wear,Kurta,2983,25,4.8,Delhi,Brand Website,Winter,137
+2023-12-11,SKU3418,Ethnic Wear,Lehenga,8230,0,4.0,Hyderabad,Offline,Winter,122
+2024-11-24,SKU1859,Ethnic Wear,Lehenga,10430,15,5.0,Mumbai,Brand Website,Winter,367
+2024-05-08,SKU7619,Ethnic Wear,Kurta,3124,15,4.0,Delhi,Myntra,Summer,204
+2023-07-03,SKU3826,Ethnic Wear,Saree,5899,30,4.7,Lucknow,Brand Website,Monsoon,109
+2023-08-27,SKU8292,Ethnic Wear,Kurta,1838,0,4.2,Bengaluru,Myntra,Monsoon,158
+2025-09-09,SKU9351,Ethnic Wear,Lehenga,9121,25,4.6,Delhi,Myntra,Monsoon,96
+2025-06-07,SKU3967,Ethnic Wear,Lehenga,9222,20,3.7,Hyderabad,Offline,Summer,39
+2023-02-10,SKU9806,Ethnic Wear,Lehenga,9612,20,4.7,Delhi,Offline,Winter,208
+2023-09-12,SKU9684,Ethnic Wear,Lehenga,8849,25,4.8,Hyderabad,Myntra,Monsoon,64
+2024-10-05,SKU3948,Ethnic Wear,Saree,4503,0,3.7,Mumbai,Brand Website,Winter,207
+2023-09-13,SKU5206,Ethnic Wear,Kurta,3573,10,4.0,Bhopal,Myntra,Monsoon,111
+2024-09-07,SKU7931,Ethnic Wear,Kurta,1689,20,4.9,Lucknow,Myntra,Monsoon,160
+2025-10-01,SKU9750,Ethnic Wear,Lehenga,9281,20,4.9,Hyderabad,Myntra,Winter,265
+2023-04-02,SKU9365,Ethnic Wear,Kurta,2471,0,3.8,Delhi,Brand Website,Summer,139
+2024-03-18,SKU4526,Ethnic Wear,Lehenga,10423,10,3.9,Delhi,Brand Website,Summer,59
+2024-06-17,SKU7914,Ethnic Wear,Saree,5563,25,4.9,Mumbai,Brand Website,Summer,157
+2023-10-21,SKU2364,Ethnic Wear,Saree,6195,0,3.6,Bengaluru,Brand Website,Winter,187
+2025-11-13,SKU4156,Ethnic Wear,Lehenga,10477,0,4.1,Lucknow,Offline,Winter,135
+2024-05-21,SKU8104,Ethnic Wear,Lehenga,8317,10,3.7,Hyderabad,Myntra,Summer,42
+2023-07-02,SKU9984,Ethnic Wear,Saree,5486,10,4.7,Hyderabad,Myntra,Monsoon,111
+2025-02-11,SKU4698,Ethnic Wear,Kurta,2410,15,4.9,Bengaluru,Myntra,Winter,171
+2024-09-19,SKU3023,Ethnic Wear,Lehenga,10411,30,4.7,Delhi,Brand Website,Monsoon,65
+2024-07-09,SKU6716,Ethnic Wear,Saree,6488,0,4.8,Lucknow,Brand Website,Monsoon,71
+2025-12-24,SKU7382,Ethnic Wear,Lehenga,10259,20,4.8,Delhi,Offline,Winter,177
+2025-11-17,SKU3090,Ethnic Wear,Lehenga,8636,25,3.7,Bengaluru,Myntra,Winter,255
+2025-01-28,SKU5380,Ethnic Wear,Lehenga,9020,25,4.4,Mumbai,Brand Website,Winter,130
+2024-08-10,SKU8191,Ethnic Wear,Lehenga,9129,15,4.3,Bengaluru,Offline,Monsoon,43
+2024-09-17,SKU4748,Ethnic Wear,Kurta,3165,30,4.0,Bengaluru,Brand Website,Monsoon,118
+2023-12-05,SKU2256,Ethnic Wear,Kurta,3856,0,3.6,Lucknow,Myntra,Winter,65
+2025-11-07,SKU9074,Ethnic Wear,Saree,4558,15,4.2,Bhopal,Myntra,Winter,416
+2023-01-29,SKU9722,Ethnic Wear,Saree,4778,30,4.6,Lucknow,Myntra,Winter,192
+2025-12-17,SKU9754,Ethnic Wear,Kurta,3995,0,4.4,Lucknow,Offline,Winter,90
+2025-01-21,SKU9577,Ethnic Wear,Kurta,2046,20,4.0,Delhi,Myntra,Winter,124
+2023-08-20,SKU9118,Ethnic Wear,Saree,5384,25,3.9,Hyderabad,Myntra,Monsoon,131
+2024-08-24,SKU2931,Ethnic Wear,Saree,5084,0,3.5,Bengaluru,Offline,Monsoon,65
+2025-11-21,SKU7449,Ethnic Wear,Lehenga,8145,15,4.8,Delhi,Offline,Winter,419
+2025-07-31,SKU1942,Ethnic Wear,Lehenga,9345,10,4.0,Bengaluru,Myntra,Monsoon,39
+2023-07-27,SKU4050,Ethnic Wear,Kurta,3264,15,3.8,Hyderabad,Offline,Monsoon,95
+2023-01-15,SKU3518,Ethnic Wear,Saree,4637,30,4.5,Hyderabad,Myntra,Winter,180
+2025-05-27,SKU7477,Ethnic Wear,Saree,4746,20,4.7,Bengaluru,Offline,Summer,102
+2023-10-14,SKU8185,Ethnic Wear,Kurta,2948,25,4.2,Lucknow,Offline,Winter,156
+2023-03-24,SKU4251,Ethnic Wear,Saree,4547,15,4.1,Mumbai,Myntra,Summer,140
+2025-09-08,SKU1517,Ethnic Wear,Kurta,2588,0,4.1,Delhi,Brand Website,Monsoon,154
+2025-03-07,SKU3087,Ethnic Wear,Lehenga,8538,0,4.9,Bengaluru,Offline,Summer,55
+2023-01-28,SKU3066,Ethnic Wear,Lehenga,8968,0,4.5,Delhi,Offline,Winter,84
+2024-07-31,SKU1131,Ethnic Wear,Saree,5990,0,4.6,Hyderabad,Offline,Monsoon,66
+2024-05-25,SKU3498,Ethnic Wear,Kurta,2651,30,3.7,Lucknow,Brand Website,Summer,120
+2025-08-28,SKU5052,Ethnic Wear,Kurta,1922,25,4.6,Lucknow,Offline,Monsoon,120
+2023-11-01,SKU4091,Ethnic Wear,Lehenga,8939,0,3.7,Bhopal,Brand Website,Winter,119
+2023-07-06,SKU7984,Ethnic Wear,Kurta,1708,15,4.1,Mumbai,Brand Website,Monsoon,161
+2025-09-08,SKU4791,Ethnic Wear,Saree,4251,20,4.1,Delhi,Offline,Monsoon,88
+2024-12-19,SKU2803,Ethnic Wear,Saree,5712,0,4.0,Bengaluru,Offline,Winter,126
+2024-10-20,SKU1669,Ethnic Wear,Lehenga,8868,10,4.2,Mumbai,Myntra,Winter,232
+2025-10-03,SKU2650,Ethnic Wear,Saree,5489,10,4.0,Hyderabad,Myntra,Winter,201
+2024-11-09,SKU1223,Ethnic Wear,Kurta,2976,25,4.7,Lucknow,Brand Website,Winter,231
+2024-07-19,SKU9664,Ethnic Wear,Kurta,2360,20,4.1,Pune,Offline,Monsoon,124
+2023-09-04,SKU3137,Ethnic Wear,Lehenga,8168,20,5.0,Lucknow,Brand Website,Monsoon,76
+2023-07-22,SKU4120,Ethnic Wear,Saree,4306,20,4.4,Delhi,Brand Website,Monsoon,151
+2023-11-11,SKU8769,Ethnic Wear,Lehenga,8179,0,3.8,Bhopal,Myntra,Winter,200
+2025-01-19,SKU5137,Ethnic Wear,Saree,5836,25,4.6,Bhopal,Brand Website,Winter,157
+2025-10-28,SKU2109,Ethnic Wear,Lehenga,8089,0,4.4,Hyderabad,Offline,Winter,168
+2023-05-05,SKU3112,Ethnic Wear,Lehenga,8779,25,4.7,Bengaluru,Myntra,Summer,67
+2023-12-05,SKU9723,Ethnic Wear,Kurta,3293,30,4.3,Bhopal,Brand Website,Winter,106
+2024-02-28,SKU7393,Ethnic Wear,Saree,4753,0,3.7,Hyderabad,Brand Website,Winter,164
+2025-12-11,SKU9401,Ethnic Wear,Lehenga,9060,10,4.8,Hyderabad,Brand Website,Winter,143
+2024-04-03,SKU5399,Ethnic Wear,Kurta,1686,20,3.9,Pune,Myntra,Summer,132
+2023-04-16,SKU3427,Ethnic Wear,Saree,5019,30,3.8,Bengaluru,Myntra,Summer,105
+2024-10-26,SKU6692,Ethnic Wear,Saree,4340,25,4.8,Lucknow,Brand Website,Winter,257
+2024-10-26,SKU3189,Ethnic Wear,Saree,4234,25,4.7,Hyderabad,Brand Website,Winter,406
+2024-06-08,SKU4592,Ethnic Wear,Kurta,1564,20,4.5,Lucknow,Offline,Summer,179
+2025-02-21,SKU2743,Ethnic Wear,Lehenga,9054,30,4.4,Lucknow,Brand Website,Winter,150
+2024-10-26,SKU4377,Ethnic Wear,Kurta,2600,0,4.4,Bhopal,Offline,Winter,158
+2025-06-07,SKU7479,Ethnic Wear,Kurta,3009,0,4.9,Delhi,Offline,Summer,139
+2024-01-22,SKU3973,Ethnic Wear,Kurta,3833,15,4.9,Hyderabad,Myntra,Winter,116
+2023-12-30,SKU5621,Ethnic Wear,Kurta,3114,25,4.4,Mumbai,Offline,Winter,106
+2025-04-04,SKU7986,Ethnic Wear,Lehenga,8410,25,4.3,Delhi,Offline,Summer,74
+2025-02-25,SKU1193,Ethnic Wear,Saree,4084,0,4.7,Pune,Myntra,Winter,292
+2024-07-02,SKU1716,Ethnic Wear,Kurta,2084,25,4.4,Delhi,Myntra,Monsoon,263
+2023-06-24,SKU9886,Ethnic Wear,Lehenga,8828,0,4.2,Lucknow,Offline,Summer,35
+2024-11-10,SKU8279,Ethnic Wear,Saree,5961,0,3.9,Bhopal,Myntra,Winter,272
+2023-02-13,SKU5382,Ethnic Wear,Kurta,1682,0,4.3,Lucknow,Brand Website,Winter,76
+2023-02-19,SKU7804,Ethnic Wear,Kurta,2428,15,4.1,Delhi,Myntra,Winter,142
+2023-08-19,SKU5699,Ethnic Wear,Saree,6014,0,5.0,Delhi,Brand Website,Monsoon,115
+2024-11-14,SKU5617,Ethnic Wear,Lehenga,8484,10,4.9,Bengaluru,Myntra,Winter,392
+2025-05-27,SKU1710,Ethnic Wear,Kurta,3672,10,4.4,Pune,Myntra,Summer,165
+2024-08-10,SKU3461,Ethnic Wear,Saree,5426,0,3.9,Lucknow,Brand Website,Monsoon,78
+2023-01-05,SKU7047,Ethnic Wear,Kurta,2108,30,4.5,Bengaluru,Brand Website,Winter,132
+2023-05-18,SKU7399,Ethnic Wear,Saree,4463,20,4.1,Hyderabad,Brand Website,Summer,146
+2024-01-08,SKU3370,Ethnic Wear,Kurta,3077,10,4.0,Mumbai,Offline,Winter,104
+2025-02-23,SKU6463,Ethnic Wear,Kurta,3214,20,4.2,Delhi,Brand Website,Winter,143
+2023-06-21,SKU9724,Ethnic Wear,Saree,6379,25,4.1,Pune,Myntra,Summer,115
+2025-01-10,SKU4593,Ethnic Wear,Kurta,1511,0,5.0,Lucknow,Myntra,Winter,93
+2024-12-16,SKU8764,Ethnic Wear,Kurta,2978,30,4.8,Delhi,Myntra,Winter,221
+2025-05-12,SKU3283,Ethnic Wear,Kurta,2493,0,4.7,Bengaluru,Offline,Summer,110
+2023-10-21,SKU3257,Ethnic Wear,Lehenga,9546,25,3.5,Mumbai,Brand Website,Winter,202
+2023-06-01,SKU7089,Ethnic Wear,Kurta,3453,30,4.4,Mumbai,Brand Website,Summer,172
+2023-06-07,SKU6984,Ethnic Wear,Kurta,1551,20,4.7,Delhi,Myntra,Summer,259
+2025-12-16,SKU3988,Ethnic Wear,Kurta,2726,15,4.1,Hyderabad,Brand Website,Winter,107
+2023-05-03,SKU1216,Ethnic Wear,Kurta,1631,20,4.6,Bengaluru,Myntra,Summer,214
+2025-07-19,SKU1178,Ethnic Wear,Lehenga,10269,25,4.7,Hyderabad,Offline,Monsoon,58
+2025-05-17,SKU9222,Ethnic Wear,Kurta,2142,10,5.0,Bengaluru,Brand Website,Summer,190
+2023-04-25,SKU3050,Ethnic Wear,Saree,4896,15,3.8,Lucknow,Myntra,Summer,113
+2025-09-04,SKU2264,Ethnic Wear,Saree,5282,25,4.5,Bhopal,Brand Website,Monsoon,125
+2025-05-18,SKU3700,Ethnic Wear,Lehenga,8797,10,3.7,Mumbai,Offline,Summer,36
+2023-11-30,SKU6496,Ethnic Wear,Saree,6218,0,3.6,Mumbai,Myntra,Winter,362
+2023-03-08,SKU6064,Ethnic Wear,Kurta,2484,10,3.6,Delhi,Brand Website,Summer,167
+2023-04-09,SKU1735,Ethnic Wear,Kurta,2788,0,4.9,Pune,Offline,Summer,104
+2025-10-21,SKU6843,Ethnic Wear,Saree,4798,10,4.6,Bhopal,Offline,Winter,226
+2024-11-09,SKU3122,Ethnic Wear,Kurta,3168,25,4.3,Lucknow,Brand Website,Winter,186
+2025-09-03,SKU3460,Ethnic Wear,Saree,6401,30,4.8,Mumbai,Brand Website,Monsoon,137
+2023-07-11,SKU3482,Ethnic Wear,Kurta,2448,0,4.7,Lucknow,Offline,Monsoon,96
+2025-12-07,SKU3638,Ethnic Wear,Lehenga,9398,15,4.7,Pune,Brand Website,Winter,137
+2025-03-04,SKU6903,Ethnic Wear,Kurta,2479,0,5.0,Pune,Offline,Summer,152
+2024-09-25,SKU9151,Ethnic Wear,Kurta,3741,30,5.0,Mumbai,Myntra,Monsoon,260
+2024-10-04,SKU2428,Ethnic Wear,Saree,4695,10,3.7,Hyderabad,Myntra,Winter,225
+2024-01-02,SKU6952,Ethnic Wear,Kurta,3387,10,5.0,Bengaluru,Myntra,Winter,167
+2025-09-26,SKU8242,Ethnic Wear,Kurta,1662,10,4.8,Lucknow,Myntra,Monsoon,152
+2024-10-04,SKU3113,Ethnic Wear,Lehenga,9530,0,4.5,Hyderabad,Offline,Winter,136
+2023-04-27,SKU5306,Ethnic Wear,Lehenga,9002,25,4.7,Lucknow,Myntra,Summer,42
+2025-03-28,SKU2725,Ethnic Wear,Kurta,1798,0,4.1,Bengaluru,Offline,Summer,128
+2025-12-31,SKU2531,Ethnic Wear,Saree,5904,0,3.6,Bengaluru,Offline,Winter,160
+2025-04-02,SKU7503,Ethnic Wear,Kurta,2846,0,4.0,Bhopal,Offline,Summer,120
+2025-09-02,SKU8967,Ethnic Wear,Lehenga,8468,10,4.2,Delhi,Brand Website,Monsoon,68
+2023-03-06,SKU3384,Ethnic Wear,Saree,6462,30,4.1,Lucknow,Myntra,Summer,126
+2024-03-09,SKU8046,Ethnic Wear,Kurta,1593,30,4.5,Hyderabad,Myntra,Summer,210
+2024-07-14,SKU3885,Ethnic Wear,Kurta,3159,0,3.9,Mumbai,Myntra,Monsoon,159
+2024-06-15,SKU7876,Ethnic Wear,Lehenga,8753,30,3.6,Pune,Myntra,Summer,61
+2024-02-11,SKU8021,Ethnic Wear,Kurta,2930,15,4.2,Bengaluru,Offline,Winter,104
+2025-03-07,SKU3632,Ethnic Wear,Saree,4040,20,4.7,Lucknow,Offline,Summer,123
+2023-10-24,SKU2274,Ethnic Wear,Lehenga,9326,25,5.0,Lucknow,Brand Website,Winter,209
+2023-10-30,SKU6185,Ethnic Wear,Saree,6045,30,4.0,Mumbai,Myntra,Winter,364
+2025-07-11,SKU5305,Ethnic Wear,Kurta,2014,25,4.2,Pune,Brand Website,Monsoon,194
+2024-01-20,SKU2596,Ethnic Wear,Lehenga,9721,25,4.3,Mumbai,Myntra,Winter,104
+2024-01-27,SKU7185,Ethnic Wear,Kurta,3862,0,4.1,Delhi,Offline,Winter,91
+2025-10-19,SKU5947,Ethnic Wear,Kurta,3367,15,4.1,Bengaluru,Brand Website,Winter,172
+2023-12-27,SKU7977,Ethnic Wear,Kurta,3379,15,4.1,Pune,Offline,Winter,94
+2024-08-06,SKU3664,Ethnic Wear,Saree,5791,25,3.9,Pune,Offline,Monsoon,79
+2023-02-03,SKU2625,Ethnic Wear,Kurta,3184,0,4.2,Mumbai,Myntra,Winter,139
+2025-10-27,SKU9924,Ethnic Wear,Saree,6380,30,3.5,Mumbai,Brand Website,Winter,219
+2025-02-19,SKU7891,Ethnic Wear,Saree,4468,0,4.8,Delhi,Myntra,Winter,401
+2025-03-21,SKU6744,Ethnic Wear,Saree,4031,10,4.7,Bhopal,Offline,Summer,102
+2025-04-29,SKU5384,Ethnic Wear,Saree,4989,0,4.9,Lucknow,Offline,Summer,89
+2025-11-28,SKU1254,Ethnic Wear,Saree,6457,10,4.0,Mumbai,Myntra,Winter,504
+2024-01-30,SKU8045,Ethnic Wear,Saree,5611,30,3.6,Delhi,Brand Website,Winter,198
+2023-12-22,SKU8030,Ethnic Wear,Saree,5651,10,4.3,Delhi,Brand Website,Winter,254
+2023-08-31,SKU2631,Ethnic Wear,Lehenga,10363,30,4.1,Lucknow,Myntra,Monsoon,61
+2024-10-22,SKU5263,Ethnic Wear,Kurta,2334,0,3.6,Bhopal,Brand Website,Winter,122
+2023-06-11,SKU3507,Ethnic Wear,Lehenga,10342,15,3.5,Mumbai,Brand Website,Summer,54
+2024-03-30,SKU6867,Ethnic Wear,Lehenga,9216,0,4.3,Delhi,Myntra,Summer,51
+2023-04-16,SKU7194,Ethnic Wear,Lehenga,9126,0,4.9,Bhopal,Offline,Summer,39
+2023-09-09,SKU2694,Ethnic Wear,Lehenga,8438,0,3.9,Mumbai,Offline,Monsoon,47
+2024-03-01,SKU2520,Ethnic Wear,Saree,5600,0,4.2,Mumbai,Offline,Summer,78
+2024-03-06,SKU2205,Ethnic Wear,Kurta,3219,15,4.8,Hyderabad,Brand Website,Summer,193
+2024-09-03,SKU8387,Ethnic Wear,Kurta,1541,0,4.5,Bhopal,Myntra,Monsoon,139
+2025-09-18,SKU1515,Ethnic Wear,Saree,6457,20,3.5,Mumbai,Offline,Monsoon,75
+2023-03-02,SKU5169,Ethnic Wear,Lehenga,10195,0,4.3,Mumbai,Myntra,Summer,63
+2024-03-20,SKU4543,Ethnic Wear,Kurta,1620,10,3.7,Bhopal,Offline,Summer,85
+2024-12-14,SKU5483,Ethnic Wear,Kurta,3758,25,3.9,Hyderabad,Myntra,Winter,135
+2024-01-31,SKU9123,Ethnic Wear,Saree,5024,0,3.8,Hyderabad,Brand Website,Winter,140
+2024-09-30,SKU5605,Ethnic Wear,Lehenga,8678,30,3.8,Hyderabad,Myntra,Monsoon,71
+2024-07-10,SKU8101,Ethnic Wear,Lehenga,9305,20,3.7,Hyderabad,Offline,Monsoon,34
+2023-05-12,SKU4272,Ethnic Wear,Saree,5840,0,4.8,Pune,Offline,Summer,113
+2025-12-22,SKU5146,Ethnic Wear,Saree,5442,15,3.5,Pune,Offline,Winter,135
+2024-05-17,SKU6286,Ethnic Wear,Saree,4297,0,4.5,Hyderabad,Myntra,Summer,124
+2023-01-23,SKU6151,Ethnic Wear,Saree,5347,0,4.2,Mumbai,Myntra,Winter,181
+2024-08-03,SKU4811,Ethnic Wear,Saree,6464,0,4.3,Pune,Myntra,Monsoon,74
+2023-06-03,SKU5555,Ethnic Wear,Lehenga,10350,25,4.1,Lucknow,Brand Website,Summer,50
+2024-02-08,SKU6206,Ethnic Wear,Kurta,1703,30,4.2,Bhopal,Offline,Winter,80
+2023-12-17,SKU7901,Ethnic Wear,Saree,6463,10,4.4,Mumbai,Myntra,Winter,223
+2023-01-10,SKU1348,Ethnic Wear,Lehenga,9891,10,3.7,Bengaluru,Myntra,Winter,99
+2024-11-21,SKU1606,Ethnic Wear,Kurta,1566,0,4.2,Pune,Brand Website,Winter,212
+2024-10-11,SKU7800,Ethnic Wear,Saree,5416,15,3.6,Lucknow,Offline,Winter,187
+2024-09-03,SKU9090,Ethnic Wear,Saree,5861,15,4.8,Pune,Myntra,Monsoon,156
+2024-04-03,SKU7126,Ethnic Wear,Kurta,1695,30,3.5,Pune,Myntra,Summer,134
+2025-06-11,SKU6289,Ethnic Wear,Lehenga,8927,0,3.6,Bhopal,Brand Website,Summer,33
+2024-06-15,SKU9807,Ethnic Wear,Kurta,1676,0,3.6,Mumbai,Brand Website,Summer,136
+2025-02-16,SKU5320,Ethnic Wear,Lehenga,9105,25,3.8,Bengaluru,Brand Website,Winter,112
+2025-04-26,SKU2964,Ethnic Wear,Kurta,3330,25,3.7,Delhi,Offline,Summer,162
+2024-10-21,SKU8830,Ethnic Wear,Saree,5977,0,3.6,Lucknow,Offline,Winter,152
+2024-02-26,SKU2356,Ethnic Wear,Kurta,1819,0,5.0,Bengaluru,Brand Website,Winter,99
+2025-02-27,SKU1215,Ethnic Wear,Saree,4769,15,3.7,Lucknow,Myntra,Winter,169
+2025-07-18,SKU9644,Ethnic Wear,Saree,4630,30,4.3,Pune,Offline,Monsoon,117
+2025-11-17,SKU4584,Ethnic Wear,Saree,4831,30,4.1,Bengaluru,Offline,Winter,327
+2023-07-29,SKU3690,Ethnic Wear,Lehenga,8603,15,4.8,Lucknow,Offline,Monsoon,45
+2023-02-28,SKU1271,Ethnic Wear,Saree,5950,25,4.3,Hyderabad,Myntra,Winter,248
+2023-11-05,SKU2377,Ethnic Wear,Kurta,3125,20,4.1,Bengaluru,Offline,Winter,164
+2023-04-11,SKU8230,Ethnic Wear,Kurta,3066,25,4.9,Bengaluru,Offline,Summer,149
+2024-07-19,SKU4103,Ethnic Wear,Lehenga,10169,20,4.2,Hyderabad,Myntra,Monsoon,60
+2024-03-25,SKU1817,Ethnic Wear,Kurta,1971,0,4.8,Lucknow,Myntra,Summer,162
+2024-07-18,SKU4911,Ethnic Wear,Kurta,2427,20,4.5,Mumbai,Brand Website,Monsoon,184
+2025-10-11,SKU4602,Ethnic Wear,Saree,4842,0,4.7,Lucknow,Brand Website,Winter,201
+2023-01-07,SKU5718,Ethnic Wear,Saree,4386,0,4.3,Lucknow,Brand Website,Winter,131
+2024-05-03,SKU8811,Ethnic Wear,Lehenga,8697,10,4.5,Lucknow,Offline,Summer,34
+2025-08-29,SKU6442,Ethnic Wear,Kurta,3252,10,3.5,Hyderabad,Myntra,Monsoon,154
+2024-12-22,SKU2261,Ethnic Wear,Kurta,3440,20,3.5,Delhi,Brand Website,Winter,136
+2024-08-18,SKU8742,Ethnic Wear,Kurta,2435,20,4.3,Mumbai,Myntra,Monsoon,228
+2024-11-18,SKU2538,Ethnic Wear,Lehenga,9853,15,4.6,Mumbai,Offline,Winter,359
+2025-01-16,SKU5216,Ethnic Wear,Saree,5879,0,4.7,Lucknow,Offline,Winter,91
+2025-09-18,SKU6467,Ethnic Wear,Lehenga,8461,10,4.5,Pune,Brand Website,Monsoon,62
+2023-10-18,SKU3423,Ethnic Wear,Lehenga,9463,15,3.5,Hyderabad,Myntra,Winter,151
+2023-07-02,SKU8056,Ethnic Wear,Lehenga,8793,15,4.5,Bengaluru,Myntra,Monsoon,78
+2024-06-27,SKU9927,Ethnic Wear,Kurta,2928,10,4.1,Hyderabad,Brand Website,Summer,145
+2025-12-01,SKU5526,Ethnic Wear,Kurta,2906,30,4.4,Bengaluru,Myntra,Winter,141
+2023-08-14,SKU8455,Ethnic Wear,Saree,4034,15,4.9,Pune,Offline,Monsoon,85
+2023-11-30,SKU5747,Ethnic Wear,Lehenga,9243,15,3.9,Pune,Brand Website,Winter,250
+2024-08-02,SKU1255,Ethnic Wear,Kurta,3929,0,3.6,Hyderabad,Myntra,Monsoon,99
+2023-04-13,SKU8050,Ethnic Wear,Kurta,2529,0,4.0,Bengaluru,Brand Website,Summer,118
+2023-06-26,SKU9224,Ethnic Wear,Kurta,2608,0,5.0,Lucknow,Brand Website,Summer,120
+2025-08-27,SKU2322,Ethnic Wear,Kurta,2952,0,4.7,Bengaluru,Myntra,Monsoon,159
+2024-09-10,SKU7923,Ethnic Wear,Saree,6445,10,3.8,Hyderabad,Myntra,Monsoon,95
+2024-02-13,SKU6283,Ethnic Wear,Kurta,2524,0,4.1,Bhopal,Brand Website,Winter,68
+2025-08-02,SKU5997,Ethnic Wear,Lehenga,10235,0,4.1,Mumbai,Offline,Monsoon,45
+2025-06-24,SKU8158,Ethnic Wear,Lehenga,9283,20,4.9,Mumbai,Myntra,Summer,85
+2025-05-11,SKU8673,Ethnic Wear,Saree,5680,15,3.5,Bengaluru,Offline,Summer,84
+2024-09-11,SKU7896,Ethnic Wear,Lehenga,8993,20,4.3,Mumbai,Myntra,Monsoon,59
+2025-03-15,SKU9900,Ethnic Wear,Kurta,2015,15,4.5,Pune,Offline,Summer,152
+2023-04-23,SKU9487,Ethnic Wear,Kurta,2606,30,5.0,Hyderabad,Myntra,Summer,196
+2025-09-13,SKU2595,Ethnic Wear,Lehenga,9357,30,3.6,Bhopal,Offline,Monsoon,33
+2024-02-24,SKU9369,Ethnic Wear,Kurta,3614,0,4.3,Lucknow,Brand Website,Winter,100
+2023-11-13,SKU3234,Ethnic Wear,Lehenga,9232,25,4.0,Delhi,Brand Website,Winter,388
+2024-02-16,SKU1105,Ethnic Wear,Lehenga,8469,0,3.5,Bhopal,Offline,Winter,86
+2024-02-23,SKU2983,Ethnic Wear,Kurta,1924,15,3.5,Pune,Myntra,Winter,106
+2025-04-08,SKU7401,Ethnic Wear,Saree,5981,0,4.7,Mumbai,Myntra,Summer,154
+2025-06-18,SKU9957,Ethnic Wear,Lehenga,8504,15,3.7,Bengaluru,Brand Website,Summer,35
+2024-05-07,SKU3321,Ethnic Wear,Lehenga,8699,20,4.6,Bhopal,Brand Website,Summer,49
+2023-07-24,SKU8801,Ethnic Wear,Saree,6411,15,4.1,Hyderabad,Offline,Monsoon,66
+2025-05-03,SKU7321,Ethnic Wear,Saree,5740,0,3.5,Lucknow,Myntra,Summer,72
+2023-03-11,SKU7380,Ethnic Wear,Saree,5820,0,4.9,Mumbai,Brand Website,Summer,119
+2024-07-21,SKU3282,Ethnic Wear,Saree,4037,0,4.0,Hyderabad,Brand Website,Monsoon,130
+2025-12-11,SKU9244,Ethnic Wear,Lehenga,9599,20,3.6,Delhi,Offline,Winter,150
+2024-11-25,SKU6764,Ethnic Wear,Lehenga,9882,25,4.8,Lucknow,Brand Website,Winter,215
+2025-09-17,SKU5963,Ethnic Wear,Lehenga,9542,15,4.4,Hyderabad,Myntra,Monsoon,52
+2024-06-14,SKU9306,Ethnic Wear,Lehenga,8530,25,4.0,Bhopal,Brand Website,Summer,55
+2023-05-19,SKU6703,Ethnic Wear,Saree,4184,0,4.8,Pune,Brand Website,Summer,99
+2025-09-02,SKU2581,Ethnic Wear,Saree,5325,30,3.8,Lucknow,Myntra,Monsoon,123
+2025-02-25,SKU4876,Ethnic Wear,Lehenga,9720,0,3.6,Mumbai,Myntra,Winter,117
+2025-06-23,SKU1613,Ethnic Wear,Kurta,3033,20,4.4,Bhopal,Brand Website,Summer,105
+2025-02-12,SKU6261,Ethnic Wear,Saree,4545,25,4.4,Mumbai,Brand Website,Winter,279
+2024-08-08,SKU5136,Ethnic Wear,Lehenga,8923,0,4.6,Hyderabad,Offline,Monsoon,37
+2023-02-19,SKU9659,Ethnic Wear,Kurta,1894,0,3.5,Bhopal,Myntra,Winter,65
+2023-05-28,SKU1085,Ethnic Wear,Lehenga,9395,0,4.5,Bengaluru,Offline,Summer,51
+2025-08-28,SKU9653,Ethnic Wear,Kurta,3551,10,4.0,Hyderabad,Myntra,Monsoon,166
+2025-05-25,SKU3258,Ethnic Wear,Saree,5540,30,3.6,Bhopal,Myntra,Summer,75
+2024-04-17,SKU5886,Ethnic Wear,Saree,4210,20,4.3,Mumbai,Myntra,Summer,132
+2025-01-02,SKU5749,Ethnic Wear,Saree,4278,30,4.8,Bhopal,Offline,Winter,185
+2025-10-21,SKU9755,Ethnic Wear,Lehenga,9278,15,4.4,Pune,Myntra,Winter,171
+2023-03-03,SKU2816,Ethnic Wear,Saree,4132,10,4.1,Pune,Offline,Summer,87
+2024-11-06,SKU1973,Ethnic Wear,Lehenga,8255,0,4.2,Delhi,Myntra,Winter,370
+2023-06-15,SKU6666,Ethnic Wear,Lehenga,10258,15,4.9,Mumbai,Offline,Summer,54
+2025-11-05,SKU1683,Ethnic Wear,Saree,4922,25,4.0,Mumbai,Myntra,Winter,544
+2024-02-06,SKU4731,Ethnic Wear,Kurta,3688,20,4.8,Mumbai,Myntra,Winter,177
+2025-03-03,SKU1296,Ethnic Wear,Kurta,3045,25,3.7,Pune,Offline,Summer,140
+2025-01-23,SKU2893,Ethnic Wear,Lehenga,9440,0,4.0,Hyderabad,Myntra,Winter,100
+2023-01-21,SKU4902,Ethnic Wear,Lehenga,8930,15,4.6,Delhi,Myntra,Winter,155
+2024-05-26,SKU9785,Ethnic Wear,Kurta,1732,0,3.6,Pune,Myntra,Summer,128
+2024-05-15,SKU5630,Ethnic Wear,Saree,5197,0,4.4,Mumbai,Offline,Summer,110
+2024-05-27,SKU3005,Ethnic Wear,Kurta,3726,0,4.2,Lucknow,Myntra,Summer,132
+2024-09-11,SKU6848,Ethnic Wear,Saree,5502,30,4.3,Bhopal,Myntra,Monsoon,135
+2025-10-28,SKU5001,Ethnic Wear,Saree,4427,0,4.0,Pune,Offline,Winter,185
+2023-10-08,SKU8966,Ethnic Wear,Kurta,3633,0,4.0,Bengaluru,Myntra,Winter,172
+2023-03-15,SKU3011,Ethnic Wear,Kurta,2462,25,4.2,Bengaluru,Brand Website,Summer,198
+2024-07-07,SKU2871,Ethnic Wear,Kurta,2638,20,4.1,Mumbai,Offline,Monsoon,147
+2025-02-25,SKU2384,Ethnic Wear,Lehenga,10028,0,4.8,Mumbai,Offline,Winter,141
+2024-01-13,SKU1727,Ethnic Wear,Saree,5765,20,3.6,Delhi,Myntra,Winter,145
+2024-11-19,SKU9872,Ethnic Wear,Kurta,2575,30,4.6,Bhopal,Offline,Winter,160
+2025-06-07,SKU1448,Ethnic Wear,Lehenga,9751,30,4.6,Bengaluru,Brand Website,Summer,67
+2025-03-05,SKU1935,Ethnic Wear,Lehenga,9177,30,5.0,Bhopal,Myntra,Summer,59
+2025-11-28,SKU7944,Ethnic Wear,Lehenga,9065,0,4.9,Pune,Brand Website,Winter,233
+2024-07-15,SKU4903,Ethnic Wear,Saree,4350,0,4.7,Delhi,Myntra,Monsoon,145
+2024-07-04,SKU1632,Ethnic Wear,Saree,5026,30,4.5,Pune,Offline,Monsoon,111
+2024-10-19,SKU3036,Ethnic Wear,Lehenga,9083,30,3.8,Bengaluru,Brand Website,Winter,153
+2025-01-04,SKU8207,Ethnic Wear,Kurta,3466,25,4.8,Mumbai,Offline,Winter,123
+2024-10-05,SKU1959,Ethnic Wear,Saree,4262,15,3.8,Pune,Myntra,Winter,293
+2024-04-10,SKU5524,Ethnic Wear,Kurta,2214,0,4.8,Bengaluru,Offline,Summer,160
+2025-11-03,SKU2875,Ethnic Wear,Kurta,3303,20,4.0,Lucknow,Myntra,Winter,184
+2024-06-11,SKU4734,Ethnic Wear,Saree,4066,25,4.8,Mumbai,Brand Website,Summer,220
+2024-04-25,SKU9854,Ethnic Wear,Lehenga,9432,0,3.6,Lucknow,Myntra,Summer,33
+2024-10-29,SKU9372,Ethnic Wear,Kurta,3836,10,4.7,Mumbai,Myntra,Winter,274
+2023-10-21,SKU2169,Ethnic Wear,Saree,4101,10,4.4,Lucknow,Offline,Winter,203
+2023-03-05,SKU7139,Ethnic Wear,Lehenga,8656,10,3.6,Hyderabad,Offline,Summer,49
+2024-10-03,SKU1418,Ethnic Wear,Kurta,3592,25,4.7,Mumbai,Brand Website,Winter,269
+2023-03-08,SKU6636,Ethnic Wear,Lehenga,8614,15,4.6,Delhi,Offline,Summer,68
+2025-05-06,SKU2266,Ethnic Wear,Lehenga,10207,25,3.7,Delhi,Brand Website,Summer,68
+2025-12-10,SKU1842,Ethnic Wear,Lehenga,10131,15,4.0,Pune,Offline,Winter,98
+2025-01-11,SKU5801,Ethnic Wear,Kurta,2445,15,4.0,Delhi,Offline,Winter,154
+2025-01-11,SKU4949,Ethnic Wear,Saree,4326,10,4.3,Hyderabad,Brand Website,Winter,125
+2024-04-16,SKU6935,Ethnic Wear,Lehenga,9838,30,4.1,Lucknow,Offline,Summer,44
+2023-10-10,SKU3052,Ethnic Wear,Saree,6480,10,4.7,Pune,Myntra,Winter,223
+2025-10-31,SKU2932,Ethnic Wear,Saree,4607,20,4.2,Mumbai,Offline,Winter,354
+2023-12-08,SKU4245,Ethnic Wear,Kurta,1994,15,3.9,Delhi,Offline,Winter,129
+2023-03-11,SKU8698,Ethnic Wear,Kurta,3267,0,4.5,Lucknow,Myntra,Summer,164
+2025-05-14,SKU3168,Ethnic Wear,Saree,5451,0,4.1,Pune,Brand Website,Summer,93
+2023-08-09,SKU5806,Ethnic Wear,Saree,4185,0,4.6,Mumbai,Offline,Monsoon,95
+2025-06-11,SKU7699,Ethnic Wear,Lehenga,9184,30,4.2,Lucknow,Offline,Summer,35
+2025-01-27,SKU9345,Ethnic Wear,Kurta,3357,15,4.0,Mumbai,Myntra,Winter,112
+2024-08-31,SKU5576,Ethnic Wear,Kurta,3520,10,3.6,Bhopal,Myntra,Monsoon,99
+2024-08-07,SKU9604,Ethnic Wear,Saree,5322,15,4.0,Pune,Brand Website,Monsoon,86
+2024-03-07,SKU3346,Ethnic Wear,Lehenga,9763,20,3.9,Mumbai,Brand Website,Summer,66
+2023-12-06,SKU6150,Ethnic Wear,Saree,4485,10,3.9,Mumbai,Offline,Winter,227
+2023-08-06,SKU3774,Ethnic Wear,Lehenga,8948,25,3.9,Bengaluru,Offline,Monsoon,31
+2023-03-23,SKU9334,Ethnic Wear,Kurta,3711,20,4.7,Bhopal,Myntra,Summer,113
+2025-05-23,SKU1422,Ethnic Wear,Saree,5822,20,3.7,Bengaluru,Myntra,Summer,105
+2025-06-29,SKU2795,Ethnic Wear,Kurta,3270,15,3.9,Lucknow,Brand Website,Summer,142
+2024-03-31,SKU2908,Ethnic Wear,Lehenga,8304,10,3.7,Bengaluru,Myntra,Summer,46
+2024-10-06,SKU9402,Ethnic Wear,Lehenga,8157,15,3.7,Lucknow,Myntra,Winter,160
+2023-03-14,SKU6202,Ethnic Wear,Lehenga,8032,0,3.7,Delhi,Brand Website,Summer,50
+2025-08-20,SKU4607,Ethnic Wear,Saree,4620,15,4.7,Lucknow,Myntra,Monsoon,142
+2025-11-23,SKU3159,Ethnic Wear,Kurta,2377,0,4.2,Delhi,Brand Website,Winter,219
+2025-05-06,SKU4416,Ethnic Wear,Kurta,2577,20,4.1,Lucknow,Myntra,Summer,159
+2024-01-04,SKU6713,Ethnic Wear,Lehenga,9229,30,3.8,Hyderabad,Brand Website,Winter,83
+2025-01-01,SKU8947,Ethnic Wear,Saree,6225,15,3.9,Hyderabad,Brand Website,Winter,106
+2025-05-20,SKU7874,Ethnic Wear,Kurta,1974,0,4.2,Hyderabad,Offline,Summer,125
+2023-09-20,SKU2860,Ethnic Wear,Saree,5981,30,4.7,Bengaluru,Brand Website,Monsoon,132
+2025-11-05,SKU4847,Ethnic Wear,Saree,4881,30,4.7,Mumbai,Offline,Winter,439
+2025-03-12,SKU5286,Ethnic Wear,Saree,5810,15,4.1,Lucknow,Offline,Summer,99
+2024-11-26,SKU5396,Ethnic Wear,Kurta,1686,10,4.2,Hyderabad,Brand Website,Winter,187
+2023-08-14,SKU3728,Ethnic Wear,Lehenga,9350,0,4.4,Pune,Myntra,Monsoon,37
+2024-11-13,SKU1345,Ethnic Wear,Kurta,2944,30,4.6,Bhopal,Offline,Winter,142
+2024-02-11,SKU1806,Ethnic Wear,Saree,4643,30,4.3,Pune,Myntra,Winter,344
+2024-11-09,SKU4757,Ethnic Wear,Saree,5693,0,4.3,Bengaluru,Myntra,Winter,323
+2023-07-29,SKU1591,Ethnic Wear,Lehenga,10054,15,4.7,Bhopal,Myntra,Monsoon,40
+2024-05-21,SKU5638,Ethnic Wear,Kurta,1638,10,4.6,Bengaluru,Myntra,Summer,227
+2024-07-06,SKU7190,Ethnic Wear,Kurta,1847,0,3.6,Lucknow,Offline,Monsoon,79
+2023-11-07,SKU7805,Ethnic Wear,Lehenga,8391,25,4.4,Mumbai,Myntra,Winter,375
+2025-11-15,SKU6114,Ethnic Wear,Saree,4095,10,3.9,Bhopal,Offline,Winter,250
+2025-02-10,SKU5329,Ethnic Wear,Saree,5192,15,3.6,Lucknow,Brand Website,Winter,209
+2025-12-28,SKU5563,Ethnic Wear,Lehenga,10075,0,4.1,Hyderabad,Offline,Winter,141
+2023-08-10,SKU7106,Ethnic Wear,Lehenga,9852,0,4.4,Bhopal,Brand Website,Monsoon,29
+2023-08-12,SKU4802,Ethnic Wear,Saree,5272,10,3.7,Hyderabad,Offline,Monsoon,77
+2024-03-01,SKU2370,Ethnic Wear,Kurta,3506,20,3.9,Mumbai,Brand Website,Summer,138
+2023-05-01,SKU9575,Ethnic Wear,Kurta,3521,10,4.1,Lucknow,Brand Website,Summer,133
+2025-04-12,SKU3467,Ethnic Wear,Lehenga,8022,10,4.5,Mumbai,Offline,Summer,70
+2024-04-27,SKU9007,Ethnic Wear,Saree,5318,15,4.6,Pune,Offline,Summer,108
+2023-06-08,SKU2334,Ethnic Wear,Lehenga,9538,0,4.6,Mumbai,Offline,Summer,41
+2023-08-21,SKU2990,Ethnic Wear,Saree,4159,15,4.2,Delhi,Myntra,Monsoon,180
+2025-05-06,SKU9594,Ethnic Wear,Lehenga,9635,0,3.9,Hyderabad,Myntra,Summer,43
+2025-12-06,SKU5820,Ethnic Wear,Saree,5320,20,4.8,Lucknow,Brand Website,Winter,240
+2024-02-23,SKU3718,Ethnic Wear,Lehenga,9520,20,4.4,Delhi,Offline,Winter,168
+2025-08-28,SKU3217,Ethnic Wear,Lehenga,8040,10,4.1,Delhi,Brand Website,Monsoon,57
+2024-01-20,SKU2098,Ethnic Wear,Lehenga,8816,25,3.6,Mumbai,Offline,Winter,88
+2023-11-17,SKU2551,Ethnic Wear,Saree,4273,10,4.5,Mumbai,Brand Website,Winter,633
+2024-07-16,SKU6651,Ethnic Wear,Kurta,2664,30,4.9,Lucknow,Myntra,Monsoon,172
+2024-06-05,SKU6009,Ethnic Wear,Saree,6298,20,4.5,Bengaluru,Brand Website,Summer,96
+2024-07-27,SKU3497,Ethnic Wear,Kurta,2230,10,4.3,Mumbai,Brand Website,Monsoon,140
+2024-11-07,SKU9557,Ethnic Wear,Saree,6357,30,4.8,Pune,Brand Website,Winter,458
+2024-04-19,SKU8756,Ethnic Wear,Kurta,2386,0,4.9,Delhi,Myntra,Summer,232
+2024-10-24,SKU3348,Ethnic Wear,Kurta,1818,0,3.7,Delhi,Offline,Winter,212
+2024-09-11,SKU7969,Ethnic Wear,Saree,6049,30,3.7,Lucknow,Offline,Monsoon,67
+2025-08-29,SKU7181,Ethnic Wear,Lehenga,9454,10,4.8,Bhopal,Offline,Monsoon,31
+2024-07-22,SKU2281,Ethnic Wear,Kurta,2085,30,4.2,Pune,Myntra,Monsoon,172
+2025-06-10,SKU5104,Ethnic Wear,Lehenga,9426,0,3.5,Lucknow,Myntra,Summer,31
+2025-05-18,SKU8636,Ethnic Wear,Saree,4875,20,4.3,Bhopal,Brand Website,Summer,129
+2023-01-22,SKU4129,Ethnic Wear,Kurta,2302,15,4.0,Hyderabad,Offline,Winter,91
+2024-06-03,SKU6085,Ethnic Wear,Saree,6059,0,4.4,Bengaluru,Myntra,Summer,79
+2023-03-31,SKU5504,Ethnic Wear,Saree,5036,10,4.4,Lucknow,Offline,Summer,113
+2025-07-19,SKU1498,Ethnic Wear,Saree,6008,0,4.2,Bhopal,Brand Website,Monsoon,88
+2025-01-26,SKU9938,Ethnic Wear,Kurta,1618,20,4.8,Bhopal,Myntra,Winter,110
+2025-05-09,SKU3898,Ethnic Wear,Kurta,1989,0,4.2,Bhopal,Myntra,Summer,143
+2024-02-02,SKU6148,Ethnic Wear,Saree,4068,10,4.8,Mumbai,Brand Website,Winter,387
+2025-11-23,SKU3772,Ethnic Wear,Saree,4058,25,4.1,Pune,Brand Website,Winter,529
+2024-06-30,SKU2064,Ethnic Wear,Kurta,1843,0,4.2,Delhi,Brand Website,Summer,160
+2023-12-21,SKU4255,Ethnic Wear,Saree,4013,10,3.9,Lucknow,Brand Website,Winter,182
+2023-06-26,SKU6594,Ethnic Wear,Lehenga,10319,15,3.6,Hyderabad,Brand Website,Summer,53
+2024-10-12,SKU3990,Ethnic Wear,Kurta,3921,25,4.9,Lucknow,Myntra,Winter,245
+2025-07-31,SKU1171,Ethnic Wear,Saree,4332,25,4.9,Delhi,Brand Website,Monsoon,175
+2024-09-27,SKU4130,Ethnic Wear,Kurta,1718,15,4.6,Lucknow,Brand Website,Monsoon,123
+2024-04-07,SKU3300,Ethnic Wear,Saree,4771,10,4.8,Pune,Offline,Summer,95
+2024-06-25,SKU5832,Ethnic Wear,Saree,4378,15,4.0,Bengaluru,Brand Website,Summer,110
+2023-12-16,SKU9569,Ethnic Wear,Lehenga,8150,30,4.4,Hyderabad,Brand Website,Winter,164
+2024-08-14,SKU4451,Ethnic Wear,Saree,4849,10,4.5,Lucknow,Offline,Monsoon,76
+2024-06-12,SKU5406,Ethnic Wear,Kurta,2393,15,3.9,Mumbai,Brand Website,Summer,215
+2025-08-31,SKU9471,Ethnic Wear,Kurta,2072,15,4.4,Lucknow,Brand Website,Monsoon,127
+2024-10-22,SKU7191,Ethnic Wear,Kurta,1928,25,4.0,Lucknow,Brand Website,Winter,229
+2024-11-20,SKU3600,Ethnic Wear,Saree,4410,0,4.9,Hyderabad,Offline,Winter,377
+2025-07-23,SKU9958,Ethnic Wear,Saree,6431,20,4.5,Delhi,Myntra,Monsoon,167
+2025-02-03,SKU8759,Ethnic Wear,Saree,6461,10,4.2,Bhopal,Myntra,Winter,162
+2025-05-12,SKU1657,Ethnic Wear,Kurta,3244,30,3.9,Delhi,Brand Website,Summer,202
+2024-09-07,SKU1467,Ethnic Wear,Kurta,3944,25,4.9,Delhi,Brand Website,Monsoon,170
+2023-04-21,SKU3286,Ethnic Wear,Saree,4370,10,4.7,Delhi,Brand Website,Summer,133
+2025-08-01,SKU6670,Ethnic Wear,Kurta,1503,25,3.7,Hyderabad,Offline,Monsoon,136
+2024-04-28,SKU5936,Ethnic Wear,Kurta,2332,15,3.6,Bengaluru,Myntra,Summer,132
+2023-07-24,SKU1081,Ethnic Wear,Saree,5928,20,4.5,Hyderabad,Myntra,Monsoon,148
+2024-05-12,SKU8738,Ethnic Wear,Saree,4392,15,3.7,Lucknow,Offline,Summer,97
+2025-05-19,SKU3187,Ethnic Wear,Saree,6445,15,4.3,Hyderabad,Offline,Summer,89
+2025-01-25,SKU4632,Ethnic Wear,Kurta,2983,10,4.3,Pune,Myntra,Winter,86
+2023-10-10,SKU7523,Ethnic Wear,Kurta,3547,0,3.6,Mumbai,Brand Website,Winter,148
+2024-01-04,SKU2521,Ethnic Wear,Lehenga,9743,0,3.9,Bengaluru,Offline,Winter,60
+2024-01-03,SKU8875,Ethnic Wear,Saree,4669,15,4.5,Mumbai,Offline,Winter,202
+2023-07-27,SKU8617,Ethnic Wear,Saree,5656,30,4.7,Bhopal,Myntra,Monsoon,102
+2025-07-20,SKU3109,Ethnic Wear,Saree,4047,15,4.5,Pune,Brand Website,Monsoon,142
+2025-05-20,SKU7921,Ethnic Wear,Saree,5059,25,4.5,Bhopal,Myntra,Summer,127
+2024-11-17,SKU8377,Ethnic Wear,Saree,6191,10,3.7,Pune,Offline,Winter,221
+2023-06-13,SKU7947,Ethnic Wear,Lehenga,8615,0,4.0,Pune,Offline,Summer,45
+2025-07-20,SKU5224,Ethnic Wear,Lehenga,9781,0,4.2,Delhi,Brand Website,Monsoon,43
+2025-01-26,SKU9021,Ethnic Wear,Kurta,2533,15,4.0,Hyderabad,Offline,Winter,94
+2024-08-23,SKU1385,Ethnic Wear,Kurta,2961,15,3.5,Pune,Offline,Monsoon,74
+2023-03-16,SKU1583,Ethnic Wear,Saree,6176,25,4.1,Pune,Myntra,Summer,95
+2023-10-24,SKU9765,Ethnic Wear,Lehenga,10021,15,4.8,Mumbai,Myntra,Winter,208
+2025-12-08,SKU8504,Ethnic Wear,Kurta,3830,15,3.6,Lucknow,Brand Website,Winter,70
+2023-07-27,SKU1627,Ethnic Wear,Lehenga,9564,20,5.0,Delhi,Brand Website,Monsoon,63
+2024-06-10,SKU7565,Ethnic Wear,Lehenga,8324,30,4.9,Mumbai,Myntra,Summer,114
+2025-11-18,SKU4139,Ethnic Wear,Saree,6208,30,4.7,Pune,Offline,Winter,433
+2024-03-16,SKU1800,Ethnic Wear,Saree,5789,10,4.6,Bengaluru,Brand Website,Summer,128
+2025-03-27,SKU5535,Ethnic Wear,Kurta,2242,25,3.9,Pune,Brand Website,Summer,118
+2024-06-30,SKU7788,Ethnic Wear,Saree,5894,20,4.7,Lucknow,Myntra,Summer,124
+2024-10-26,SKU2591,Ethnic Wear,Kurta,2405,0,4.4,Delhi,Myntra,Winter,280
+2024-11-04,SKU8547,Ethnic Wear,Lehenga,10217,15,4.2,Pune,Offline,Winter,219
+2025-06-29,SKU6618,Ethnic Wear,Saree,4621,15,4.8,Bengaluru,Offline,Summer,125
+2025-03-09,SKU9720,Ethnic Wear,Lehenga,9047,15,3.5,Lucknow,Myntra,Summer,45
+2024-12-08,SKU2287,Ethnic Wear,Lehenga,8340,0,4.6,Lucknow,Offline,Winter,118
+2025-08-15,SKU5781,Ethnic Wear,Saree,4121,0,4.4,Bhopal,Offline,Monsoon,57
+2023-02-17,SKU6761,Ethnic Wear,Saree,5162,20,4.6,Pune,Offline,Winter,283
+2023-09-10,SKU7148,Ethnic Wear,Saree,4397,15,3.8,Pune,Myntra,Monsoon,145
+2025-04-01,SKU5740,Ethnic Wear,Lehenga,10253,15,4.0,Delhi,Myntra,Summer,53
+2023-08-05,SKU5569,Ethnic Wear,Lehenga,9301,20,4.3,Bengaluru,Offline,Monsoon,38
+2025-07-09,SKU7618,Ethnic Wear,Saree,4642,30,3.8,Hyderabad,Offline,Monsoon,84
+2023-12-19,SKU6473,Ethnic Wear,Lehenga,8402,15,4.4,Bhopal,Offline,Winter,115
+2023-03-01,SKU7852,Ethnic Wear,Lehenga,8918,0,4.4,Hyderabad,Myntra,Summer,51
+2025-04-17,SKU2319,Ethnic Wear,Lehenga,8093,10,4.4,Pune,Brand Website,Summer,45
+2023-02-16,SKU8731,Ethnic Wear,Saree,6463,30,4.5,Lucknow,Myntra,Winter,233
+2025-01-25,SKU4162,Ethnic Wear,Saree,4980,0,4.2,Bhopal,Myntra,Winter,125
+2023-05-13,SKU4273,Ethnic Wear,Saree,4126,0,4.4,Bengaluru,Myntra,Summer,123
+2025-10-21,SKU8268,Ethnic Wear,Saree,4455,30,4.4,Delhi,Myntra,Winter,391
+2023-05-24,SKU3609,Ethnic Wear,Lehenga,8028,25,3.5,Delhi,Offline,Summer,62
+2025-05-04,SKU8703,Ethnic Wear,Kurta,2565,25,4.3,Bhopal,Offline,Summer,146
+2023-05-03,SKU1388,Ethnic Wear,Lehenga,9199,30,4.1,Hyderabad,Offline,Summer,59
+2025-06-20,SKU6953,Ethnic Wear,Lehenga,9755,30,3.7,Hyderabad,Brand Website,Summer,42
+2023-12-13,SKU5300,Ethnic Wear,Kurta,3001,15,4.5,Bhopal,Brand Website,Winter,80
+2024-06-25,SKU4982,Ethnic Wear,Kurta,1897,10,4.5,Bhopal,Offline,Summer,101
+2024-12-02,SKU9053,Ethnic Wear,Saree,5209,25,4.2,Bhopal,Myntra,Winter,253
+2023-03-15,SKU5225,Ethnic Wear,Lehenga,8573,0,4.3,Pune,Offline,Summer,30
+2024-08-19,SKU7076,Ethnic Wear,Lehenga,9256,25,3.7,Pune,Offline,Monsoon,37
+2024-08-26,SKU8787,Ethnic Wear,Lehenga,8632,25,4.7,Lucknow,Offline,Monsoon,34
+2024-04-11,SKU5789,Ethnic Wear,Saree,4114,30,3.8,Bhopal,Offline,Summer,87
+2025-11-24,SKU6966,Ethnic Wear,Lehenga,9662,15,4.4,Lucknow,Brand Website,Winter,185
+2025-10-23,SKU6639,Ethnic Wear,Lehenga,9287,20,4.1,Lucknow,Myntra,Winter,174
+2025-09-14,SKU8950,Ethnic Wear,Lehenga,8718,15,4.8,Lucknow,Myntra,Monsoon,44
+2024-02-27,SKU2060,Ethnic Wear,Saree,4918,0,3.9,Bengaluru,Myntra,Winter,236
+2025-10-18,SKU2959,Ethnic Wear,Saree,5881,20,4.9,Lucknow,Myntra,Winter,321
+2025-01-14,SKU9587,Ethnic Wear,Kurta,1634,15,4.4,Delhi,Brand Website,Winter,197
+2023-06-12,SKU2100,Ethnic Wear,Lehenga,8229,15,4.4,Bengaluru,Brand Website,Summer,50
+2024-05-16,SKU5195,Ethnic Wear,Kurta,2435,25,4.6,Bhopal,Brand Website,Summer,131
+2024-01-25,SKU5354,Ethnic Wear,Kurta,1760,0,4.3,Pune,Offline,Winter,74
+2023-04-15,SKU8819,Ethnic Wear,Lehenga,9306,30,4.5,Hyderabad,Myntra,Summer,57
+2024-02-09,SKU2907,Ethnic Wear,Saree,4409,20,4.4,Hyderabad,Myntra,Winter,323
+2025-05-30,SKU5914,Ethnic Wear,Lehenga,8456,25,4.8,Pune,Myntra,Summer,78
+2025-07-23,SKU4191,Ethnic Wear,Lehenga,8002,10,4.6,Pune,Brand Website,Monsoon,64
+2025-11-04,SKU9070,Ethnic Wear,Saree,5979,20,3.9,Lucknow,Myntra,Winter,361
+2024-11-29,SKU5328,Ethnic Wear,Kurta,2627,25,4.3,Bhopal,Brand Website,Winter,166
+2023-01-14,SKU8209,Ethnic Wear,Saree,5307,20,4.2,Mumbai,Myntra,Winter,158
+2024-09-15,SKU2074,Ethnic Wear,Lehenga,8387,30,4.2,Bhopal,Offline,Monsoon,41
+2023-08-11,SKU9824,Ethnic Wear,Kurta,2449,0,4.0,Bhopal,Myntra,Monsoon,97
+2024-09-06,SKU9690,Ethnic Wear,Lehenga,10496,0,4.4,Hyderabad,Myntra,Monsoon,45
+2023-11-20,SKU3562,Ethnic Wear,Kurta,3999,25,3.7,Delhi,Offline,Winter,236
+2024-07-05,SKU8762,Ethnic Wear,Saree,4936,10,4.2,Lucknow,Brand Website,Monsoon,114
+2024-11-14,SKU5974,Ethnic Wear,Saree,5449,30,4.6,Bengaluru,Myntra,Winter,514
+2023-01-12,SKU7968,Ethnic Wear,Saree,5655,0,5.0,Pune,Offline,Winter,113
+2024-02-19,SKU3292,Ethnic Wear,Kurta,2354,25,4.6,Hyderabad,Offline,Winter,120
+2025-02-22,SKU7119,Ethnic Wear,Saree,5334,20,4.3,Mumbai,Offline,Winter,220
+2024-07-15,SKU4522,Ethnic Wear,Saree,4437,0,3.9,Pune,Brand Website,Monsoon,86
+2023-04-05,SKU8859,Ethnic Wear,Saree,5597,25,4.9,Lucknow,Brand Website,Summer,132
+2025-02-07,SKU5093,Ethnic Wear,Lehenga,8242,0,3.6,Bengaluru,Brand Website,Winter,108
+2023-08-16,SKU9812,Ethnic Wear,Saree,5932,0,4.8,Bengaluru,Offline,Monsoon,60
+2024-09-04,SKU7779,Ethnic Wear,Kurta,3851,0,4.3,Bhopal,Myntra,Monsoon,100
+2024-06-17,SKU6371,Ethnic Wear,Lehenga,10280,20,4.7,Pune,Brand Website,Summer,59
+2024-10-04,SKU3301,Ethnic Wear,Lehenga,9479,30,4.2,Bhopal,Myntra,Winter,184
+2025-01-11,SKU6263,Ethnic Wear,Saree,5364,0,4.5,Hyderabad,Myntra,Winter,164
+2023-10-15,SKU5183,Ethnic Wear,Kurta,1988,25,4.1,Pune,Brand Website,Winter,204
+2023-05-04,SKU8968,Ethnic Wear,Lehenga,10098,10,3.5,Bhopal,Myntra,Summer,33
+2025-10-04,SKU1525,Ethnic Wear,Lehenga,9157,20,4.0,Pune,Offline,Winter,103
+2023-08-19,SKU2237,Ethnic Wear,Lehenga,10178,0,4.7,Pune,Myntra,Monsoon,62
+2024-01-26,SKU2437,Ethnic Wear,Lehenga,8299,30,4.5,Pune,Offline,Winter,119
+2024-11-07,SKU8630,Ethnic Wear,Kurta,1799,0,4.5,Hyderabad,Brand Website,Winter,193
+2025-06-04,SKU9646,Ethnic Wear,Lehenga,8087,15,4.4,Bhopal,Brand Website,Summer,36
+2024-10-22,SKU7388,Ethnic Wear,Kurta,3249,0,3.9,Mumbai,Myntra,Winter,172
+2024-02-15,SKU6351,Ethnic Wear,Lehenga,10352,10,4.8,Pune,Offline,Winter,147
+2024-09-23,SKU4094,Ethnic Wear,Kurta,2243,0,3.5,Bhopal,Myntra,Monsoon,101
+2024-12-14,SKU1646,Ethnic Wear,Lehenga,8283,10,4.8,Bhopal,Myntra,Winter,186
+2025-05-18,SKU4421,Ethnic Wear,Kurta,2610,0,4.9,Delhi,Offline,Summer,154
+2023-09-10,SKU6821,Ethnic Wear,Saree,5536,0,4.2,Mumbai,Myntra,Monsoon,139
+2025-06-17,SKU4417,Ethnic Wear,Saree,5635,0,3.8,Hyderabad,Myntra,Summer,92
+2025-11-23,SKU3042,Ethnic Wear,Lehenga,8498,0,4.6,Mumbai,Myntra,Winter,264
+2024-10-10,SKU9013,Ethnic Wear,Saree,5700,0,3.8,Lucknow,Brand Website,Winter,128
+2025-11-07,SKU9305,Ethnic Wear,Saree,4458,15,3.5,Bengaluru,Offline,Winter,307
+2025-01-08,SKU7881,Ethnic Wear,Saree,5269,30,3.6,Hyderabad,Myntra,Winter,192
+2025-03-09,SKU5926,Ethnic Wear,Kurta,3430,0,4.9,Delhi,Brand Website,Summer,164
+2023-12-30,SKU6296,Ethnic Wear,Kurta,3812,0,3.7,Mumbai,Myntra,Winter,85
+2024-03-05,SKU8697,Ethnic Wear,Kurta,2700,10,4.4,Bhopal,Myntra,Summer,164
+2023-11-07,SKU7868,Ethnic Wear,Lehenga,8743,10,4.8,Delhi,Myntra,Winter,301
+2024-09-18,SKU3660,Ethnic Wear,Kurta,3153,25,4.1,Mumbai,Offline,Monsoon,147
+2023-02-28,SKU6260,Ethnic Wear,Saree,5927,0,4.6,Mumbai,Myntra,Winter,214
+2025-12-11,SKU7679,Ethnic Wear,Saree,4695,0,3.7,Mumbai,Brand Website,Winter,201
+2025-09-01,SKU2509,Ethnic Wear,Kurta,3402,15,4.8,Hyderabad,Myntra,Monsoon,179
+2023-01-02,SKU3202,Ethnic Wear,Lehenga,9275,15,4.2,Bhopal,Brand Website,Winter,86
+2025-01-18,SKU3100,Ethnic Wear,Lehenga,8394,15,4.2,Bengaluru,Brand Website,Winter,112
+2023-09-23,SKU4215,Ethnic Wear,Lehenga,8584,0,4.5,Delhi,Myntra,Monsoon,78
+2024-05-26,SKU7616,Ethnic Wear,Kurta,2426,10,3.8,Bengaluru,Brand Website,Summer,151
+2025-11-30,SKU6384,Ethnic Wear,Lehenga,10117,20,5.0,Lucknow,Offline,Winter,211
+2023-10-25,SKU3157,Ethnic Wear,Saree,6373,25,4.9,Bengaluru,Offline,Winter,195
+2024-01-09,SKU7308,Ethnic Wear,Kurta,1558,0,4.5,Lucknow,Myntra,Winter,128
+2023-01-24,SKU4896,Ethnic Wear,Saree,6343,15,4.2,Delhi,Offline,Winter,130
+2024-06-22,SKU7646,Ethnic Wear,Saree,6235,15,3.7,Hyderabad,Myntra,Summer,91
+2024-06-06,SKU9429,Ethnic Wear,Kurta,2896,30,4.8,Bengaluru,Offline,Summer,207
+2024-12-02,SKU8476,Ethnic Wear,Lehenga,10126,10,3.6,Lucknow,Myntra,Winter,101
+2024-04-10,SKU1416,Ethnic Wear,Kurta,3373,30,3.7,Pune,Myntra,Summer,158
+2025-07-15,SKU5844,Ethnic Wear,Saree,5786,20,5.0,Delhi,Offline,Monsoon,94
+2024-02-04,SKU9269,Ethnic Wear,Lehenga,8580,30,4.5,Delhi,Offline,Winter,230
+2025-12-22,SKU6798,Ethnic Wear,Kurta,3650,0,4.7,Pune,Brand Website,Winter,91
+2025-02-05,SKU4775,Ethnic Wear,Kurta,2150,0,4.5,Lucknow,Brand Website,Winter,103
+2025-05-18,SKU4707,Ethnic Wear,Kurta,2328,10,3.6,Bhopal,Brand Website,Summer,134
+2025-05-12,SKU7567,Ethnic Wear,Lehenga,9951,15,4.0,Bengaluru,Offline,Summer,47
+2024-09-30,SKU1005,Ethnic Wear,Lehenga,8855,25,4.4,Mumbai,Offline,Monsoon,64
+2023-10-22,SKU1970,Ethnic Wear,Kurta,3469,30,3.7,Bhopal,Offline,Winter,172
+2025-05-08,SKU7410,Ethnic Wear,Lehenga,9601,20,3.8,Bhopal,Myntra,Summer,48
+2025-04-02,SKU2155,Ethnic Wear,Kurta,2005,25,4.6,Delhi,Offline,Summer,271
+2024-07-18,SKU3487,Ethnic Wear,Kurta,2841,0,4.5,Delhi,Offline,Monsoon,119
+2025-08-22,SKU2681,Ethnic Wear,Lehenga,8951,25,4.2,Bhopal,Brand Website,Monsoon,54
+2023-11-11,SKU9867,Ethnic Wear,Saree,4288,30,4.9,Lucknow,Brand Website,Winter,459
+2023-08-20,SKU5458,Ethnic Wear,Saree,5910,15,4.4,Mumbai,Offline,Monsoon,113
+2025-12-06,SKU8983,Ethnic Wear,Kurta,1922,0,5.0,Bhopal,Offline,Winter,99
+2025-06-04,SKU6940,Ethnic Wear,Saree,5727,0,4.5,Delhi,Brand Website,Summer,146
+2024-11-04,SKU5519,Ethnic Wear,Lehenga,9718,25,4.8,Bengaluru,Brand Website,Winter,378
+2025-09-21,SKU2361,Ethnic Wear,Lehenga,8994,20,4.2,Mumbai,Myntra,Monsoon,74
+2025-02-08,SKU2703,Ethnic Wear,Saree,6484,20,4.8,Bhopal,Brand Website,Winter,210
+2023-07-21,SKU1689,Ethnic Wear,Lehenga,10357,0,3.7,Pune,Myntra,Monsoon,47
+2025-05-13,SKU6909,Ethnic Wear,Lehenga,9612,25,4.6,Pune,Brand Website,Summer,51
+2025-12-06,SKU8212,Ethnic Wear,Lehenga,8152,15,4.7,Bhopal,Offline,Winter,141
+2023-02-19,SKU1420,Ethnic Wear,Kurta,2847,0,3.9,Delhi,Brand Website,Winter,107
+2025-01-04,SKU1464,Ethnic Wear,Saree,5409,10,5.0,Lucknow,Offline,Winter,109
+2025-07-27,SKU8307,Ethnic Wear,Saree,5077,30,4.7,Bhopal,Myntra,Monsoon,111
+2025-04-01,SKU9966,Ethnic Wear,Lehenga,9427,30,4.7,Lucknow,Offline,Summer,57
+2024-04-11,SKU2456,Ethnic Wear,Lehenga,9296,30,4.0,Bengaluru,Offline,Summer,57
+2025-10-15,SKU2481,Ethnic Wear,Saree,4762,30,4.1,Lucknow,Offline,Winter,200
+2025-01-10,SKU8953,Ethnic Wear,Saree,4652,0,4.0,Bengaluru,Offline,Winter,91
+2024-08-29,SKU6087,Ethnic Wear,Lehenga,10293,20,3.8,Pune,Brand Website,Monsoon,50
+2025-04-08,SKU2244,Ethnic Wear,Kurta,2578,0,4.6,Delhi,Myntra,Summer,206
+2024-08-24,SKU7500,Ethnic Wear,Kurta,3835,0,4.0,Delhi,Offline,Monsoon,83
+2024-07-14,SKU5028,Ethnic Wear,Lehenga,8107,15,3.8,Pune,Myntra,Monsoon,62
+2024-03-18,SKU4587,Ethnic Wear,Saree,4595,0,3.9,Delhi,Myntra,Summer,162
+2025-03-29,SKU4149,Ethnic Wear,Lehenga,10357,15,4.6,Hyderabad,Myntra,Summer,67
+2025-01-28,SKU6963,Ethnic Wear,Saree,5493,0,4.0,Bhopal,Offline,Winter,79
+2023-09-21,SKU3203,Ethnic Wear,Kurta,1895,30,5.0,Bengaluru,Brand Website,Monsoon,227
+2024-04-11,SKU9771,Ethnic Wear,Lehenga,9426,25,4.6,Bengaluru,Myntra,Summer,78
+2023-04-19,SKU4669,Ethnic Wear,Lehenga,9885,20,4.2,Hyderabad,Offline,Summer,50
+2025-07-07,SKU2059,Ethnic Wear,Lehenga,10289,25,3.6,Delhi,Myntra,Monsoon,60
+2023-05-14,SKU3422,Ethnic Wear,Saree,5130,20,3.9,Mumbai,Brand Website,Summer,158
+2025-06-01,SKU1451,Ethnic Wear,Saree,4546,15,3.8,Lucknow,Brand Website,Summer,93
+2023-10-23,SKU4810,Ethnic Wear,Saree,6210,25,4.4,Pune,Brand Website,Winter,288
+2023-09-03,SKU1867,Ethnic Wear,Lehenga,8290,20,3.6,Lucknow,Offline,Monsoon,31
+2024-01-07,SKU4188,Ethnic Wear,Kurta,1620,25,4.9,Delhi,Brand Website,Winter,216
+2025-03-04,SKU6436,Ethnic Wear,Saree,5669,15,4.5,Mumbai,Myntra,Summer,123
+2024-12-28,SKU6624,Ethnic Wear,Saree,4726,25,4.1,Delhi,Myntra,Winter,298
+2024-02-15,SKU2486,Ethnic Wear,Saree,4928,10,5.0,Delhi,Offline,Winter,319
+2024-06-11,SKU6565,Ethnic Wear,Lehenga,8083,20,3.6,Hyderabad,Myntra,Summer,59
+2025-12-19,SKU7113,Ethnic Wear,Kurta,1551,0,4.0,Mumbai,Myntra,Winter,121
+2025-10-17,SKU2136,Ethnic Wear,Lehenga,8744,20,3.8,Delhi,Myntra,Winter,186
+2023-12-29,SKU3534,Ethnic Wear,Lehenga,9805,25,4.8,Pune,Offline,Winter,171
+2023-03-21,SKU3438,Ethnic Wear,Kurta,3701,30,4.9,Bhopal,Offline,Summer,164
+2024-01-05,SKU6106,Ethnic Wear,Saree,6417,20,3.8,Bengaluru,Myntra,Winter,103
+2024-11-21,SKU4164,Ethnic Wear,Lehenga,9862,25,4.3,Pune,Myntra,Winter,268
+2023-05-15,SKU8338,Ethnic Wear,Lehenga,9385,0,4.0,Mumbai,Brand Website,Summer,41
+2025-01-03,SKU9040,Ethnic Wear,Kurta,1740,15,4.7,Delhi,Offline,Winter,186
+2024-10-18,SKU2618,Ethnic Wear,Kurta,3659,20,4.4,Bhopal,Brand Website,Winter,168
+2024-02-16,SKU7458,Ethnic Wear,Lehenga,9157,10,3.7,Bhopal,Brand Website,Winter,109
+2025-06-10,SKU5799,Ethnic Wear,Saree,5544,0,4.2,Lucknow,Offline,Summer,75
+2025-03-07,SKU6267,Ethnic Wear,Lehenga,9252,15,5.0,Pune,Offline,Summer,57
+2023-07-02,SKU1903,Ethnic Wear,Kurta,2757,20,4.6,Pune,Myntra,Monsoon,176
+2023-04-09,SKU3840,Ethnic Wear,Lehenga,10188,0,3.6,Lucknow,Offline,Summer,25
+2025-06-07,SKU4084,Ethnic Wear,Kurta,3582,20,4.8,Bengaluru,Brand Website,Summer,175
+2024-01-16,SKU1732,Ethnic Wear,Saree,4907,25,4.0,Delhi,Myntra,Winter,226
+2023-02-01,SKU9114,Ethnic Wear,Lehenga,8185,15,3.8,Delhi,Brand Website,Winter,193
+2024-11-08,SKU5758,Ethnic Wear,Lehenga,8725,15,4.7,Mumbai,Myntra,Winter,346
+2024-05-19,SKU7585,Ethnic Wear,Kurta,2557,15,4.5,Mumbai,Myntra,Summer,244
+2025-04-18,SKU4356,Ethnic Wear,Saree,4041,15,4.7,Lucknow,Brand Website,Summer,116
+2023-01-22,SKU4104,Ethnic Wear,Saree,5619,0,4.5,Bhopal,Offline,Winter,92
+2023-08-25,SKU4653,Ethnic Wear,Kurta,2150,30,4.2,Mumbai,Brand Website,Monsoon,168
+2025-03-26,SKU6363,Ethnic Wear,Saree,5166,20,3.9,Delhi,Brand Website,Summer,160
+2024-02-18,SKU5284,Ethnic Wear,Saree,4354,20,4.8,Mumbai,Myntra,Winter,325
+2023-08-12,SKU9490,Ethnic Wear,Saree,4456,0,3.6,Mumbai,Offline,Monsoon,74
+2024-05-10,SKU2369,Ethnic Wear,Kurta,3285,20,4.1,Bhopal,Brand Website,Summer,140
+2024-10-13,SKU9251,Ethnic Wear,Kurta,1679,20,3.5,Bhopal,Myntra,Winter,139
+2024-02-15,SKU5109,Ethnic Wear,Saree,4231,15,4.1,Delhi,Offline,Winter,335
+2024-02-03,SKU9283,Ethnic Wear,Kurta,2875,25,4.6,Mumbai,Myntra,Winter,132
+2025-12-18,SKU8217,Ethnic Wear,Lehenga,9178,20,3.7,Mumbai,Myntra,Winter,170
+2025-04-19,SKU1929,Ethnic Wear,Kurta,3621,20,3.5,Mumbai,Brand Website,Summer,166
+2023-08-01,SKU6270,Ethnic Wear,Kurta,2457,0,4.1,Bengaluru,Myntra,Monsoon,140
+2024-04-04,SKU7349,Ethnic Wear,Kurta,1644,20,4.3,Bhopal,Brand Website,Summer,114
+2024-08-01,SKU8805,Ethnic Wear,Saree,5584,15,4.9,Pune,Brand Website,Monsoon,106
+2025-09-08,SKU5096,Ethnic Wear,Saree,4627,15,4.3,Bengaluru,Brand Website,Monsoon,115
+2023-12-24,SKU3365,Ethnic Wear,Lehenga,9591,10,4.8,Bengaluru,Brand Website,Winter,143
+2023-03-29,SKU1343,Ethnic Wear,Kurta,3383,15,4.6,Hyderabad,Offline,Summer,158
+2024-12-23,SKU4718,Ethnic Wear,Lehenga,8852,15,4.1,Hyderabad,Myntra,Winter,153
+2025-01-14,SKU8410,Ethnic Wear,Saree,5383,10,4.5,Hyderabad,Offline,Winter,111
+2024-01-27,SKU9682,Ethnic Wear,Kurta,3828,0,4.9,Delhi,Myntra,Winter,158
+2025-02-06,SKU6954,Ethnic Wear,Saree,5257,0,4.1,Hyderabad,Brand Website,Winter,199
+2025-04-24,SKU9893,Ethnic Wear,Saree,4208,0,3.8,Lucknow,Offline,Summer,79
+2025-06-03,SKU3567,Ethnic Wear,Lehenga,8738,15,3.5,Lucknow,Offline,Summer,28
+2023-11-16,SKU3823,Ethnic Wear,Lehenga,9646,20,4.7,Bengaluru,Brand Website,Winter,243
+2023-09-25,SKU7738,Ethnic Wear,Kurta,3493,10,4.4,Bengaluru,Offline,Monsoon,110
+2023-07-18,SKU9693,Ethnic Wear,Kurta,1767,0,3.5,Lucknow,Brand Website,Monsoon,117
+2024-12-31,SKU1864,Ethnic Wear,Saree,4831,25,3.7,Bengaluru,Myntra,Winter,212
+2025-07-03,SKU2081,Ethnic Wear,Saree,5945,10,4.6,Bengaluru,Brand Website,Monsoon,99
+2023-11-08,SKU2662,Ethnic Wear,Kurta,2168,15,3.7,Bhopal,Brand Website,Winter,182
+2025-08-19,SKU7712,Ethnic Wear,Lehenga,9151,25,4.8,Delhi,Brand Website,Monsoon,70
+2023-07-18,SKU2857,Ethnic Wear,Saree,4161,0,4.8,Lucknow,Myntra,Monsoon,117
+2025-01-12,SKU8813,Ethnic Wear,Lehenga,9806,20,4.4,Delhi,Myntra,Winter,124
+2024-12-05,SKU1325,Ethnic Wear,Lehenga,9391,0,4.8,Hyderabad,Brand Website,Winter,114
+2025-03-17,SKU3210,Ethnic Wear,Lehenga,8612,0,5.0,Pune,Offline,Summer,53
+2023-06-20,SKU4229,Ethnic Wear,Saree,5452,20,5.0,Lucknow,Offline,Summer,108
+2025-11-17,SKU3769,Ethnic Wear,Kurta,2647,20,4.9,Bengaluru,Offline,Winter,170
+2024-05-04,SKU6219,Ethnic Wear,Lehenga,9255,10,4.2,Delhi,Myntra,Summer,60
+2025-07-27,SKU1662,Ethnic Wear,Lehenga,8328,10,4.3,Bengaluru,Brand Website,Monsoon,46
+2024-09-11,SKU1174,Ethnic Wear,Kurta,3059,0,4.9,Lucknow,Brand Website,Monsoon,114
+2025-02-07,SKU1589,Ethnic Wear,Saree,5374,10,4.7,Lucknow,Brand Website,Winter,244
+2024-12-10,SKU7671,Ethnic Wear,Kurta,2571,20,3.8,Lucknow,Offline,Winter,76
+2024-10-14,SKU8370,Ethnic Wear,Lehenga,10084,0,3.5,Lucknow,Myntra,Winter,85
+2025-02-03,SKU2753,Ethnic Wear,Kurta,1766,0,4.4,Delhi,Myntra,Winter,131
+2023-01-28,SKU2431,Ethnic Wear,Kurta,2897,30,4.9,Bhopal,Myntra,Winter,104
+2023-08-05,SKU8549,Ethnic Wear,Lehenga,8499,0,4.6,Lucknow,Offline,Monsoon,28
+2023-07-07,SKU2329,Ethnic Wear,Lehenga,8015,15,4.7,Delhi,Myntra,Monsoon,79
+2024-10-18,SKU1819,Ethnic Wear,Saree,6168,0,4.2,Lucknow,Myntra,Winter,157
+2025-08-18,SKU9115,Ethnic Wear,Kurta,2679,25,4.5,Pune,Brand Website,Monsoon,189
+2023-01-13,SKU2003,Ethnic Wear,Lehenga,8325,0,5.0,Hyderabad,Myntra,Winter,101
+2023-09-11,SKU9880,Ethnic Wear,Lehenga,8310,0,3.8,Pune,Myntra,Monsoon,43
+2024-08-30,SKU4730,Ethnic Wear,Lehenga,10463,15,4.3,Delhi,Offline,Monsoon,42
+2024-05-08,SKU7988,Ethnic Wear,Lehenga,10173,0,4.5,Bengaluru,Offline,Summer,51
+2023-05-07,SKU5611,Ethnic Wear,Kurta,1757,15,4.0,Bhopal,Myntra,Summer,161
+2023-01-25,SKU2309,Ethnic Wear,Saree,4361,10,4.4,Lucknow,Brand Website,Winter,162
+2024-10-15,SKU2079,Ethnic Wear,Lehenga,9846,10,4.6,Pune,Offline,Winter,138
+2024-01-25,SKU9187,Ethnic Wear,Saree,4934,20,3.8,Bengaluru,Offline,Winter,138
+2025-04-05,SKU7713,Ethnic Wear,Saree,5899,30,4.8,Hyderabad,Offline,Summer,127
+2023-02-20,SKU3327,Ethnic Wear,Saree,4571,30,4.0,Lucknow,Offline,Winter,256
+2025-06-08,SKU3447,Ethnic Wear,Kurta,2207,0,4.4,Hyderabad,Offline,Summer,119
+2023-11-03,SKU2553,Ethnic Wear,Saree,5109,10,3.8,Mumbai,Offline,Winter,375
+2024-04-11,SKU3593,Ethnic Wear,Saree,4778,15,4.4,Bengaluru,Brand Website,Summer,125
+2023-05-03,SKU8128,Ethnic Wear,Saree,5447,0,3.6,Bhopal,Myntra,Summer,67
+2024-04-26,SKU8810,Ethnic Wear,Kurta,3624,15,4.7,Pune,Offline,Summer,136
+2024-11-24,SKU1212,Ethnic Wear,Kurta,2772,25,4.4,Bengaluru,Brand Website,Winter,240
+2025-02-03,SKU3120,Ethnic Wear,Saree,4524,10,4.3,Pune,Offline,Winter,205
+2024-05-19,SKU1290,Ethnic Wear,Saree,4857,10,4.5,Hyderabad,Offline,Summer,139
+2024-11-28,SKU6120,Ethnic Wear,Saree,6364,30,4.0,Lucknow,Offline,Winter,252
+2024-04-13,SKU3082,Ethnic Wear,Lehenga,10428,20,3.9,Bengaluru,Brand Website,Summer,55
+2024-10-03,SKU9005,Ethnic Wear,Kurta,3592,0,4.1,Pune,Offline,Winter,113
+2025-08-05,SKU6269,Ethnic Wear,Saree,6468,25,3.9,Mumbai,Brand Website,Monsoon,115
+2023-10-21,SKU4165,Ethnic Wear,Lehenga,9490,30,4.7,Bhopal,Offline,Winter,142
+2024-12-30,SKU4659,Ethnic Wear,Saree,5976,20,3.7,Lucknow,Myntra,Winter,161
+2024-02-14,SKU6243,Ethnic Wear,Lehenga,8770,20,4.4,Hyderabad,Offline,Winter,135
+2025-10-29,SKU1992,Ethnic Wear,Lehenga,9156,0,4.7,Lucknow,Myntra,Winter,135
+2024-08-29,SKU5885,Ethnic Wear,Kurta,1603,0,4.5,Bengaluru,Myntra,Monsoon,180
+2025-07-03,SKU2289,Ethnic Wear,Kurta,3064,20,3.7,Bengaluru,Offline,Monsoon,90
+2024-07-19,SKU6146,Ethnic Wear,Saree,4810,25,4.4,Mumbai,Offline,Monsoon,104
+2023-04-18,SKU3105,Ethnic Wear,Kurta,2837,20,4.2,Bengaluru,Myntra,Summer,146
+2024-10-25,SKU1417,Ethnic Wear,Lehenga,9620,0,4.0,Lucknow,Offline,Winter,116
+2023-03-22,SKU1565,Ethnic Wear,Saree,6095,0,4.6,Lucknow,Offline,Summer,86
+2023-11-07,SKU9137,Ethnic Wear,Kurta,1918,20,3.7,Mumbai,Myntra,Winter,280
+2024-11-23,SKU2505,Ethnic Wear,Saree,4332,15,4.0,Bhopal,Offline,Winter,242
+2025-05-02,SKU7562,Ethnic Wear,Lehenga,9621,25,3.7,Pune,Myntra,Summer,56
+2024-06-18,SKU4395,Ethnic Wear,Kurta,2431,0,3.6,Hyderabad,Myntra,Summer,149
+2024-03-24,SKU4694,Ethnic Wear,Kurta,2452,0,4.9,Hyderabad,Myntra,Summer,152
+2025-03-21,SKU6291,Ethnic Wear,Lehenga,8078,20,4.6,Hyderabad,Brand Website,Summer,67
+2024-02-14,SKU7798,Ethnic Wear,Kurta,3915,0,3.8,Pune,Myntra,Winter,88
+2025-01-23,SKU1117,Ethnic Wear,Kurta,3585,30,3.7,Bengaluru,Brand Website,Winter,91
+2024-07-30,SKU1120,Ethnic Wear,Lehenga,9088,20,4.1,Lucknow,Brand Website,Monsoon,43
+2024-11-16,SKU4302,Ethnic Wear,Saree,4801,10,4.8,Bhopal,Brand Website,Winter,353
+2025-11-14,SKU5675,Ethnic Wear,Saree,5661,0,3.8,Hyderabad,Myntra,Winter,264
+2024-09-03,SKU2748,Ethnic Wear,Kurta,2377,20,4.7,Lucknow,Myntra,Monsoon,151
+2024-05-31,SKU1890,Ethnic Wear,Kurta,2388,20,3.5,Lucknow,Brand Website,Summer,92
+2025-10-20,SKU3964,Ethnic Wear,Kurta,3091,25,4.0,Bhopal,Offline,Winter,186
+2024-08-07,SKU3707,Ethnic Wear,Lehenga,9017,0,4.4,Hyderabad,Offline,Monsoon,43
+2024-07-15,SKU1511,Ethnic Wear,Kurta,1500,10,4.2,Pune,Myntra,Monsoon,175
+2024-03-16,SKU3613,Ethnic Wear,Saree,4781,15,4.6,Mumbai,Myntra,Summer,157
+2024-09-01,SKU5587,Ethnic Wear,Kurta,1643,0,4.0,Hyderabad,Brand Website,Monsoon,119
+2023-03-04,SKU4353,Ethnic Wear,Lehenga,9951,0,3.5,Mumbai,Brand Website,Summer,33
+2024-07-13,SKU8458,Ethnic Wear,Lehenga,9106,0,4.6,Bhopal,Brand Website,Monsoon,40
+2025-02-11,SKU4530,Ethnic Wear,Lehenga,8122,0,4.2,Mumbai,Offline,Winter,175
+2023-04-01,SKU7757,Ethnic Wear,Lehenga,8258,30,4.8,Delhi,Myntra,Summer,105
+2024-07-10,SKU8850,Ethnic Wear,Kurta,2270,0,4.5,Delhi,Offline,Monsoon,142
+2025-09-27,SKU1722,Ethnic Wear,Saree,4948,25,4.8,Bhopal,Brand Website,Monsoon,92
+2025-07-23,SKU6964,Ethnic Wear,Saree,5935,20,3.7,Mumbai,Brand Website,Monsoon,124
+2023-10-26,SKU7082,Ethnic Wear,Lehenga,9313,25,4.5,Lucknow,Brand Website,Winter,147
+2024-08-21,SKU7582,Ethnic Wear,Saree,4604,30,4.5,Bengaluru,Offline,Monsoon,127
+2023-06-27,SKU9884,Ethnic Wear,Saree,6466,10,4.8,Hyderabad,Offline,Summer,94
+2023-12-03,SKU6876,Ethnic Wear,Saree,4175,10,4.3,Lucknow,Offline,Winter,229
+2023-11-23,SKU3376,Ethnic Wear,Lehenga,10349,0,5.0,Pune,Offline,Winter,252
+2025-10-23,SKU7493,Ethnic Wear,Kurta,3728,0,4.3,Mumbai,Offline,Winter,183
+2024-04-09,SKU5173,Ethnic Wear,Kurta,2871,15,3.7,Pune,Brand Website,Summer,146
+2025-04-15,SKU7435,Ethnic Wear,Saree,4435,0,4.5,Delhi,Brand Website,Summer,137
+2023-08-09,SKU4085,Ethnic Wear,Lehenga,10028,0,4.9,Lucknow,Myntra,Monsoon,55
+2024-03-04,SKU6022,Ethnic Wear,Saree,6219,25,3.6,Delhi,Offline,Summer,123
+2024-01-16,SKU1509,Ethnic Wear,Kurta,1792,0,3.9,Bengaluru,Myntra,Winter,133
+2024-09-06,SKU6857,Ethnic Wear,Kurta,2905,15,4.1,Lucknow,Offline,Monsoon,78
+2023-03-27,SKU8838,Ethnic Wear,Lehenga,10012,0,4.2,Lucknow,Brand Website,Summer,34
+2023-07-20,SKU5190,Ethnic Wear,Saree,5731,25,4.4,Lucknow,Offline,Monsoon,92
+2025-09-25,SKU9033,Ethnic Wear,Kurta,1855,15,3.9,Mumbai,Offline,Monsoon,97
+2023-07-12,SKU5020,Ethnic Wear,Lehenga,9862,15,4.6,Lucknow,Brand Website,Monsoon,43
+2024-03-19,SKU6075,Ethnic Wear,Saree,5681,0,3.5,Pune,Brand Website,Summer,61
+2024-01-07,SKU9295,Ethnic Wear,Lehenga,9897,10,4.5,Hyderabad,Myntra,Winter,96
+2024-06-02,SKU9776,Ethnic Wear,Kurta,3898,0,4.5,Lucknow,Brand Website,Summer,114
+2024-08-17,SKU8401,Ethnic Wear,Kurta,3962,10,4.1,Bengaluru,Myntra,Monsoon,143
+2024-05-25,SKU2258,Ethnic Wear,Saree,4023,15,4.7,Delhi,Offline,Summer,184
+2024-04-02,SKU7172,Ethnic Wear,Kurta,2892,30,4.5,Mumbai,Offline,Summer,237
+2023-08-26,SKU4747,Ethnic Wear,Lehenga,8415,0,3.7,Lucknow,Offline,Monsoon,31
+2025-05-30,SKU1387,Ethnic Wear,Saree,4084,25,4.3,Hyderabad,Offline,Summer,148
+2023-03-10,SKU9904,Ethnic Wear,Saree,5142,15,4.3,Mumbai,Offline,Summer,121
+2025-01-02,SKU2067,Ethnic Wear,Lehenga,9944,15,4.3,Mumbai,Offline,Winter,84
+2024-01-18,SKU2982,Ethnic Wear,Kurta,2304,15,4.5,Mumbai,Myntra,Winter,167
+2024-01-15,SKU5309,Ethnic Wear,Lehenga,10384,15,3.7,Hyderabad,Myntra,Winter,67
+2025-03-11,SKU4316,Ethnic Wear,Kurta,1545,10,3.6,Delhi,Offline,Summer,181
+2025-12-22,SKU2847,Ethnic Wear,Saree,4036,10,4.8,Pune,Brand Website,Winter,218
+2024-01-22,SKU4992,Ethnic Wear,Kurta,3444,15,4.2,Bhopal,Offline,Winter,64
+2023-05-26,SKU7354,Ethnic Wear,Lehenga,8598,25,3.7,Pune,Brand Website,Summer,48
+2023-12-04,SKU2114,Ethnic Wear,Kurta,2511,25,4.6,Hyderabad,Brand Website,Winter,170
+2023-05-03,SKU6926,Ethnic Wear,Saree,5768,0,4.8,Delhi,Offline,Summer,136
+2025-02-04,SKU1453,Ethnic Wear,Lehenga,9600,15,4.4,Delhi,Brand Website,Winter,213
+2025-04-12,SKU3086,Ethnic Wear,Lehenga,8644,0,4.4,Hyderabad,Brand Website,Summer,44
+2025-05-04,SKU2229,Ethnic Wear,Kurta,1771,20,3.6,Hyderabad,Brand Website,Summer,190
+2024-07-29,SKU1654,Ethnic Wear,Saree,5902,25,4.7,Bengaluru,Offline,Monsoon,113
+2024-10-31,SKU5972,Ethnic Wear,Lehenga,9262,30,4.9,Bhopal,Brand Website,Winter,166
+2023-10-09,SKU7325,Ethnic Wear,Lehenga,9922,10,3.6,Bhopal,Brand Website,Winter,102
+2023-05-09,SKU6610,Ethnic Wear,Lehenga,9030,25,3.9,Pune,Brand Website,Summer,41
+2024-10-03,SKU5734,Ethnic Wear,Kurta,2827,0,4.3,Pune,Brand Website,Winter,156
+2025-04-22,SKU6019,Ethnic Wear,Lehenga,9140,10,4.4,Delhi,Offline,Summer,59
+2024-01-25,SKU3281,Ethnic Wear,Saree,5480,25,4.3,Bhopal,Brand Website,Winter,115
+2023-08-29,SKU8580,Ethnic Wear,Kurta,2693,25,3.9,Pune,Brand Website,Monsoon,145
+2025-09-18,SKU9142,Ethnic Wear,Saree,5108,20,4.2,Bengaluru,Myntra,Monsoon,121
+2023-01-07,SKU3038,Ethnic Wear,Saree,4272,0,4.7,Hyderabad,Brand Website,Winter,139
+2024-07-21,SKU9110,Ethnic Wear,Lehenga,10093,20,4.1,Hyderabad,Brand Website,Monsoon,49
+2025-06-14,SKU9020,Ethnic Wear,Saree,5584,10,3.7,Pune,Myntra,Summer,81
+2023-05-24,SKU6920,Ethnic Wear,Kurta,2636,0,4.3,Bhopal,Myntra,Summer,111
+2024-02-24,SKU2571,Ethnic Wear,Saree,4163,25,4.3,Lucknow,Brand Website,Winter,183
+2024-04-17,SKU5541,Ethnic Wear,Kurta,2402,20,4.4,Bengaluru,Offline,Summer,181
+2024-10-10,SKU3485,Ethnic Wear,Lehenga,8900,0,4.7,Mumbai,Brand Website,Winter,208
+2023-11-25,SKU4328,Ethnic Wear,Kurta,1873,20,4.6,Pune,Brand Website,Winter,290
+2023-07-15,SKU5419,Ethnic Wear,Kurta,2508,30,4.1,Bhopal,Offline,Monsoon,83
+2023-08-08,SKU3713,Ethnic Wear,Saree,4012,0,4.5,Delhi,Myntra,Monsoon,155
+2023-07-25,SKU7335,Ethnic Wear,Kurta,1835,15,4.6,Hyderabad,Myntra,Monsoon,186
+2023-02-17,SKU7299,Ethnic Wear,Saree,6217,30,3.9,Bhopal,Brand Website,Winter,210
+2024-10-21,SKU8154,Ethnic Wear,Saree,4084,15,4.3,Bhopal,Brand Website,Winter,220
+2023-10-23,SKU8244,Ethnic Wear,Saree,4316,20,4.8,Pune,Myntra,Winter,370
+2024-03-22,SKU3758,Ethnic Wear,Kurta,2787,10,4.1,Bhopal,Offline,Summer,95
+2023-02-19,SKU4782,Ethnic Wear,Saree,6307,0,4.5,Hyderabad,Brand Website,Winter,154
+2025-01-06,SKU1358,Ethnic Wear,Saree,5560,0,4.2,Hyderabad,Brand Website,Winter,139
+2024-12-14,SKU7949,Ethnic Wear,Saree,4936,10,4.0,Mumbai,Offline,Winter,287
+2025-11-25,SKU8840,Ethnic Wear,Kurta,3953,20,4.7,Delhi,Myntra,Winter,331
+2023-11-22,SKU6973,Ethnic Wear,Kurta,1878,20,4.5,Mumbai,Myntra,Winter,239
+2023-11-02,SKU2298,Ethnic Wear,Saree,5200,0,4.8,Pune,Offline,Winter,307
+2023-12-08,SKU4047,Ethnic Wear,Saree,6132,0,3.8,Delhi,Offline,Winter,144
+2023-12-27,SKU1854,Ethnic Wear,Lehenga,9180,20,4.2,Pune,Brand Website,Winter,134
+2023-06-07,SKU3751,Ethnic Wear,Kurta,1775,30,3.7,Delhi,Myntra,Summer,262
+2025-01-25,SKU3928,Ethnic Wear,Saree,4732,0,4.3,Pune,Myntra,Winter,117
+2025-11-17,SKU1143,Ethnic Wear,Saree,4084,20,4.3,Bengaluru,Myntra,Winter,405
+2023-11-16,SKU3211,Ethnic Wear,Saree,4541,0,4.8,Delhi,Myntra,Winter,664
+2023-12-25,SKU5575,Ethnic Wear,Saree,4450,25,3.9,Hyderabad,Myntra,Winter,303
+2025-08-01,SKU7183,Ethnic Wear,Saree,6166,30,4.2,Delhi,Myntra,Monsoon,176
+2025-08-13,SKU9871,Ethnic Wear,Lehenga,10128,10,4.7,Lucknow,Offline,Monsoon,36
+2025-04-14,SKU7638,Ethnic Wear,Lehenga,8683,20,4.8,Bhopal,Offline,Summer,37
+2025-01-22,SKU1596,Ethnic Wear,Lehenga,9222,0,4.4,Delhi,Myntra,Winter,102
+2024-10-06,SKU7159,Ethnic Wear,Kurta,3495,0,4.6,Bengaluru,Offline,Winter,139
+2023-10-14,SKU3411,Ethnic Wear,Lehenga,9236,15,3.9,Hyderabad,Brand Website,Winter,112
+2025-03-28,SKU4720,Ethnic Wear,Saree,5910,25,4.2,Hyderabad,Offline,Summer,130
+2024-05-17,SKU8590,Ethnic Wear,Kurta,2096,25,4.9,Delhi,Offline,Summer,210
+2025-06-06,SKU1870,Ethnic Wear,Saree,4319,20,3.9,Bengaluru,Offline,Summer,127
+2024-12-22,SKU1663,Ethnic Wear,Kurta,2857,0,4.0,Bhopal,Offline,Winter,70
+2024-07-06,SKU1181,Ethnic Wear,Lehenga,8245,0,4.3,Mumbai,Myntra,Monsoon,72
+2025-07-31,SKU1395,Ethnic Wear,Saree,5421,20,4.0,Hyderabad,Offline,Monsoon,79
+2025-09-25,SKU9470,Ethnic Wear,Saree,5775,30,4.3,Pune,Myntra,Monsoon,140
+2024-11-07,SKU9289,Ethnic Wear,Saree,5801,25,4.6,Mumbai,Myntra,Winter,510
+2025-02-25,SKU3329,Ethnic Wear,Kurta,2629,15,3.8,Bhopal,Myntra,Winter,72
+2024-02-01,SKU1198,Ethnic Wear,Saree,5710,30,4.7,Delhi,Myntra,Winter,303
+2023-01-02,SKU9962,Ethnic Wear,Kurta,1771,0,4.8,Pune,Offline,Winter,94
+2025-08-17,SKU8907,Ethnic Wear,Kurta,2178,25,4.2,Bhopal,Myntra,Monsoon,114
+2025-02-01,SKU8530,Ethnic Wear,Lehenga,9920,10,4.4,Bhopal,Offline,Winter,107
+2025-12-14,SKU6416,Ethnic Wear,Saree,4637,25,4.5,Lucknow,Brand Website,Winter,270
+2024-04-08,SKU5570,Ethnic Wear,Kurta,1591,15,4.2,Bhopal,Brand Website,Summer,128
+2025-04-08,SKU9336,Ethnic Wear,Lehenga,8210,20,4.0,Bengaluru,Offline,Summer,59
+2024-04-02,SKU2744,Ethnic Wear,Lehenga,8896,0,4.2,Bhopal,Myntra,Summer,32
+2025-01-13,SKU2615,Ethnic Wear,Lehenga,9690,25,4.1,Lucknow,Brand Website,Winter,83
+2025-09-12,SKU5900,Ethnic Wear,Kurta,1771,30,4.0,Mumbai,Myntra,Monsoon,256
+2025-04-28,SKU8137,Ethnic Wear,Kurta,3438,0,4.0,Hyderabad,Offline,Summer,109
+2024-03-14,SKU4861,Ethnic Wear,Saree,5660,15,4.8,Hyderabad,Offline,Summer,105
+2024-10-31,SKU3701,Ethnic Wear,Lehenga,10430,15,4.8,Bengaluru,Myntra,Winter,153
+2023-11-04,SKU2348,Ethnic Wear,Kurta,3713,15,4.2,Bhopal,Brand Website,Winter,120
+2023-12-30,SKU3488,Ethnic Wear,Saree,4133,0,3.9,Mumbai,Myntra,Winter,309
+2023-03-24,SKU6853,Ethnic Wear,Kurta,2176,10,4.0,Lucknow,Brand Website,Summer,99
+2024-01-29,SKU2349,Ethnic Wear,Kurta,2196,15,4.7,Mumbai,Brand Website,Winter,157
+2025-12-13,SKU5379,Ethnic Wear,Lehenga,8293,30,4.4,Pune,Offline,Winter,132
+2025-11-20,SKU8574,Ethnic Wear,Kurta,1893,15,4.4,Pune,Offline,Winter,213
+2023-11-30,SKU1524,Ethnic Wear,Lehenga,9936,30,4.2,Hyderabad,Offline,Winter,323
+2025-04-01,SKU6020,Ethnic Wear,Lehenga,9712,30,4.9,Bengaluru,Brand Website,Summer,74
+2024-05-07,SKU6067,Ethnic Wear,Kurta,3389,0,4.6,Lucknow,Offline,Summer,85
+2023-08-09,SKU1962,Ethnic Wear,Kurta,3338,0,3.7,Pune,Myntra,Monsoon,85
+2024-05-04,SKU6451,Ethnic Wear,Lehenga,9972,15,4.1,Lucknow,Offline,Summer,45
+2023-03-11,SKU5956,Ethnic Wear,Saree,5491,0,4.1,Lucknow,Myntra,Summer,82
+2024-01-18,SKU1801,Ethnic Wear,Saree,6038,15,4.5,Mumbai,Offline,Winter,143
+2025-05-14,SKU8366,Ethnic Wear,Lehenga,9289,30,4.3,Delhi,Offline,Summer,69
+2025-05-01,SKU1121,Ethnic Wear,Saree,4381,15,4.8,Bhopal,Myntra,Summer,116
+2025-10-11,SKU1688,Ethnic Wear,Lehenga,9138,0,4.6,Delhi,Myntra,Winter,187
+2024-12-03,SKU1151,Ethnic Wear,Lehenga,9527,10,3.5,Lucknow,Offline,Winter,87
+2024-11-11,SKU9209,Ethnic Wear,Kurta,3568,10,4.3,Delhi,Myntra,Winter,293
+2025-07-20,SKU4222,Ethnic Wear,Kurta,3920,20,3.9,Hyderabad,Brand Website,Monsoon,163
+2023-02-06,SKU8478,Ethnic Wear,Saree,5668,20,4.4,Mumbai,Offline,Winter,293
+2024-04-17,SKU8774,Ethnic Wear,Saree,5290,30,4.4,Bhopal,Offline,Summer,97
+2024-06-04,SKU1634,Ethnic Wear,Lehenga,9617,10,3.5,Bhopal,Myntra,Summer,30
+2025-05-30,SKU8360,Ethnic Wear,Kurta,1695,0,4.7,Delhi,Offline,Summer,164
+2024-09-19,SKU9954,Ethnic Wear,Lehenga,10458,25,3.6,Hyderabad,Myntra,Monsoon,69
+2024-08-11,SKU4496,Ethnic Wear,Lehenga,8474,30,3.9,Pune,Brand Website,Monsoon,71
+2024-02-15,SKU6383,Ethnic Wear,Lehenga,8058,25,4.1,Delhi,Brand Website,Winter,193
+2023-09-23,SKU5023,Ethnic Wear,Kurta,2557,0,4.5,Hyderabad,Myntra,Monsoon,167
+2023-12-02,SKU7808,Ethnic Wear,Kurta,2980,0,4.6,Delhi,Offline,Winter,106
+2023-05-21,SKU9885,Ethnic Wear,Lehenga,8312,0,4.8,Lucknow,Brand Website,Summer,55
+2024-01-02,SKU1054,Ethnic Wear,Saree,4464,30,4.2,Delhi,Myntra,Winter,188
+2025-09-12,SKU9758,Ethnic Wear,Kurta,2639,30,3.6,Hyderabad,Brand Website,Monsoon,167
+2024-05-27,SKU6787,Ethnic Wear,Kurta,1574,20,4.7,Delhi,Offline,Summer,257
+2024-12-01,SKU2415,Ethnic Wear,Kurta,2156,20,4.7,Mumbai,Myntra,Winter,183
+2023-03-03,SKU8842,Ethnic Wear,Saree,5393,30,4.1,Bhopal,Brand Website,Summer,114
+2024-03-10,SKU2696,Ethnic Wear,Saree,4686,0,4.4,Bhopal,Brand Website,Summer,89
+2025-10-09,SKU2096,Ethnic Wear,Lehenga,10283,30,4.2,Lucknow,Myntra,Winter,148
+2024-01-21,SKU4262,Ethnic Wear,Saree,4015,20,4.0,Mumbai,Myntra,Winter,255
+2023-01-16,SKU7103,Ethnic Wear,Saree,5290,30,4.2,Lucknow,Offline,Winter,102
+2023-08-27,SKU2572,Ethnic Wear,Lehenga,10428,0,4.2,Pune,Brand Website,Monsoon,44
+2024-10-11,SKU6582,Ethnic Wear,Kurta,2507,10,4.3,Mumbai,Brand Website,Winter,227
+2023-10-08,SKU2746,Ethnic Wear,Lehenga,9057,30,4.1,Mumbai,Offline,Winter,150
+2025-12-23,SKU6569,Ethnic Wear,Kurta,2990,0,4.2,Bhopal,Offline,Winter,81
+2024-11-02,SKU7666,Ethnic Wear,Saree,4756,25,3.6,Mumbai,Myntra,Winter,412
+2025-01-12,SKU9600,Ethnic Wear,Kurta,1964,0,5.0,Pune,Brand Website,Winter,136
+2024-03-10,SKU6215,Ethnic Wear,Lehenga,10384,30,3.6,Mumbai,Myntra,Summer,47
+2024-08-31,SKU9868,Ethnic Wear,Lehenga,10262,25,3.9,Bhopal,Myntra,Monsoon,56
+2024-11-13,SKU1667,Ethnic Wear,Kurta,2602,25,3.6,Bengaluru,Offline,Winter,134
+2025-08-18,SKU1065,Ethnic Wear,Kurta,2979,15,4.3,Mumbai,Offline,Monsoon,109
+2024-03-23,SKU2701,Ethnic Wear,Saree,4518,0,4.6,Lucknow,Myntra,Summer,127
+2025-12-07,SKU9350,Ethnic Wear,Kurta,2619,20,4.7,Delhi,Offline,Winter,171
+2023-05-02,SKU4072,Ethnic Wear,Kurta,3260,0,4.4,Hyderabad,Brand Website,Summer,135
+2025-04-08,SKU9647,Ethnic Wear,Kurta,3919,15,4.9,Bengaluru,Offline,Summer,135
+2025-05-10,SKU5080,Ethnic Wear,Lehenga,9044,25,4.4,Pune,Myntra,Summer,43
+2024-06-02,SKU2877,Ethnic Wear,Kurta,2025,20,3.8,Hyderabad,Brand Website,Summer,176
+2023-03-24,SKU2965,Ethnic Wear,Kurta,2445,0,4.6,Lucknow,Myntra,Summer,161
+2023-08-19,SKU7467,Ethnic Wear,Saree,6353,0,4.5,Delhi,Myntra,Monsoon,139
+2024-02-27,SKU1225,Ethnic Wear,Saree,5831,0,3.7,Hyderabad,Myntra,Winter,201
+2025-11-28,SKU6326,Ethnic Wear,Lehenga,9126,15,4.5,Hyderabad,Offline,Winter,294
+2024-05-12,SKU4387,Ethnic Wear,Kurta,3506,15,4.9,Hyderabad,Offline,Summer,158
+2023-11-21,SKU5130,Ethnic Wear,Saree,4251,30,4.8,Mumbai,Offline,Winter,475
+2025-04-26,SKU8516,Ethnic Wear,Kurta,1952,10,3.7,Pune,Offline,Summer,109
+2025-12-20,SKU7982,Ethnic Wear,Saree,4267,20,4.2,Bhopal,Myntra,Winter,210
+2025-03-10,SKU4291,Ethnic Wear,Saree,5104,0,4.2,Lucknow,Offline,Summer,76
+2025-09-22,SKU1280,Ethnic Wear,Lehenga,9575,0,5.0,Bhopal,Myntra,Monsoon,49
+2025-12-05,SKU2799,Ethnic Wear,Saree,5043,25,3.6,Bengaluru,Brand Website,Winter,256
+2025-04-06,SKU9462,Ethnic Wear,Lehenga,8083,0,4.4,Bhopal,Offline,Summer,45
+2025-12-21,SKU4952,Ethnic Wear,Kurta,2249,25,4.2,Bengaluru,Offline,Winter,119
+2025-05-09,SKU1320,Ethnic Wear,Lehenga,10326,10,3.5,Bengaluru,Brand Website,Summer,33
+2025-05-20,SKU2777,Ethnic Wear,Lehenga,9028,25,4.7,Lucknow,Offline,Summer,48
+2024-02-06,SKU6847,Ethnic Wear,Saree,5003,10,3.6,Mumbai,Offline,Winter,188
+2024-11-13,SKU8723,Ethnic Wear,Lehenga,10019,0,4.1,Bhopal,Myntra,Winter,191
+2024-04-18,SKU2249,Ethnic Wear,Kurta,3182,30,3.6,Mumbai,Brand Website,Summer,171
+2025-06-22,SKU2189,Ethnic Wear,Lehenga,8555,0,4.6,Mumbai,Brand Website,Summer,50
+2025-04-17,SKU2586,Ethnic Wear,Kurta,1992,10,4.5,Mumbai,Offline,Summer,220
+2024-05-08,SKU2946,Ethnic Wear,Lehenga,8180,15,4.5,Mumbai,Offline,Summer,65
+2025-04-23,SKU1104,Ethnic Wear,Kurta,2854,0,3.6,Bhopal,Offline,Summer,90
+2024-12-15,SKU5549,Ethnic Wear,Lehenga,9461,30,4.2,Mumbai,Offline,Winter,187
+2024-07-17,SKU2597,Ethnic Wear,Kurta,2288,0,4.7,Lucknow,Brand Website,Monsoon,108
+2024-03-04,SKU1740,Ethnic Wear,Kurta,2309,0,3.9,Lucknow,Myntra,Summer,96
+2023-03-06,SKU8364,Ethnic Wear,Kurta,1982,25,4.9,Delhi,Brand Website,Summer,221
+2023-11-12,SKU5908,Ethnic Wear,Saree,4259,30,4.9,Bhopal,Brand Website,Winter,467
+2025-12-27,SKU1124,Ethnic Wear,Kurta,2217,25,4.8,Delhi,Offline,Winter,159

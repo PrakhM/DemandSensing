@@ -1,1001 +1,1001 @@
-respondent_id,city,age_group,preferred_channel,discover_channel,primary_occasion,price_acceptance
-R0001,Mumbai,22-28,Brand website,Instagram,Gifting,9
-R0002,Delhi,29-35,Myntra,Instagram,Work event,3
-R0003,Hyderabad,22-28,Brand website,Influencer,Work event,10
-R0004,Delhi,36-38,Offline,Influencer,Wedding,10
-R0005,Bhopal,22-28,Myntra,Influencer,Wedding,10
-R0006,Bengaluru,29-35,Myntra,Influencer,NA,10
-R0007,Delhi,29-35,Brand website,Myntra browseOther,Work event,5
-R0008,Pune,36-38,Offline,Instagram,Wedding,8
-R0009,Hyderabad,22-28,Myntra,Myntra browseOther,Gifting,9
-R0010,Pune,36-38,Myntra,Friend,Festival,9
-R0011,Prayagraj,22-28,Myntra,Influencer,NA,8
-R0012,Delhi,22-28,Myntra,Friend,Wedding,7
-R0013,Bhopal,36-38,Brand website,Myntra browseOther,Work event,4
-R0014,Lucknow,36-38,Offline,Myntra browseOther,Festival,7
-R0015,Bengaluru,22-28,Offline,Myntra browseOther,Work event,9
-R0016,Bhopal,22-28,Brand website,Influencer,Work event,7
-R0017,Bengaluru,22-28,Myntra,Influencer,Festival,9
-R0018,Bhopal,36-38,Myntra,Friend,Festival,4
-R0019,Prayagraj,36-38,Myntra,Instagram,Wedding,2
-R0020,Pune,29-35,Brand website,Influencer,Festival,10
-R0021,Lucknow,29-35,Myntra,Influencer,Festival,7
-R0022,Pune,36-38,Myntra,Myntra browseOther,NA,7
-R0023,Bengaluru,22-28,Offline,Instagram,Work event,8
-R0024,Pune,29-35,Myntra,Friend,Wedding,2
-R0025,Bhopal,29-35,Offline,Instagram,Festival,3
-R0026,Bhopal,36-38,Myntra,Influencer,Wedding,5
-R0027,Bhopal,22-28,Myntra,Friend,Gifting,4
-R0028,Bhopal,22-28,Offline,Friend,Festival,10
-R0029,Lucknow,22-28,Offline,Influencer,Work event,6
-R0030,Bhopal,36-38,Brand website,Friend,Wedding,6
-R0031,Hyderabad,29-35,Myntra,Instagram,NA,9
-R0032,Mumbai,29-35,Offline,Influencer,Gifting,4
-R0033,Hyderabad,29-35,Offline,Instagram,Festival,9
-R0034,Prayagraj,36-38,Myntra,Influencer,Work event,8
-R0035,Prayagraj,29-35,Myntra,Instagram,Wedding,7
-R0036,Hyderabad,36-38,Brand website,Instagram,NA,8
-R0037,Delhi,29-35,Myntra,Myntra browseOther,Wedding,5
-R0038,Bhopal,29-35,Offline,Myntra browseOther,Wedding,3
-R0039,Mumbai,29-35,Myntra,Instagram,NA,9
-R0040,Prayagraj,29-35,Myntra,Myntra browseOther,Gifting,9
-R0041,Delhi,36-38,Brand website,Instagram,Festival,10
-R0042,Pune,29-35,Offline,Instagram,NA,7
-R0043,Hyderabad,36-38,Myntra,Influencer,Wedding,5
-R0044,Hyderabad,36-38,Offline,Myntra browseOther,NA,6
-R0045,Pune,29-35,Offline,Influencer,Wedding,7
-R0046,Prayagraj,22-28,Brand website,Myntra browseOther,Festival,4
-R0047,Lucknow,36-38,Myntra,Influencer,Wedding,9
-R0048,Bhopal,29-35,Myntra,Myntra browseOther,NA,5
-R0049,Bengaluru,36-38,Myntra,Myntra browseOther,Gifting,10
-R0050,Bengaluru,36-38,Myntra,Influencer,Festival,9
-R0051,Pune,36-38,Brand website,Instagram,Wedding,5
-R0052,Lucknow,29-35,Brand website,Influencer,NA,6
-R0053,Bhopal,22-28,Offline,Friend,Festival,8
-R0054,Mumbai,36-38,Offline,Instagram,Festival,10
-R0055,Mumbai,36-38,Offline,Myntra browseOther,Wedding,10
-R0056,Hyderabad,36-38,Brand website,Myntra browseOther,NA,6
-R0057,Prayagraj,36-38,Brand website,Myntra browseOther,Wedding,10
-R0058,Lucknow,36-38,Myntra,Friend,Festival,5
-R0059,Bengaluru,22-28,Myntra,Influencer,Festival,10
-R0060,Bhopal,29-35,Myntra,Instagram,Work event,4
-R0061,Lucknow,36-38,Offline,Myntra browseOther,Gifting,4
-R0062,Bengaluru,22-28,Myntra,Myntra browseOther,Gifting,10
-R0063,Bhopal,22-28,Myntra,Instagram,Festival,3
-R0064,Pune,22-28,Offline,Instagram,Festival,10
-R0065,Prayagraj,22-28,Offline,Instagram,NA,10
-R0066,Mumbai,36-38,Brand website,Instagram,Work event,7
-R0067,Mumbai,36-38,Offline,Influencer,NA,8
-R0068,Lucknow,22-28,Brand website,Friend,Wedding,10
-R0069,Bengaluru,36-38,Brand website,Instagram,Festival,6
-R0070,Hyderabad,36-38,Myntra,Instagram,NA,1
-R0071,Mumbai,29-35,Brand website,Instagram,Work event,9
-R0072,Bengaluru,22-28,Brand website,Friend,Work event,9
-R0073,Delhi,36-38,Brand website,Friend,NA,4
-R0074,Bengaluru,22-28,Myntra,Friend,Gifting,8
-R0075,Delhi,22-28,Brand website,Friend,Gifting,8
-R0076,Delhi,22-28,Myntra,Influencer,Gifting,5
-R0077,Mumbai,29-35,Myntra,Myntra browseOther,Wedding,8
-R0078,Prayagraj,36-38,Brand website,Friend,Festival,5
-R0079,Hyderabad,22-28,Offline,Influencer,Work event,10
-R0080,Lucknow,22-28,Offline,Myntra browseOther,NA,9
-R0081,Bengaluru,22-28,Myntra,Influencer,Festival,8
-R0082,Delhi,36-38,Myntra,Influencer,Festival,9
-R0083,Mumbai,29-35,Myntra,Instagram,Wedding,9
-R0084,Bengaluru,36-38,Brand website,Myntra browseOther,NA,7
-R0085,Prayagraj,29-35,Offline,Influencer,NA,8
-R0086,Bengaluru,36-38,Offline,Influencer,NA,10
-R0087,Lucknow,22-28,Myntra,Friend,Gifting,1
-R0088,Bengaluru,29-35,Brand website,Friend,Gifting,9
-R0089,Delhi,36-38,Myntra,Influencer,Wedding,7
-R0090,Prayagraj,36-38,Myntra,Instagram,Wedding,3
-R0091,Bhopal,29-35,Myntra,Myntra browseOther,Festival,5
-R0092,Lucknow,29-35,Brand website,Friend,Wedding,3
-R0093,Bhopal,29-35,Brand website,Friend,Work event,10
-R0094,Mumbai,22-28,Myntra,Instagram,NA,10
-R0095,Bhopal,22-28,Myntra,Friend,Festival,6
-R0096,Bhopal,22-28,Offline,Influencer,Wedding,8
-R0097,Delhi,22-28,Brand website,Instagram,Festival,10
-R0098,Hyderabad,29-35,Offline,Friend,Wedding,10
-R0099,Bhopal,36-38,Myntra,Myntra browseOther,Work event,3
-R0100,Delhi,36-38,Myntra,Instagram,NA,7
-R0101,Mumbai,22-28,Offline,Instagram,Gifting,10
-R0102,Pune,36-38,Brand website,Myntra browseOther,Gifting,5
-R0103,Mumbai,29-35,Offline,Friend,Work event,9
-R0104,Hyderabad,36-38,Offline,Instagram,Wedding,9
-R0105,Bhopal,36-38,Brand website,Instagram,Work event,3
-R0106,Delhi,22-28,Offline,Influencer,Work event,7
-R0107,Bengaluru,22-28,Offline,Friend,Work event,2
-R0108,Lucknow,22-28,Offline,Influencer,Festival,6
-R0109,Mumbai,36-38,Offline,Instagram,Work event,9
-R0110,Lucknow,36-38,Brand website,Instagram,Gifting,5
-R0111,Bhopal,36-38,Myntra,Influencer,NA,4
-R0112,Lucknow,22-28,Brand website,Instagram,NA,7
-R0113,Pune,22-28,Offline,Instagram,Gifting,9
-R0114,Lucknow,22-28,Brand website,Instagram,Gifting,9
-R0115,Hyderabad,29-35,Brand website,Instagram,Gifting,6
-R0116,Lucknow,29-35,Myntra,Influencer,Wedding,10
-R0117,Lucknow,29-35,Offline,Instagram,Wedding,3
-R0118,Bengaluru,36-38,Offline,Friend,NA,9
-R0119,Bengaluru,29-35,Offline,Friend,NA,8
-R0120,Delhi,36-38,Myntra,Influencer,Wedding,10
-R0121,Pune,22-28,Offline,Friend,Festival,7
-R0122,Bhopal,29-35,Offline,Influencer,NA,7
-R0123,Delhi,29-35,Offline,Influencer,NA,5
-R0124,Prayagraj,36-38,Brand website,Friend,Festival,9
-R0125,Bengaluru,22-28,Offline,Influencer,NA,9
-R0126,Bhopal,36-38,Brand website,Myntra browseOther,Work event,4
-R0127,Pune,36-38,Myntra,Friend,Gifting,10
-R0128,Pune,29-35,Offline,Friend,Gifting,5
-R0129,Mumbai,29-35,Myntra,Friend,NA,7
-R0130,Hyderabad,29-35,Offline,Myntra browseOther,Gifting,7
-R0131,Delhi,29-35,Brand website,Friend,NA,8
-R0132,Prayagraj,22-28,Brand website,Influencer,Wedding,7
-R0133,Delhi,22-28,Offline,Friend,NA,10
-R0134,Prayagraj,22-28,Brand website,Friend,Gifting,6
-R0135,Prayagraj,36-38,Brand website,Myntra browseOther,NA,5
-R0136,Delhi,36-38,Offline,Instagram,Festival,10
-R0137,Prayagraj,29-35,Myntra,Instagram,Gifting,5
-R0138,Hyderabad,29-35,Offline,Influencer,Gifting,8
-R0139,Prayagraj,29-35,Brand website,Friend,Wedding,7
-R0140,Delhi,29-35,Offline,Friend,NA,4
-R0141,Bengaluru,36-38,Myntra,Friend,NA,6
-R0142,Pune,22-28,Offline,Friend,Gifting,8
-R0143,Hyderabad,36-38,Offline,Instagram,Work event,5
-R0144,Mumbai,29-35,Myntra,Instagram,Work event,3
-R0145,Pune,29-35,Brand website,Influencer,Festival,6
-R0146,Pune,36-38,Brand website,Influencer,NA,10
-R0147,Delhi,22-28,Brand website,Instagram,NA,7
-R0148,Mumbai,36-38,Myntra,Myntra browseOther,Wedding,10
-R0149,Hyderabad,29-35,Brand website,Myntra browseOther,Work event,2
-R0150,Delhi,29-35,Offline,Influencer,NA,9
-R0151,Prayagraj,22-28,Brand website,Friend,Wedding,9
-R0152,Hyderabad,22-28,Offline,Myntra browseOther,Gifting,10
-R0153,Bhopal,36-38,Brand website,Instagram,Work event,7
-R0154,Bengaluru,29-35,Brand website,Instagram,Wedding,9
-R0155,Hyderabad,36-38,Brand website,Instagram,Festival,6
-R0156,Delhi,36-38,Brand website,Influencer,Festival,10
-R0157,Mumbai,22-28,Offline,Influencer,NA,10
-R0158,Mumbai,36-38,Offline,Myntra browseOther,Festival,8
-R0159,Hyderabad,29-35,Myntra,Influencer,NA,8
-R0160,Hyderabad,22-28,Offline,Influencer,Work event,9
-R0161,Bhopal,22-28,Offline,Instagram,Wedding,10
-R0162,Prayagraj,36-38,Offline,Myntra browseOther,Festival,6
-R0163,Mumbai,29-35,Myntra,Instagram,Festival,8
-R0164,Lucknow,22-28,Myntra,Instagram,Work event,6
-R0165,Mumbai,36-38,Brand website,Friend,Gifting,8
-R0166,Hyderabad,22-28,Offline,Instagram,Work event,10
-R0167,Prayagraj,36-38,Brand website,Instagram,Wedding,3
-R0168,Bhopal,29-35,Offline,Myntra browseOther,Festival,4
-R0169,Hyderabad,22-28,Offline,Myntra browseOther,Festival,8
-R0170,Hyderabad,36-38,Brand website,Instagram,Festival,10
-R0171,Bhopal,36-38,Offline,Friend,NA,8
-R0172,Bhopal,22-28,Brand website,Instagram,Wedding,4
-R0173,Mumbai,22-28,Brand website,Myntra browseOther,Gifting,9
-R0174,Lucknow,22-28,Brand website,Friend,Work event,6
-R0175,Prayagraj,22-28,Brand website,Instagram,Gifting,5
-R0176,Lucknow,22-28,Myntra,Friend,Festival,10
-R0177,Pune,22-28,Offline,Instagram,Wedding,8
-R0178,Lucknow,36-38,Myntra,Influencer,Work event,7
-R0179,Lucknow,36-38,Myntra,Instagram,Work event,7
-R0180,Bengaluru,29-35,Myntra,Friend,Gifting,1
-R0181,Pune,29-35,Offline,Instagram,Gifting,4
-R0182,Delhi,29-35,Brand website,Influencer,Work event,8
-R0183,Delhi,22-28,Brand website,Friend,Gifting,4
-R0184,Prayagraj,22-28,Myntra,Friend,Festival,6
-R0185,Prayagraj,29-35,Offline,Influencer,Festival,9
-R0186,Lucknow,36-38,Myntra,Influencer,Festival,7
-R0187,Delhi,22-28,Offline,Influencer,NA,10
-R0188,Lucknow,36-38,Brand website,Myntra browseOther,Gifting,3
-R0189,Mumbai,29-35,Offline,Friend,Wedding,8
-R0190,Lucknow,22-28,Brand website,Influencer,Wedding,10
-R0191,Prayagraj,36-38,Offline,Influencer,NA,6
-R0192,Delhi,22-28,Offline,Myntra browseOther,NA,4
-R0193,Prayagraj,36-38,Brand website,Myntra browseOther,NA,6
-R0194,Pune,22-28,Brand website,Friend,Festival,10
-R0195,Bengaluru,36-38,Offline,Instagram,Wedding,4
-R0196,Bhopal,36-38,Offline,Friend,Festival,6
-R0197,Lucknow,29-35,Myntra,Myntra browseOther,Work event,10
-R0198,Pune,36-38,Myntra,Myntra browseOther,Wedding,6
-R0199,Hyderabad,29-35,Brand website,Instagram,Festival,8
-R0200,Delhi,36-38,Brand website,Influencer,Work event,8
-R0201,Bhopal,36-38,Myntra,Myntra browseOther,Gifting,4
-R0202,Delhi,36-38,Myntra,Instagram,Work event,7
-R0203,Hyderabad,36-38,Offline,Friend,Wedding,8
-R0204,Mumbai,29-35,Offline,Influencer,NA,10
-R0205,Hyderabad,22-28,Offline,Influencer,Wedding,8
-R0206,Pune,22-28,Brand website,Myntra browseOther,NA,5
-R0207,Bengaluru,29-35,Myntra,Friend,Gifting,10
-R0208,Mumbai,36-38,Offline,Instagram,Festival,10
-R0209,Hyderabad,22-28,Myntra,Influencer,Wedding,6
-R0210,Lucknow,29-35,Myntra,Myntra browseOther,Gifting,5
-R0211,Hyderabad,29-35,Myntra,Myntra browseOther,Work event,10
-R0212,Bengaluru,36-38,Brand website,Influencer,Wedding,6
-R0213,Prayagraj,29-35,Brand website,Myntra browseOther,Gifting,5
-R0214,Mumbai,36-38,Brand website,Influencer,Wedding,8
-R0215,Lucknow,29-35,Brand website,Instagram,NA,10
-R0216,Bengaluru,22-28,Offline,Friend,Festival,10
-R0217,Mumbai,22-28,Myntra,Instagram,Festival,9
-R0218,Pune,36-38,Myntra,Myntra browseOther,NA,7
-R0219,Prayagraj,29-35,Myntra,Influencer,Work event,2
-R0220,Lucknow,36-38,Offline,Instagram,Work event,2
-R0221,Pune,22-28,Brand website,Instagram,Work event,7
-R0222,Lucknow,22-28,Myntra,Friend,Work event,6
-R0223,Delhi,29-35,Offline,Influencer,Festival,10
-R0224,Mumbai,29-35,Brand website,Instagram,Gifting,10
-R0225,Bhopal,22-28,Myntra,Influencer,NA,2
-R0226,Delhi,22-28,Myntra,Instagram,Festival,7
-R0227,Prayagraj,29-35,Brand website,Instagram,Wedding,2
-R0228,Lucknow,29-35,Myntra,Friend,Wedding,9
-R0229,Mumbai,22-28,Brand website,Myntra browseOther,Work event,8
-R0230,Hyderabad,22-28,Myntra,Instagram,Festival,10
-R0231,Bengaluru,22-28,Offline,Friend,Wedding,10
-R0232,Pune,22-28,Brand website,Friend,NA,10
-R0233,Hyderabad,29-35,Offline,Instagram,Wedding,4
-R0234,Bhopal,29-35,Brand website,Instagram,Festival,10
-R0235,Lucknow,29-35,Myntra,Friend,Wedding,3
-R0236,Delhi,36-38,Offline,Influencer,NA,10
-R0237,Delhi,22-28,Brand website,Friend,Work event,4
-R0238,Pune,22-28,Offline,Instagram,NA,9
-R0239,Prayagraj,29-35,Brand website,Myntra browseOther,Gifting,6
-R0240,Pune,29-35,Offline,Myntra browseOther,Work event,8
-R0241,Lucknow,29-35,Myntra,Influencer,Work event,9
-R0242,Pune,22-28,Myntra,Myntra browseOther,Festival,7
-R0243,Pune,22-28,Myntra,Myntra browseOther,Festival,9
-R0244,Bengaluru,22-28,Myntra,Myntra browseOther,Wedding,6
-R0245,Bengaluru,36-38,Myntra,Instagram,Wedding,10
-R0246,Mumbai,36-38,Brand website,Myntra browseOther,NA,8
-R0247,Mumbai,22-28,Brand website,Influencer,Work event,10
-R0248,Bhopal,29-35,Brand website,Influencer,Festival,4
-R0249,Bhopal,22-28,Brand website,Influencer,Wedding,6
-R0250,Hyderabad,22-28,Brand website,Influencer,Work event,4
-R0251,Hyderabad,22-28,Brand website,Myntra browseOther,Gifting,4
-R0252,Hyderabad,29-35,Brand website,Influencer,Wedding,7
-R0253,Mumbai,29-35,Offline,Influencer,Wedding,7
-R0254,Prayagraj,29-35,Myntra,Influencer,Wedding,4
-R0255,Pune,29-35,Brand website,Friend,Work event,5
-R0256,Mumbai,22-28,Offline,Instagram,Gifting,9
-R0257,Prayagraj,36-38,Myntra,Instagram,Festival,4
-R0258,Lucknow,36-38,Offline,Friend,NA,4
-R0259,Bengaluru,29-35,Offline,Instagram,Wedding,10
-R0260,Hyderabad,22-28,Offline,Instagram,Gifting,8
-R0261,Bengaluru,29-35,Brand website,Friend,Festival,9
-R0262,Prayagraj,22-28,Myntra,Friend,NA,4
-R0263,Hyderabad,22-28,Myntra,Myntra browseOther,NA,2
-R0264,Bhopal,29-35,Brand website,Myntra browseOther,NA,6
-R0265,Mumbai,29-35,Brand website,Myntra browseOther,NA,10
-R0266,Mumbai,22-28,Brand website,Influencer,Festival,10
-R0267,Bhopal,29-35,Offline,Myntra browseOther,Gifting,2
-R0268,Bengaluru,36-38,Brand website,Instagram,Gifting,2
-R0269,Bhopal,22-28,Brand website,Myntra browseOther,Gifting,7
-R0270,Mumbai,22-28,Brand website,Influencer,Wedding,8
-R0271,Bhopal,22-28,Brand website,Myntra browseOther,Gifting,5
-R0272,Delhi,36-38,Brand website,Friend,Festival,10
-R0273,Pune,36-38,Myntra,Influencer,NA,8
-R0274,Bengaluru,29-35,Myntra,Myntra browseOther,NA,6
-R0275,Pune,36-38,Offline,Myntra browseOther,Work event,2
-R0276,Hyderabad,29-35,Offline,Myntra browseOther,Wedding,8
-R0277,Bhopal,22-28,Brand website,Influencer,NA,10
-R0278,Delhi,29-35,Myntra,Myntra browseOther,Work event,5
-R0279,Bengaluru,36-38,Offline,Friend,Work event,9
-R0280,Mumbai,22-28,Myntra,Myntra browseOther,NA,5
-R0281,Bengaluru,29-35,Brand website,Myntra browseOther,Gifting,8
-R0282,Delhi,36-38,Myntra,Myntra browseOther,Work event,10
-R0283,Mumbai,36-38,Offline,Friend,NA,8
-R0284,Lucknow,22-28,Brand website,Influencer,Festival,6
-R0285,Bhopal,36-38,Brand website,Myntra browseOther,Festival,2
-R0286,Prayagraj,29-35,Myntra,Instagram,Wedding,9
-R0287,Mumbai,22-28,Myntra,Instagram,Wedding,10
-R0288,Prayagraj,29-35,Offline,Myntra browseOther,Festival,5
-R0289,Mumbai,22-28,Brand website,Myntra browseOther,Wedding,8
-R0290,Pune,36-38,Brand website,Myntra browseOther,Festival,4
-R0291,Delhi,22-28,Myntra,Myntra browseOther,NA,8
-R0292,Pune,29-35,Myntra,Influencer,Gifting,7
-R0293,Bengaluru,29-35,Brand website,Friend,Festival,7
-R0294,Bengaluru,22-28,Myntra,Influencer,Gifting,10
-R0295,Hyderabad,29-35,Offline,Influencer,Work event,10
-R0296,Pune,22-28,Brand website,Influencer,Wedding,10
-R0297,Hyderabad,36-38,Myntra,Instagram,Work event,8
-R0298,Prayagraj,22-28,Offline,Influencer,NA,10
-R0299,Bhopal,29-35,Brand website,Influencer,Gifting,10
-R0300,Pune,22-28,Brand website,Instagram,Gifting,9
-R0301,Bengaluru,36-38,Brand website,Friend,Festival,10
-R0302,Pune,22-28,Brand website,Myntra browseOther,Gifting,2
-R0303,Pune,22-28,Offline,Influencer,Gifting,8
-R0304,Mumbai,29-35,Offline,Friend,Festival,4
-R0305,Bhopal,36-38,Brand website,Influencer,Work event,6
-R0306,Prayagraj,36-38,Brand website,Instagram,Wedding,2
-R0307,Bhopal,29-35,Myntra,Instagram,Work event,6
-R0308,Pune,22-28,Myntra,Instagram,Festival,8
-R0309,Hyderabad,36-38,Offline,Friend,NA,2
-R0310,Lucknow,22-28,Offline,Instagram,Gifting,8
-R0311,Lucknow,22-28,Brand website,Influencer,NA,6
-R0312,Bhopal,29-35,Offline,Myntra browseOther,Festival,5
-R0313,Delhi,22-28,Offline,Myntra browseOther,NA,8
-R0314,Prayagraj,29-35,Offline,Influencer,Wedding,7
-R0315,Bengaluru,36-38,Brand website,Instagram,Wedding,10
-R0316,Prayagraj,29-35,Myntra,Influencer,NA,4
-R0317,Bhopal,29-35,Myntra,Influencer,Gifting,9
-R0318,Lucknow,29-35,Myntra,Friend,Festival,7
-R0319,Pune,36-38,Brand website,Influencer,Festival,7
-R0320,Prayagraj,22-28,Myntra,Influencer,Wedding,8
-R0321,Mumbai,36-38,Offline,Myntra browseOther,Festival,10
-R0322,Bengaluru,36-38,Myntra,Friend,Gifting,6
-R0323,Lucknow,36-38,Brand website,Influencer,Wedding,9
-R0324,Delhi,29-35,Offline,Instagram,NA,8
-R0325,Pune,29-35,Offline,Friend,NA,6
-R0326,Bhopal,22-28,Offline,Instagram,Festival,6
-R0327,Bhopal,29-35,Offline,Friend,Wedding,5
-R0328,Mumbai,22-28,Myntra,Instagram,Festival,8
-R0329,Pune,22-28,Offline,Friend,Gifting,2
-R0330,Hyderabad,36-38,Myntra,Friend,Festival,6
-R0331,Bhopal,22-28,Myntra,Friend,Wedding,4
-R0332,Prayagraj,22-28,Brand website,Instagram,Wedding,9
-R0333,Bhopal,22-28,Offline,Influencer,Work event,9
-R0334,Pune,29-35,Offline,Friend,Gifting,6
-R0335,Lucknow,36-38,Myntra,Influencer,Work event,5
-R0336,Bengaluru,36-38,Offline,Friend,Work event,10
-R0337,Delhi,29-35,Brand website,Myntra browseOther,Work event,8
-R0338,Bhopal,29-35,Offline,Myntra browseOther,Wedding,5
-R0339,Hyderabad,29-35,Myntra,Myntra browseOther,Work event,7
-R0340,Hyderabad,29-35,Brand website,Influencer,Wedding,10
-R0341,Pune,29-35,Myntra,Friend,Gifting,7
-R0342,Prayagraj,36-38,Brand website,Instagram,Wedding,4
-R0343,Delhi,36-38,Myntra,Myntra browseOther,NA,9
-R0344,Mumbai,29-35,Offline,Myntra browseOther,Work event,9
-R0345,Lucknow,36-38,Brand website,Myntra browseOther,Wedding,8
-R0346,Bengaluru,29-35,Offline,Instagram,Festival,10
-R0347,Hyderabad,36-38,Brand website,Myntra browseOther,Wedding,3
-R0348,Bhopal,36-38,Offline,Instagram,Festival,9
-R0349,Bhopal,36-38,Myntra,Friend,Wedding,1
-R0350,Lucknow,22-28,Myntra,Influencer,Gifting,7
-R0351,Lucknow,36-38,Myntra,Influencer,Festival,10
-R0352,Mumbai,22-28,Offline,Influencer,Gifting,7
-R0353,Delhi,36-38,Offline,Myntra browseOther,Gifting,5
-R0354,Delhi,22-28,Myntra,Influencer,Wedding,8
-R0355,Bhopal,22-28,Myntra,Instagram,Festival,10
-R0356,Bhopal,36-38,Brand website,Friend,Wedding,5
-R0357,Prayagraj,22-28,Myntra,Friend,Gifting,10
-R0358,Lucknow,36-38,Offline,Myntra browseOther,Work event,5
-R0359,Lucknow,29-35,Brand website,Influencer,Festival,10
-R0360,Pune,22-28,Offline,Influencer,NA,8
-R0361,Bengaluru,29-35,Brand website,Myntra browseOther,Wedding,8
-R0362,Bhopal,22-28,Myntra,Friend,Wedding,6
-R0363,Hyderabad,29-35,Brand website,Myntra browseOther,Gifting,3
-R0364,Lucknow,29-35,Offline,Friend,Wedding,8
-R0365,Prayagraj,29-35,Brand website,Friend,NA,5
-R0366,Bhopal,36-38,Myntra,Myntra browseOther,Wedding,5
-R0367,Prayagraj,36-38,Brand website,Influencer,NA,5
-R0368,Lucknow,22-28,Brand website,Instagram,NA,10
-R0369,Hyderabad,29-35,Brand website,Influencer,Festival,9
-R0370,Hyderabad,36-38,Myntra,Instagram,NA,2
-R0371,Bhopal,36-38,Brand website,Influencer,Work event,8
-R0372,Bengaluru,36-38,Offline,Myntra browseOther,Work event,5
-R0373,Mumbai,22-28,Myntra,Influencer,NA,9
-R0374,Mumbai,29-35,Brand website,Friend,Work event,8
-R0375,Prayagraj,22-28,Brand website,Influencer,NA,5
-R0376,Mumbai,22-28,Myntra,Myntra browseOther,NA,9
-R0377,Pune,29-35,Brand website,Instagram,Wedding,3
-R0378,Bhopal,22-28,Offline,Friend,NA,10
-R0379,Lucknow,22-28,Offline,Myntra browseOther,Wedding,5
-R0380,Mumbai,29-35,Offline,Friend,Festival,6
-R0381,Prayagraj,36-38,Myntra,Influencer,Gifting,9
-R0382,Pune,22-28,Brand website,Influencer,Gifting,6
-R0383,Mumbai,29-35,Brand website,Instagram,NA,5
-R0384,Bengaluru,36-38,Brand website,Friend,Festival,10
-R0385,Bengaluru,29-35,Offline,Influencer,Wedding,6
-R0386,Mumbai,36-38,Brand website,Myntra browseOther,NA,10
-R0387,Bengaluru,29-35,Offline,Friend,Work event,5
-R0388,Delhi,22-28,Myntra,Influencer,Wedding,9
-R0389,Pune,36-38,Offline,Instagram,Work event,9
-R0390,Mumbai,22-28,Brand website,Myntra browseOther,Work event,6
-R0391,Bengaluru,22-28,Myntra,Instagram,Wedding,10
-R0392,Pune,29-35,Offline,Friend,Work event,4
-R0393,Prayagraj,29-35,Myntra,Myntra browseOther,NA,4
-R0394,Mumbai,22-28,Brand website,Instagram,Wedding,10
-R0395,Prayagraj,36-38,Offline,Influencer,Wedding,9
-R0396,Prayagraj,36-38,Brand website,Influencer,Work event,8
-R0397,Bhopal,36-38,Brand website,Friend,Festival,3
-R0398,Lucknow,36-38,Offline,Friend,Festival,5
-R0399,Hyderabad,29-35,Myntra,Influencer,Wedding,8
-R0400,Hyderabad,22-28,Offline,Influencer,NA,9
-R0401,Pune,36-38,Myntra,Friend,NA,10
-R0402,Delhi,22-28,Myntra,Myntra browseOther,Wedding,10
-R0403,Delhi,22-28,Offline,Instagram,Gifting,5
-R0404,Lucknow,36-38,Myntra,Myntra browseOther,Work event,6
-R0405,Mumbai,22-28,Brand website,Myntra browseOther,Work event,10
-R0406,Hyderabad,29-35,Offline,Myntra browseOther,Festival,8
-R0407,Lucknow,22-28,Offline,Friend,NA,6
-R0408,Hyderabad,22-28,Offline,Influencer,Gifting,10
-R0409,Pune,36-38,Brand website,Friend,NA,6
-R0410,Bengaluru,22-28,Myntra,Friend,Gifting,6
-R0411,Hyderabad,22-28,Brand website,Myntra browseOther,Gifting,3
-R0412,Delhi,22-28,Myntra,Friend,Gifting,9
-R0413,Bengaluru,36-38,Offline,Influencer,Wedding,8
-R0414,Delhi,22-28,Brand website,Influencer,NA,9
-R0415,Mumbai,36-38,Brand website,Influencer,Work event,4
-R0416,Delhi,36-38,Brand website,Instagram,Work event,10
-R0417,Bengaluru,29-35,Myntra,Instagram,Wedding,9
-R0418,Delhi,36-38,Brand website,Instagram,Festival,10
-R0419,Delhi,36-38,Brand website,Instagram,Gifting,10
-R0420,Pune,22-28,Offline,Myntra browseOther,Wedding,9
-R0421,Bhopal,36-38,Myntra,Instagram,Festival,2
-R0422,Delhi,36-38,Myntra,Friend,Wedding,6
-R0423,Prayagraj,22-28,Brand website,Influencer,Gifting,7
-R0424,Delhi,22-28,Myntra,Influencer,NA,8
-R0425,Mumbai,36-38,Offline,Myntra browseOther,Gifting,10
-R0426,Delhi,36-38,Myntra,Instagram,Wedding,6
-R0427,Bengaluru,22-28,Offline,Myntra browseOther,Work event,9
-R0428,Lucknow,36-38,Myntra,Friend,Wedding,8
-R0429,Prayagraj,36-38,Offline,Influencer,Festival,7
-R0430,Lucknow,22-28,Brand website,Instagram,NA,10
-R0431,Delhi,22-28,Brand website,Instagram,Work event,8
-R0432,Bhopal,22-28,Offline,Influencer,NA,7
-R0433,Pune,22-28,Brand website,Influencer,Festival,7
-R0434,Delhi,29-35,Offline,Friend,NA,7
-R0435,Pune,29-35,Offline,Friend,Work event,10
-R0436,Lucknow,29-35,Brand website,Friend,NA,5
-R0437,Bhopal,22-28,Offline,Influencer,Festival,4
-R0438,Hyderabad,22-28,Brand website,Instagram,Festival,10
-R0439,Bengaluru,22-28,Offline,Instagram,Festival,6
-R0440,Prayagraj,36-38,Brand website,Instagram,Wedding,9
-R0441,Delhi,29-35,Brand website,Instagram,Wedding,10
-R0442,Lucknow,22-28,Myntra,Myntra browseOther,NA,10
-R0443,Bhopal,36-38,Myntra,Friend,Festival,2
-R0444,Pune,22-28,Myntra,Myntra browseOther,Work event,7
-R0445,Prayagraj,29-35,Offline,Influencer,NA,9
-R0446,Prayagraj,22-28,Brand website,Myntra browseOther,Work event,7
-R0447,Pune,22-28,Myntra,Myntra browseOther,Work event,10
-R0448,Bhopal,29-35,Brand website,Myntra browseOther,Wedding,2
-R0449,Bhopal,36-38,Offline,Influencer,Festival,2
-R0450,Delhi,22-28,Brand website,Instagram,Work event,10
-R0451,Lucknow,29-35,Myntra,Myntra browseOther,Festival,8
-R0452,Pune,22-28,Myntra,Myntra browseOther,Festival,9
-R0453,Delhi,29-35,Offline,Influencer,Gifting,7
-R0454,Bengaluru,36-38,Brand website,Instagram,Work event,6
-R0455,Hyderabad,22-28,Myntra,Influencer,Work event,5
-R0456,Lucknow,36-38,Offline,Friend,Festival,2
-R0457,Bengaluru,22-28,Offline,Instagram,NA,10
-R0458,Lucknow,36-38,Offline,Instagram,Work event,6
-R0459,Hyderabad,36-38,Myntra,Friend,Wedding,8
-R0460,Delhi,29-35,Brand website,Influencer,Festival,6
-R0461,Prayagraj,22-28,Offline,Instagram,Work event,9
-R0462,Pune,22-28,Brand website,Influencer,Work event,10
-R0463,Pune,22-28,Brand website,Influencer,NA,3
-R0464,Prayagraj,22-28,Myntra,Instagram,NA,8
-R0465,Pune,29-35,Myntra,Myntra browseOther,Gifting,10
-R0466,Lucknow,29-35,Offline,Instagram,Wedding,8
-R0467,Mumbai,29-35,Myntra,Influencer,Work event,7
-R0468,Prayagraj,36-38,Myntra,Myntra browseOther,Gifting,7
-R0469,Pune,22-28,Offline,Friend,Festival,10
-R0470,Bhopal,36-38,Brand website,Influencer,Work event,2
-R0471,Lucknow,29-35,Myntra,Influencer,NA,3
-R0472,Prayagraj,22-28,Offline,Influencer,NA,9
-R0473,Prayagraj,36-38,Offline,Friend,Gifting,2
-R0474,Mumbai,22-28,Offline,Instagram,Work event,10
-R0475,Pune,36-38,Myntra,Myntra browseOther,NA,6
-R0476,Bhopal,36-38,Offline,Friend,Festival,7
-R0477,Hyderabad,29-35,Myntra,Influencer,Gifting,7
-R0478,Prayagraj,22-28,Myntra,Myntra browseOther,Festival,3
-R0479,Hyderabad,36-38,Brand website,Instagram,Gifting,8
-R0480,Delhi,22-28,Myntra,Influencer,Festival,10
-R0481,Bengaluru,29-35,Brand website,Myntra browseOther,Festival,6
-R0482,Bengaluru,36-38,Myntra,Friend,Wedding,4
-R0483,Prayagraj,29-35,Brand website,Myntra browseOther,NA,8
-R0484,Delhi,29-35,Brand website,Myntra browseOther,Wedding,5
-R0485,Bengaluru,36-38,Offline,Myntra browseOther,Festival,9
-R0486,Pune,29-35,Myntra,Instagram,Festival,4
-R0487,Lucknow,36-38,Myntra,Instagram,Work event,4
-R0488,Mumbai,22-28,Myntra,Influencer,Gifting,7
-R0489,Mumbai,22-28,Myntra,Influencer,Festival,10
-R0490,Hyderabad,29-35,Offline,Friend,NA,8
-R0491,Mumbai,36-38,Brand website,Friend,Wedding,10
-R0492,Pune,29-35,Brand website,Instagram,NA,10
-R0493,Bhopal,29-35,Myntra,Influencer,Work event,10
-R0494,Lucknow,29-35,Brand website,Myntra browseOther,NA,6
-R0495,Bengaluru,29-35,Brand website,Influencer,Festival,8
-R0496,Lucknow,29-35,Offline,Influencer,Gifting,5
-R0497,Delhi,22-28,Myntra,Instagram,NA,9
-R0498,Mumbai,22-28,Brand website,Myntra browseOther,Work event,8
-R0499,Lucknow,29-35,Myntra,Influencer,NA,7
-R0500,Prayagraj,29-35,Myntra,Influencer,Wedding,5
-R0501,Lucknow,36-38,Offline,Instagram,NA,7
-R0502,Pune,29-35,Offline,Myntra browseOther,Gifting,1
-R0503,Delhi,22-28,Offline,Friend,Work event,9
-R0504,Lucknow,22-28,Myntra,Influencer,NA,6
-R0505,Hyderabad,29-35,Brand website,Friend,Wedding,10
-R0506,Bhopal,29-35,Offline,Instagram,Gifting,8
-R0507,Pune,22-28,Myntra,Friend,Gifting,5
-R0508,Hyderabad,36-38,Offline,Friend,NA,7
-R0509,Delhi,29-35,Offline,Instagram,Work event,8
-R0510,Delhi,29-35,Brand website,Influencer,NA,10
-R0511,Pune,29-35,Offline,Instagram,NA,5
-R0512,Bhopal,29-35,Brand website,Influencer,Festival,7
-R0513,Bhopal,36-38,Brand website,Influencer,Festival,4
-R0514,Pune,22-28,Offline,Myntra browseOther,Gifting,9
-R0515,Prayagraj,36-38,Brand website,Myntra browseOther,Wedding,7
-R0516,Lucknow,29-35,Myntra,Friend,Festival,10
-R0517,Delhi,29-35,Offline,Instagram,Wedding,8
-R0518,Bhopal,36-38,Myntra,Influencer,NA,4
-R0519,Lucknow,36-38,Brand website,Myntra browseOther,NA,8
-R0520,Pune,29-35,Myntra,Instagram,Gifting,3
-R0521,Mumbai,29-35,Brand website,Influencer,Wedding,10
-R0522,Lucknow,22-28,Brand website,Instagram,Gifting,8
-R0523,Prayagraj,36-38,Myntra,Instagram,Wedding,9
-R0524,Hyderabad,36-38,Brand website,Influencer,Wedding,10
-R0525,Prayagraj,22-28,Brand website,Influencer,Gifting,8
-R0526,Lucknow,22-28,Myntra,Instagram,Work event,5
-R0527,Mumbai,29-35,Brand website,Instagram,NA,6
-R0528,Pune,29-35,Offline,Instagram,Wedding,8
-R0529,Hyderabad,36-38,Offline,Influencer,Wedding,10
-R0530,Hyderabad,22-28,Offline,Friend,Gifting,10
-R0531,Hyderabad,22-28,Myntra,Influencer,Gifting,9
-R0532,Mumbai,29-35,Offline,Instagram,Gifting,9
-R0533,Pune,36-38,Offline,Myntra browseOther,Festival,4
-R0534,Prayagraj,36-38,Myntra,Instagram,Work event,8
-R0535,Mumbai,36-38,Brand website,Friend,NA,7
-R0536,Delhi,36-38,Offline,Myntra browseOther,Wedding,9
-R0537,Delhi,29-35,Myntra,Friend,Gifting,4
-R0538,Prayagraj,36-38,Myntra,Influencer,Work event,5
-R0539,Bhopal,36-38,Brand website,Myntra browseOther,Work event,8
-R0540,Lucknow,36-38,Offline,Influencer,Work event,2
-R0541,Delhi,36-38,Brand website,Myntra browseOther,Work event,2
-R0542,Pune,36-38,Brand website,Instagram,Gifting,4
-R0543,Bhopal,29-35,Myntra,Myntra browseOther,Wedding,9
-R0544,Delhi,36-38,Offline,Friend,Wedding,10
-R0545,Pune,29-35,Offline,Friend,NA,2
-R0546,Delhi,22-28,Myntra,Friend,Wedding,10
-R0547,Hyderabad,22-28,Myntra,Instagram,Gifting,10
-R0548,Bengaluru,36-38,Brand website,Instagram,NA,8
-R0549,Delhi,36-38,Brand website,Influencer,Gifting,8
-R0550,Prayagraj,36-38,Brand website,Influencer,Work event,8
-R0551,Hyderabad,29-35,Brand website,Instagram,Wedding,4
-R0552,Hyderabad,22-28,Myntra,Influencer,Festival,9
-R0553,Prayagraj,22-28,Offline,Instagram,Festival,6
-R0554,Hyderabad,29-35,Offline,Instagram,Gifting,5
-R0555,Hyderabad,36-38,Offline,Instagram,Wedding,9
-R0556,Lucknow,22-28,Offline,Myntra browseOther,Wedding,7
-R0557,Delhi,29-35,Brand website,Instagram,NA,10
-R0558,Hyderabad,22-28,Offline,Friend,Wedding,10
-R0559,Hyderabad,22-28,Myntra,Influencer,Wedding,5
-R0560,Bhopal,22-28,Myntra,Instagram,NA,7
-R0561,Prayagraj,22-28,Myntra,Myntra browseOther,Gifting,10
-R0562,Pune,36-38,Myntra,Influencer,Festival,9
-R0563,Delhi,36-38,Myntra,Instagram,NA,10
-R0564,Lucknow,22-28,Myntra,Influencer,NA,10
-R0565,Delhi,36-38,Offline,Myntra browseOther,NA,9
-R0566,Prayagraj,29-35,Myntra,Myntra browseOther,Wedding,6
-R0567,Lucknow,22-28,Myntra,Friend,Wedding,10
-R0568,Bhopal,29-35,Myntra,Friend,Work event,9
-R0569,Bengaluru,36-38,Myntra,Myntra browseOther,Work event,7
-R0570,Pune,36-38,Brand website,Influencer,Wedding,7
-R0571,Bhopal,36-38,Offline,Influencer,NA,5
-R0572,Bengaluru,36-38,Brand website,Myntra browseOther,Gifting,7
-R0573,Delhi,29-35,Offline,Influencer,Wedding,10
-R0574,Lucknow,29-35,Brand website,Instagram,Work event,1
-R0575,Hyderabad,36-38,Brand website,Myntra browseOther,NA,5
-R0576,Hyderabad,29-35,Myntra,Instagram,Gifting,8
-R0577,Prayagraj,29-35,Offline,Myntra browseOther,Wedding,1
-R0578,Prayagraj,36-38,Brand website,Instagram,Festival,2
-R0579,Mumbai,36-38,Myntra,Friend,Wedding,4
-R0580,Lucknow,22-28,Myntra,Friend,Work event,10
-R0581,Lucknow,36-38,Brand website,Myntra browseOther,Gifting,5
-R0582,Pune,29-35,Myntra,Myntra browseOther,Festival,8
-R0583,Mumbai,22-28,Brand website,Friend,Festival,10
-R0584,Pune,29-35,Brand website,Myntra browseOther,Wedding,10
-R0585,Mumbai,22-28,Offline,Influencer,NA,8
-R0586,Bengaluru,22-28,Offline,Instagram,Wedding,5
-R0587,Prayagraj,22-28,Myntra,Influencer,NA,10
-R0588,Lucknow,29-35,Offline,Instagram,Work event,9
-R0589,Hyderabad,36-38,Brand website,Influencer,NA,10
-R0590,Delhi,36-38,Myntra,Myntra browseOther,Gifting,4
-R0591,Bengaluru,22-28,Brand website,Friend,Festival,10
-R0592,Bhopal,22-28,Offline,Influencer,Gifting,5
-R0593,Bhopal,29-35,Offline,Myntra browseOther,Wedding,10
-R0594,Bhopal,29-35,Brand website,Myntra browseOther,Wedding,7
-R0595,Bengaluru,22-28,Brand website,Instagram,Wedding,10
-R0596,Mumbai,22-28,Brand website,Friend,Festival,7
-R0597,Prayagraj,36-38,Offline,Myntra browseOther,Festival,6
-R0598,Bhopal,36-38,Offline,Myntra browseOther,Work event,7
-R0599,Delhi,29-35,Myntra,Myntra browseOther,Gifting,10
-R0600,Prayagraj,36-38,Myntra,Myntra browseOther,Festival,9
-R0601,Bengaluru,29-35,Brand website,Friend,Work event,2
-R0602,Prayagraj,29-35,Offline,Influencer,Work event,6
-R0603,Delhi,36-38,Brand website,Instagram,Work event,5
-R0604,Pune,29-35,Brand website,Friend,Festival,10
-R0605,Prayagraj,29-35,Brand website,Myntra browseOther,Work event,7
-R0606,Bengaluru,36-38,Offline,Myntra browseOther,NA,9
-R0607,Bengaluru,36-38,Offline,Influencer,Work event,10
-R0608,Bengaluru,29-35,Brand website,Friend,Festival,5
-R0609,Pune,36-38,Offline,Influencer,Festival,7
-R0610,Prayagraj,36-38,Brand website,Instagram,Wedding,3
-R0611,Mumbai,29-35,Brand website,Influencer,Wedding,10
-R0612,Prayagraj,36-38,Myntra,Influencer,Work event,4
-R0613,Bhopal,29-35,Brand website,Instagram,Wedding,7
-R0614,Pune,36-38,Myntra,Friend,Gifting,10
-R0615,Bengaluru,36-38,Myntra,Instagram,Wedding,3
-R0616,Hyderabad,22-28,Offline,Myntra browseOther,Wedding,10
-R0617,Hyderabad,29-35,Myntra,Myntra browseOther,NA,8
-R0618,Bhopal,29-35,Offline,Instagram,NA,4
-R0619,Lucknow,29-35,Brand website,Myntra browseOther,Festival,7
-R0620,Mumbai,29-35,Myntra,Influencer,NA,9
-R0621,Hyderabad,29-35,Brand website,Myntra browseOther,NA,6
-R0622,Delhi,29-35,Brand website,Influencer,Work event,6
-R0623,Hyderabad,22-28,Brand website,Myntra browseOther,Gifting,4
-R0624,Prayagraj,22-28,Offline,Instagram,Wedding,8
-R0625,Delhi,29-35,Myntra,Instagram,Festival,6
-R0626,Delhi,36-38,Myntra,Instagram,Gifting,2
-R0627,Bengaluru,29-35,Offline,Myntra browseOther,Wedding,6
-R0628,Lucknow,36-38,Brand website,Myntra browseOther,NA,6
-R0629,Prayagraj,29-35,Myntra,Influencer,NA,7
-R0630,Prayagraj,36-38,Offline,Myntra browseOther,Work event,3
-R0631,Bengaluru,22-28,Offline,Myntra browseOther,NA,4
-R0632,Pune,36-38,Offline,Friend,Gifting,3
-R0633,Bengaluru,29-35,Myntra,Instagram,Work event,9
-R0634,Pune,22-28,Offline,Friend,NA,8
-R0635,Prayagraj,22-28,Offline,Influencer,Festival,6
-R0636,Pune,22-28,Myntra,Influencer,Wedding,10
-R0637,Mumbai,29-35,Brand website,Influencer,Wedding,9
-R0638,Delhi,36-38,Offline,Influencer,Wedding,10
-R0639,Bengaluru,36-38,Brand website,Friend,Festival,10
-R0640,Bhopal,22-28,Brand website,Instagram,Gifting,5
-R0641,Hyderabad,29-35,Brand website,Myntra browseOther,Festival,9
-R0642,Prayagraj,36-38,Myntra,Instagram,Wedding,4
-R0643,Pune,29-35,Offline,Friend,Gifting,10
-R0644,Lucknow,36-38,Brand website,Myntra browseOther,Festival,9
-R0645,Prayagraj,22-28,Brand website,Influencer,Festival,7
-R0646,Pune,36-38,Offline,Friend,Festival,10
-R0647,Delhi,29-35,Offline,Instagram,Work event,10
-R0648,Mumbai,29-35,Offline,Myntra browseOther,Gifting,5
-R0649,Lucknow,22-28,Myntra,Myntra browseOther,Festival,3
-R0650,Bhopal,22-28,Offline,Influencer,Wedding,7
-R0651,Bhopal,29-35,Brand website,Instagram,Festival,5
-R0652,Prayagraj,36-38,Myntra,Myntra browseOther,Wedding,6
-R0653,Hyderabad,22-28,Offline,Influencer,Festival,8
-R0654,Prayagraj,29-35,Offline,Influencer,Work event,5
-R0655,Hyderabad,22-28,Myntra,Influencer,NA,8
-R0656,Lucknow,36-38,Myntra,Myntra browseOther,NA,4
-R0657,Pune,36-38,Myntra,Influencer,Wedding,4
-R0658,Bhopal,22-28,Myntra,Myntra browseOther,Gifting,5
-R0659,Bhopal,22-28,Offline,Friend,Festival,10
-R0660,Mumbai,36-38,Brand website,Friend,Festival,10
-R0661,Mumbai,29-35,Offline,Friend,Wedding,10
-R0662,Bhopal,22-28,Myntra,Instagram,Wedding,5
-R0663,Bhopal,22-28,Myntra,Influencer,Work event,6
-R0664,Delhi,36-38,Brand website,Myntra browseOther,NA,8
-R0665,Bhopal,36-38,Offline,Instagram,Gifting,6
-R0666,Delhi,29-35,Myntra,Myntra browseOther,Festival,10
-R0667,Delhi,36-38,Myntra,Instagram,Work event,10
-R0668,Pune,22-28,Brand website,Friend,Wedding,9
-R0669,Delhi,22-28,Offline,Instagram,Gifting,8
-R0670,Bhopal,36-38,Brand website,Instagram,Festival,3
-R0671,Bhopal,36-38,Brand website,Friend,Wedding,5
-R0672,Lucknow,36-38,Offline,Myntra browseOther,NA,4
-R0673,Pune,22-28,Brand website,Friend,Wedding,8
-R0674,Mumbai,22-28,Myntra,Instagram,NA,9
-R0675,Hyderabad,36-38,Myntra,Instagram,Work event,10
-R0676,Mumbai,36-38,Brand website,Myntra browseOther,Work event,5
-R0677,Prayagraj,29-35,Brand website,Friend,NA,5
-R0678,Pune,29-35,Offline,Instagram,NA,5
-R0679,Lucknow,22-28,Offline,Friend,Work event,6
-R0680,Bengaluru,29-35,Offline,Myntra browseOther,Festival,6
-R0681,Hyderabad,22-28,Brand website,Instagram,Work event,6
-R0682,Hyderabad,29-35,Myntra,Influencer,NA,10
-R0683,Pune,22-28,Myntra,Friend,Gifting,9
-R0684,Hyderabad,22-28,Brand website,Instagram,Wedding,10
-R0685,Bhopal,36-38,Myntra,Influencer,Festival,8
-R0686,Bhopal,22-28,Myntra,Instagram,Work event,3
-R0687,Bhopal,29-35,Offline,Myntra browseOther,Wedding,10
-R0688,Prayagraj,29-35,Offline,Myntra browseOther,Festival,6
-R0689,Hyderabad,22-28,Myntra,Influencer,Work event,10
-R0690,Delhi,22-28,Brand website,Instagram,Gifting,8
-R0691,Lucknow,29-35,Myntra,Influencer,Wedding,4
-R0692,Hyderabad,22-28,Brand website,Friend,Gifting,3
-R0693,Prayagraj,29-35,Offline,Instagram,Gifting,4
-R0694,Bhopal,36-38,Myntra,Instagram,Work event,5
-R0695,Delhi,22-28,Brand website,Influencer,Gifting,8
-R0696,Mumbai,22-28,Myntra,Friend,Work event,6
-R0697,Bhopal,36-38,Myntra,Influencer,Work event,6
-R0698,Delhi,29-35,Myntra,Instagram,Wedding,8
-R0699,Prayagraj,22-28,Myntra,Instagram,Gifting,6
-R0700,Pune,36-38,Myntra,Friend,Work event,4
-R0701,Bhopal,22-28,Myntra,Friend,Gifting,9
-R0702,Pune,29-35,Brand website,Instagram,Gifting,10
-R0703,Hyderabad,22-28,Myntra,Instagram,NA,6
-R0704,Bhopal,22-28,Myntra,Friend,Festival,10
-R0705,Prayagraj,22-28,Myntra,Myntra browseOther,NA,9
-R0706,Pune,29-35,Myntra,Instagram,NA,6
-R0707,Prayagraj,29-35,Brand website,Instagram,Gifting,6
-R0708,Prayagraj,29-35,Offline,Instagram,Work event,6
-R0709,Bhopal,22-28,Offline,Friend,NA,8
-R0710,Bhopal,22-28,Offline,Instagram,Work event,8
-R0711,Mumbai,36-38,Brand website,Influencer,Festival,7
-R0712,Bengaluru,22-28,Myntra,Friend,Gifting,7
-R0713,Prayagraj,36-38,Offline,Friend,Gifting,5
-R0714,Bengaluru,36-38,Brand website,Friend,Festival,6
-R0715,Prayagraj,36-38,Brand website,Instagram,Wedding,7
-R0716,Hyderabad,36-38,Myntra,Instagram,Festival,4
-R0717,Mumbai,29-35,Myntra,Myntra browseOther,Gifting,7
-R0718,Bengaluru,22-28,Offline,Influencer,Wedding,10
-R0719,Bhopal,36-38,Brand website,Myntra browseOther,Work event,5
-R0720,Delhi,22-28,Brand website,Instagram,NA,10
-R0721,Bengaluru,36-38,Myntra,Instagram,Gifting,4
-R0722,Delhi,22-28,Brand website,Influencer,Wedding,10
-R0723,Hyderabad,29-35,Offline,Instagram,Wedding,8
-R0724,Lucknow,36-38,Myntra,Myntra browseOther,Festival,8
-R0725,Delhi,29-35,Offline,Influencer,Wedding,10
-R0726,Lucknow,22-28,Brand website,Myntra browseOther,Gifting,10
-R0727,Bengaluru,22-28,Offline,Instagram,Work event,9
-R0728,Prayagraj,29-35,Brand website,Influencer,Work event,2
-R0729,Mumbai,36-38,Myntra,Myntra browseOther,NA,7
-R0730,Hyderabad,36-38,Brand website,Myntra browseOther,Wedding,7
-R0731,Mumbai,36-38,Myntra,Friend,Wedding,9
-R0732,Delhi,29-35,Brand website,Myntra browseOther,Work event,8
-R0733,Pune,36-38,Brand website,Influencer,Festival,8
-R0734,Bengaluru,22-28,Offline,Influencer,Gifting,10
-R0735,Delhi,22-28,Brand website,Instagram,Work event,4
-R0736,Bengaluru,22-28,Brand website,Myntra browseOther,Wedding,10
-R0737,Mumbai,29-35,Offline,Influencer,Work event,10
-R0738,Pune,22-28,Offline,Friend,Wedding,10
-R0739,Mumbai,29-35,Myntra,Instagram,Work event,6
-R0740,Delhi,36-38,Offline,Myntra browseOther,Wedding,7
-R0741,Mumbai,29-35,Myntra,Instagram,Wedding,10
-R0742,Delhi,22-28,Brand website,Influencer,Gifting,10
-R0743,Delhi,36-38,Offline,Friend,Wedding,5
-R0744,Delhi,29-35,Offline,Myntra browseOther,Festival,8
-R0745,Delhi,29-35,Offline,Friend,Work event,10
-R0746,Mumbai,36-38,Offline,Myntra browseOther,Wedding,10
-R0747,Bengaluru,36-38,Myntra,Myntra browseOther,Work event,7
-R0748,Bhopal,29-35,Myntra,Friend,NA,2
-R0749,Prayagraj,22-28,Offline,Influencer,Festival,9
-R0750,Lucknow,36-38,Myntra,Friend,Festival,6
-R0751,Mumbai,22-28,Brand website,Instagram,Gifting,10
-R0752,Pune,29-35,Brand website,Friend,Gifting,10
-R0753,Prayagraj,29-35,Brand website,Instagram,Work event,7
-R0754,Hyderabad,29-35,Myntra,Influencer,NA,9
-R0755,Delhi,29-35,Myntra,Friend,Gifting,7
-R0756,Hyderabad,36-38,Brand website,Myntra browseOther,Gifting,10
-R0757,Prayagraj,29-35,Offline,Influencer,Work event,7
-R0758,Lucknow,22-28,Myntra,Instagram,Work event,7
-R0759,Prayagraj,36-38,Offline,Instagram,NA,4
-R0760,Bengaluru,36-38,Myntra,Myntra browseOther,NA,5
-R0761,Delhi,29-35,Offline,Friend,NA,3
-R0762,Bengaluru,22-28,Brand website,Influencer,Festival,9
-R0763,Lucknow,22-28,Myntra,Instagram,NA,7
-R0764,Pune,29-35,Brand website,Influencer,Work event,5
-R0765,Bengaluru,29-35,Brand website,Friend,NA,8
-R0766,Mumbai,29-35,Brand website,Myntra browseOther,Wedding,10
-R0767,Bengaluru,22-28,Offline,Friend,Gifting,10
-R0768,Bhopal,22-28,Brand website,Influencer,Wedding,10
-R0769,Mumbai,29-35,Offline,Friend,NA,9
-R0770,Prayagraj,36-38,Myntra,Instagram,Gifting,5
-R0771,Delhi,29-35,Offline,Friend,Festival,10
-R0772,Lucknow,36-38,Brand website,Myntra browseOther,Wedding,5
-R0773,Delhi,29-35,Brand website,Friend,NA,9
-R0774,Prayagraj,36-38,Brand website,Myntra browseOther,Work event,1
-R0775,Mumbai,29-35,Offline,Instagram,Work event,8
-R0776,Prayagraj,36-38,Brand website,Friend,Work event,3
-R0777,Delhi,29-35,Brand website,Friend,NA,10
-R0778,Bengaluru,36-38,Offline,Friend,Work event,1
-R0779,Pune,36-38,Offline,Influencer,NA,6
-R0780,Prayagraj,22-28,Brand website,Influencer,Festival,10
-R0781,Mumbai,22-28,Brand website,Friend,Work event,10
-R0782,Lucknow,29-35,Myntra,Influencer,NA,4
-R0783,Bhopal,22-28,Offline,Influencer,Festival,3
-R0784,Bengaluru,22-28,Myntra,Myntra browseOther,Gifting,2
-R0785,Pune,22-28,Offline,Instagram,Work event,5
-R0786,Prayagraj,29-35,Offline,Friend,NA,8
-R0787,Hyderabad,29-35,Myntra,Friend,Work event,4
-R0788,Lucknow,36-38,Myntra,Influencer,Wedding,2
-R0789,Mumbai,36-38,Offline,Instagram,Festival,10
-R0790,Pune,36-38,Myntra,Friend,Gifting,7
-R0791,Mumbai,22-28,Myntra,Myntra browseOther,Festival,10
-R0792,Hyderabad,29-35,Brand website,Instagram,Festival,9
-R0793,Bhopal,36-38,Myntra,Instagram,Wedding,3
-R0794,Prayagraj,22-28,Brand website,Myntra browseOther,Gifting,5
-R0795,Lucknow,29-35,Myntra,Myntra browseOther,Work event,4
-R0796,Bengaluru,22-28,Myntra,Myntra browseOther,Festival,9
-R0797,Bhopal,22-28,Offline,Friend,Gifting,7
-R0798,Lucknow,22-28,Myntra,Myntra browseOther,Wedding,10
-R0799,Bengaluru,29-35,Offline,Influencer,Work event,5
-R0800,Mumbai,22-28,Offline,Myntra browseOther,Festival,8
-R0801,Lucknow,36-38,Offline,Friend,Wedding,10
-R0802,Delhi,29-35,Brand website,Instagram,Wedding,9
-R0803,Bhopal,29-35,Offline,Instagram,Gifting,2
-R0804,Delhi,22-28,Myntra,Instagram,Wedding,10
-R0805,Delhi,22-28,Brand website,Myntra browseOther,Gifting,6
-R0806,Pune,36-38,Offline,Instagram,Festival,5
-R0807,Bhopal,29-35,Myntra,Influencer,Wedding,10
-R0808,Lucknow,29-35,Myntra,Friend,Wedding,8
-R0809,Mumbai,29-35,Brand website,Instagram,NA,5
-R0810,Lucknow,29-35,Myntra,Friend,Wedding,6
-R0811,Bhopal,36-38,Brand website,Friend,NA,9
-R0812,Bengaluru,29-35,Myntra,Influencer,Work event,10
-R0813,Lucknow,22-28,Brand website,Instagram,Wedding,2
-R0814,Bhopal,36-38,Brand website,Influencer,Gifting,7
-R0815,Prayagraj,22-28,Myntra,Myntra browseOther,Work event,7
-R0816,Bengaluru,36-38,Brand website,Instagram,Wedding,7
-R0817,Pune,36-38,Offline,Influencer,Work event,9
-R0818,Pune,22-28,Brand website,Myntra browseOther,NA,3
-R0819,Delhi,36-38,Myntra,Influencer,Work event,10
-R0820,Prayagraj,36-38,Offline,Influencer,Work event,3
-R0821,Lucknow,36-38,Offline,Myntra browseOther,Festival,8
-R0822,Mumbai,36-38,Brand website,Friend,Gifting,9
-R0823,Pune,29-35,Offline,Friend,Wedding,10
-R0824,Lucknow,36-38,Brand website,Instagram,Festival,7
-R0825,Delhi,22-28,Myntra,Influencer,NA,8
-R0826,Mumbai,22-28,Myntra,Friend,Work event,9
-R0827,Pune,22-28,Brand website,Instagram,NA,9
-R0828,Delhi,36-38,Myntra,Instagram,Festival,5
-R0829,Delhi,29-35,Offline,Influencer,Gifting,10
-R0830,Mumbai,22-28,Brand website,Influencer,Festival,6
-R0831,Pune,29-35,Offline,Instagram,NA,7
-R0832,Delhi,29-35,Brand website,Instagram,NA,5
-R0833,Prayagraj,36-38,Offline,Friend,Wedding,7
-R0834,Bengaluru,29-35,Myntra,Instagram,Work event,4
-R0835,Pune,22-28,Brand website,Influencer,NA,10
-R0836,Bhopal,22-28,Myntra,Instagram,Wedding,10
-R0837,Prayagraj,29-35,Offline,Myntra browseOther,Gifting,7
-R0838,Delhi,22-28,Offline,Influencer,NA,10
-R0839,Bengaluru,36-38,Myntra,Influencer,Work event,6
-R0840,Hyderabad,22-28,Offline,Influencer,NA,10
-R0841,Lucknow,29-35,Offline,Influencer,Festival,7
-R0842,Prayagraj,36-38,Myntra,Instagram,Gifting,4
-R0843,Delhi,29-35,Myntra,Friend,Gifting,9
-R0844,Pune,29-35,Offline,Influencer,Gifting,10
-R0845,Mumbai,29-35,Offline,Influencer,Wedding,10
-R0846,Prayagraj,36-38,Brand website,Instagram,NA,6
-R0847,Mumbai,29-35,Offline,Friend,Festival,8
-R0848,Bengaluru,36-38,Offline,Instagram,Festival,8
-R0849,Pune,36-38,Brand website,Influencer,Festival,10
-R0850,Prayagraj,22-28,Myntra,Influencer,Work event,9
-R0851,Mumbai,36-38,Brand website,Friend,NA,7
-R0852,Bhopal,29-35,Brand website,Myntra browseOther,Wedding,3
-R0853,Mumbai,22-28,Brand website,Influencer,Wedding,10
-R0854,Bhopal,22-28,Myntra,Friend,Gifting,8
-R0855,Prayagraj,22-28,Offline,Influencer,Wedding,10
-R0856,Prayagraj,36-38,Myntra,Instagram,Wedding,6
-R0857,Bhopal,36-38,Brand website,Myntra browseOther,NA,8
-R0858,Hyderabad,36-38,Offline,Myntra browseOther,Gifting,7
-R0859,Pune,36-38,Offline,Friend,Gifting,6
-R0860,Delhi,36-38,Myntra,Influencer,Wedding,10
-R0861,Bengaluru,29-35,Myntra,Influencer,Wedding,8
-R0862,Hyderabad,29-35,Myntra,Influencer,Gifting,6
-R0863,Pune,36-38,Offline,Instagram,Festival,10
-R0864,Lucknow,22-28,Offline,Friend,NA,8
-R0865,Bhopal,22-28,Brand website,Myntra browseOther,Festival,8
-R0866,Lucknow,22-28,Offline,Influencer,Wedding,5
-R0867,Mumbai,22-28,Brand website,Friend,Gifting,10
-R0868,Lucknow,29-35,Offline,Myntra browseOther,Wedding,7
-R0869,Prayagraj,36-38,Myntra,Myntra browseOther,Gifting,4
-R0870,Prayagraj,22-28,Offline,Friend,NA,7
-R0871,Bhopal,22-28,Brand website,Myntra browseOther,Wedding,8
-R0872,Prayagraj,22-28,Brand website,Influencer,NA,10
-R0873,Mumbai,29-35,Brand website,Instagram,Gifting,7
-R0874,Bhopal,29-35,Myntra,Myntra browseOther,Festival,5
-R0875,Hyderabad,29-35,Myntra,Influencer,Wedding,10
-R0876,Bengaluru,36-38,Offline,Myntra browseOther,Work event,6
-R0877,Lucknow,22-28,Offline,Influencer,Work event,10
-R0878,Delhi,36-38,Myntra,Influencer,Work event,10
-R0879,Hyderabad,36-38,Brand website,Influencer,Work event,6
-R0880,Mumbai,22-28,Offline,Friend,Wedding,9
-R0881,Hyderabad,36-38,Offline,Friend,Festival,7
-R0882,Bengaluru,22-28,Offline,Instagram,Work event,10
-R0883,Prayagraj,22-28,Myntra,Myntra browseOther,NA,8
-R0884,Bengaluru,22-28,Myntra,Friend,Work event,10
-R0885,Bengaluru,36-38,Offline,Influencer,Work event,4
-R0886,Prayagraj,36-38,Brand website,Influencer,NA,7
-R0887,Delhi,29-35,Offline,Influencer,Work event,10
-R0888,Bengaluru,22-28,Offline,Myntra browseOther,Festival,10
-R0889,Prayagraj,22-28,Myntra,Friend,Gifting,5
-R0890,Prayagraj,22-28,Brand website,Influencer,Wedding,10
-R0891,Mumbai,36-38,Myntra,Instagram,NA,5
-R0892,Bhopal,29-35,Myntra,Instagram,Festival,6
-R0893,Lucknow,22-28,Myntra,Friend,Festival,10
-R0894,Delhi,29-35,Myntra,Friend,NA,10
-R0895,Pune,22-28,Myntra,Instagram,NA,7
-R0896,Mumbai,29-35,Offline,Friend,Work event,10
-R0897,Delhi,29-35,Offline,Myntra browseOther,NA,7
-R0898,Lucknow,29-35,Offline,Myntra browseOther,Gifting,5
-R0899,Pune,22-28,Offline,Friend,NA,10
-R0900,Bhopal,29-35,Myntra,Influencer,Festival,6
-R0901,Hyderabad,36-38,Offline,Instagram,Gifting,10
-R0902,Bhopal,22-28,Brand website,Friend,Festival,8
-R0903,Prayagraj,36-38,Myntra,Friend,Festival,5
-R0904,Bhopal,29-35,Brand website,Instagram,Festival,8
-R0905,Bhopal,22-28,Offline,Instagram,NA,6
-R0906,Pune,22-28,Offline,Myntra browseOther,NA,7
-R0907,Prayagraj,29-35,Myntra,Instagram,Work event,5
-R0908,Delhi,22-28,Offline,Influencer,Work event,7
-R0909,Prayagraj,36-38,Offline,Myntra browseOther,Gifting,2
-R0910,Pune,29-35,Brand website,Friend,Gifting,8
-R0911,Lucknow,36-38,Brand website,Influencer,Wedding,8
-R0912,Hyderabad,36-38,Myntra,Myntra browseOther,Work event,10
-R0913,Delhi,36-38,Brand website,Friend,Gifting,3
-R0914,Bhopal,22-28,Brand website,Friend,NA,6
-R0915,Pune,29-35,Myntra,Friend,Wedding,9
-R0916,Bengaluru,36-38,Myntra,Myntra browseOther,Work event,2
-R0917,Bengaluru,29-35,Myntra,Instagram,NA,10
-R0918,Pune,22-28,Offline,Myntra browseOther,NA,8
-R0919,Delhi,29-35,Myntra,Friend,Wedding,10
-R0920,Bengaluru,29-35,Brand website,Myntra browseOther,Gifting,9
-R0921,Bengaluru,36-38,Offline,Myntra browseOther,Gifting,4
-R0922,Prayagraj,22-28,Brand website,Influencer,Festival,10
-R0923,Hyderabad,36-38,Brand website,Myntra browseOther,NA,7
-R0924,Bengaluru,36-38,Brand website,Influencer,Festival,9
-R0925,Pune,36-38,Offline,Influencer,Festival,6
-R0926,Lucknow,36-38,Brand website,Instagram,Wedding,2
-R0927,Lucknow,22-28,Myntra,Myntra browseOther,NA,4
-R0928,Delhi,29-35,Myntra,Influencer,NA,6
-R0929,Lucknow,22-28,Myntra,Influencer,Gifting,7
-R0930,Delhi,22-28,Offline,Myntra browseOther,Work event,4
-R0931,Bhopal,22-28,Myntra,Myntra browseOther,Work event,1
-R0932,Pune,29-35,Brand website,Influencer,Work event,6
-R0933,Hyderabad,29-35,Offline,Instagram,NA,6
-R0934,Hyderabad,36-38,Offline,Influencer,Wedding,10
-R0935,Pune,29-35,Myntra,Instagram,Work event,10
-R0936,Bengaluru,22-28,Myntra,Influencer,Wedding,8
-R0937,Lucknow,29-35,Myntra,Myntra browseOther,Gifting,5
-R0938,Mumbai,22-28,Brand website,Myntra browseOther,Gifting,10
-R0939,Bhopal,36-38,Offline,Influencer,Festival,3
-R0940,Bhopal,29-35,Myntra,Myntra browseOther,Festival,8
-R0941,Bhopal,29-35,Offline,Friend,Work event,1
-R0942,Bhopal,29-35,Myntra,Friend,Gifting,6
-R0943,Lucknow,22-28,Myntra,Influencer,Gifting,5
-R0944,Mumbai,29-35,Myntra,Myntra browseOther,NA,10
-R0945,Bhopal,36-38,Offline,Myntra browseOther,Gifting,5
-R0946,Mumbai,36-38,Offline,Myntra browseOther,Festival,7
-R0947,Prayagraj,29-35,Myntra,Instagram,Gifting,9
-R0948,Pune,22-28,Myntra,Friend,Festival,10
-R0949,Delhi,22-28,Offline,Instagram,Wedding,10
-R0950,Hyderabad,29-35,Brand website,Instagram,Gifting,5
-R0951,Pune,36-38,Myntra,Influencer,Festival,8
-R0952,Prayagraj,22-28,Brand website,Friend,Gifting,8
-R0953,Bengaluru,22-28,Brand website,Influencer,Gifting,6
-R0954,Mumbai,22-28,Myntra,Instagram,NA,10
-R0955,Delhi,22-28,Offline,Friend,Gifting,10
-R0956,Prayagraj,22-28,Offline,Instagram,NA,7
-R0957,Bengaluru,22-28,Myntra,Friend,Gifting,4
-R0958,Mumbai,22-28,Offline,Instagram,Gifting,8
-R0959,Bengaluru,22-28,Myntra,Influencer,Work event,7
-R0960,Pune,29-35,Myntra,Instagram,Festival,6
-R0961,Delhi,36-38,Brand website,Myntra browseOther,Festival,10
-R0962,Mumbai,29-35,Offline,Influencer,NA,10
-R0963,Pune,36-38,Brand website,Myntra browseOther,Work event,3
-R0964,Pune,29-35,Offline,Influencer,Work event,10
-R0965,Bengaluru,22-28,Myntra,Myntra browseOther,NA,6
-R0966,Delhi,22-28,Myntra,Myntra browseOther,Festival,9
-R0967,Bhopal,29-35,Myntra,Friend,Festival,8
-R0968,Bengaluru,22-28,Myntra,Friend,Festival,5
-R0969,Pune,29-35,Offline,Myntra browseOther,Work event,4
-R0970,Mumbai,29-35,Brand website,Influencer,Festival,10
-R0971,Bengaluru,22-28,Brand website,Myntra browseOther,NA,5
-R0972,Delhi,22-28,Offline,Friend,Wedding,10
-R0973,Bhopal,22-28,Myntra,Instagram,Festival,9
-R0974,Bhopal,22-28,Brand website,Influencer,Wedding,9
-R0975,Delhi,29-35,Offline,Myntra browseOther,Gifting,4
-R0976,Lucknow,36-38,Myntra,Instagram,Wedding,6
-R0977,Delhi,36-38,Brand website,Myntra browseOther,Wedding,10
-R0978,Lucknow,36-38,Offline,Instagram,Gifting,1
-R0979,Lucknow,36-38,Offline,Instagram,NA,6
-R0980,Lucknow,22-28,Brand website,Influencer,Festival,8
-R0981,Delhi,29-35,Myntra,Friend,Work event,9
-R0982,Delhi,36-38,Offline,Friend,NA,9
-R0983,Bhopal,36-38,Brand website,Influencer,NA,3
-R0984,Bengaluru,22-28,Myntra,Myntra browseOther,Gifting,8
-R0985,Bengaluru,36-38,Brand website,Myntra browseOther,Work event,6
-R0986,Delhi,36-38,Offline,Instagram,Work event,3
-R0987,Bengaluru,22-28,Myntra,Influencer,Wedding,10
-R0988,Lucknow,22-28,Brand website,Myntra browseOther,Work event,8
-R0989,Pune,22-28,Brand website,Influencer,Gifting,8
-R0990,Bhopal,36-38,Myntra,Influencer,NA,6
-R0991,Bhopal,22-28,Offline,Instagram,Festival,8
-R0992,Pune,36-38,Offline,Influencer,Gifting,10
-R0993,Bengaluru,36-38,Myntra,Influencer,Festival,8
-R0994,Prayagraj,22-28,Offline,Instagram,NA,3
-R0995,Lucknow,22-28,Offline,Instagram,Festival,8
-R0996,Pune,29-35,Myntra,Instagram,Gifting,4
-R0997,Hyderabad,29-35,Brand website,Influencer,NA,5
-R0998,Pune,29-35,Offline,Instagram,Wedding,10
-R0999,Hyderabad,29-35,Brand website,Instagram,Wedding,8
-R1000,Bhopal,29-35,Offline,Influencer,Gifting,8
+respondent_id,city,age_group,preferred_channel,discover_channel,primary_occasion,purchase_intent,price_acceptance
+R0001,Prayagraj,36-38,Offline,Friend,NA,4,4500
+R0002,Bhopal,22-28,Myntra,Other,Gifting,8,5500
+R0003,Lucknow,29-35,Brand website,Friend,NA,7,5500
+R0004,Hyderabad,22-28,Brand website,Friend,Festival,7,5500
+R0005,Mumbai,29-35,Brand website,Instagram,Work event,10,6500
+R0006,Mumbai,22-28,Myntra,Instagram,NA,10,6500
+R0007,Lucknow,29-35,Offline,Myntra browse,Wedding,5,4500
+R0008,Delhi,36-38,Offline,Myntra browse,Work event,10,6500
+R0009,Bhopal,22-28,Offline,Instagram,Work event,10,6500
+R0010,Bhopal,36-38,Offline,Friend,Gifting,6,4500
+R0011,Delhi,22-28,Brand website,Instagram,Work event,8,6500
+R0012,Bengaluru,36-38,Myntra,Friend,Gifting,6,4500
+R0013,Mumbai,29-35,Myntra,Influencer,Wedding,10,6500
+R0014,Mumbai,22-28,Offline,Influencer,Wedding,10,6500
+R0015,Hyderabad,36-38,Myntra,Myntra browse,Festival,5,4500
+R0016,Bhopal,29-35,Offline,Myntra browse,Work event,3,2500
+R0017,Pune,22-28,Brand website,Instagram,Wedding,5,4500
+R0018,Bengaluru,22-28,Myntra,Friend,Wedding,10,6500
+R0019,Prayagraj,29-35,Offline,Friend,Wedding,9,6500
+R0020,Bengaluru,22-28,Brand website,Friend,NA,7,4500
+R0021,Prayagraj,36-38,Myntra,Influencer,Festival,5,3500
+R0022,Pune,36-38,Myntra,Influencer,Festival,5,4500
+R0023,Hyderabad,36-38,Brand website,Instagram,Wedding,6,4500
+R0024,Bengaluru,36-38,Brand website,Myntra browse,Festival,6,4500
+R0025,Hyderabad,29-35,Brand website,Instagram,Festival,10,6500
+R0026,Mumbai,36-38,Offline,Myntra browse,Gifting,9,5500
+R0027,Prayagraj,29-35,Offline,Other,Festival,3,2500
+R0028,Pune,36-38,Myntra,Friend,NA,8,6500
+R0029,Mumbai,22-28,Brand website,Instagram,Festival,10,6500
+R0030,Mumbai,36-38,Offline,Instagram,Work event,4,3500
+R0031,Lucknow,36-38,Offline,Other,Wedding,6,4500
+R0032,Delhi,36-38,Myntra,Friend,Work event,6,4500
+R0033,Mumbai,22-28,Offline,Other,Wedding,10,6500
+R0034,Prayagraj,22-28,Brand website,Instagram,Festival,8,5500
+R0035,Pune,22-28,Brand website,Friend,Festival,10,6500
+R0036,Hyderabad,36-38,Offline,Friend,Gifting,4,4500
+R0037,Prayagraj,29-35,Offline,Myntra browse,Festival,7,5500
+R0038,Mumbai,22-28,Myntra,Instagram,Wedding,7,5500
+R0039,Prayagraj,22-28,Offline,Friend,NA,7,4500
+R0040,Hyderabad,36-38,Offline,Friend,Work event,7,4500
+R0041,Lucknow,29-35,Myntra,Other,Work event,7,4500
+R0042,Delhi,22-28,Brand website,Influencer,NA,10,6500
+R0043,Delhi,22-28,Brand website,Other,Work event,9,5500
+R0044,Pune,29-35,Myntra,Other,Work event,8,5500
+R0045,Prayagraj,29-35,Myntra,Instagram,Gifting,6,4500
+R0046,Lucknow,36-38,Offline,Other,Festival,9,6500
+R0047,Lucknow,36-38,Brand website,Myntra browse,NA,2,3500
+R0048,Bhopal,22-28,Offline,Other,Wedding,6,5500
+R0049,Bengaluru,22-28,Offline,Other,Wedding,10,6500
+R0050,Bhopal,29-35,Offline,Myntra browse,Gifting,5,4500
+R0051,Prayagraj,29-35,Offline,Friend,Festival,8,5500
+R0052,Delhi,29-35,Myntra,Friend,NA,9,6500
+R0053,Prayagraj,29-35,Brand website,Influencer,NA,3,3500
+R0054,Mumbai,36-38,Myntra,Friend,Wedding,8,5500
+R0055,Delhi,22-28,Brand website,Friend,NA,10,6500
+R0056,Hyderabad,36-38,Brand website,Friend,Wedding,10,6500
+R0057,Pune,22-28,Offline,Myntra browse,Festival,8,6500
+R0058,Pune,36-38,Brand website,Instagram,Work event,5,4500
+R0059,Hyderabad,22-28,Offline,Influencer,Festival,6,5500
+R0060,Delhi,22-28,Myntra,Friend,Wedding,10,6500
+R0061,Bengaluru,36-38,Myntra,Friend,Festival,10,6500
+R0062,Bengaluru,22-28,Offline,Other,Work event,8,6500
+R0063,Mumbai,36-38,Myntra,Instagram,NA,4,3500
+R0064,Pune,22-28,Offline,Myntra browse,NA,10,6500
+R0065,Lucknow,22-28,Offline,Other,Wedding,6,5500
+R0066,Prayagraj,29-35,Offline,Instagram,Work event,3,3500
+R0067,Prayagraj,29-35,Myntra,Influencer,Work event,9,6500
+R0068,Mumbai,22-28,Myntra,Friend,Work event,10,6500
+R0069,Hyderabad,22-28,Brand website,Friend,Work event,9,5500
+R0070,Mumbai,22-28,Offline,Influencer,NA,10,6500
+R0071,Mumbai,36-38,Brand website,Myntra browse,NA,10,6500
+R0072,Mumbai,36-38,Offline,Myntra browse,Work event,4,4500
+R0073,Pune,29-35,Myntra,Myntra browse,Festival,5,3500
+R0074,Mumbai,36-38,Myntra,Myntra browse,Work event,6,4500
+R0075,Delhi,22-28,Myntra,Influencer,Wedding,10,6500
+R0076,Bengaluru,29-35,Offline,Myntra browse,Work event,5,4500
+R0077,Lucknow,36-38,Brand website,Other,Wedding,5,4500
+R0078,Mumbai,36-38,Offline,Other,Gifting,4,4500
+R0079,Bengaluru,29-35,Myntra,Friend,NA,3,3500
+R0080,Mumbai,29-35,Brand website,Influencer,Festival,10,6500
+R0081,Bhopal,22-28,Myntra,Other,Work event,9,6500
+R0082,Mumbai,22-28,Myntra,Instagram,Work event,8,6500
+R0083,Bengaluru,36-38,Offline,Friend,Gifting,6,4500
+R0084,Bhopal,36-38,Brand website,Influencer,Gifting,8,5500
+R0085,Mumbai,29-35,Offline,Instagram,Festival,10,6500
+R0086,Hyderabad,29-35,Brand website,Myntra browse,Festival,10,6500
+R0087,Delhi,22-28,Offline,Instagram,Gifting,10,6500
+R0088,Hyderabad,36-38,Myntra,Friend,Festival,5,3500
+R0089,Mumbai,36-38,Brand website,Influencer,Gifting,9,6500
+R0090,Hyderabad,36-38,Offline,Influencer,Festival,7,4500
+R0091,Prayagraj,29-35,Brand website,Myntra browse,Work event,4,3500
+R0092,Bengaluru,36-38,Brand website,Friend,Festival,7,5500
+R0093,Hyderabad,29-35,Myntra,Other,Wedding,4,3500
+R0094,Lucknow,22-28,Myntra,Instagram,Work event,4,3500
+R0095,Mumbai,22-28,Myntra,Influencer,Gifting,7,5500
+R0096,Bengaluru,36-38,Myntra,Friend,NA,5,4500
+R0097,Bhopal,36-38,Myntra,Myntra browse,Festival,9,5500
+R0098,Lucknow,22-28,Offline,Instagram,Work event,9,6500
+R0099,Mumbai,36-38,Myntra,Instagram,NA,10,6500
+R0100,Delhi,36-38,Offline,Other,Festival,6,5500
+R0101,Prayagraj,36-38,Offline,Influencer,Work event,6,5500
+R0102,Mumbai,36-38,Brand website,Myntra browse,Wedding,7,5500
+R0103,Mumbai,22-28,Myntra,Friend,Festival,10,6500
+R0104,Bhopal,36-38,Myntra,Instagram,NA,5,4500
+R0105,Lucknow,22-28,Brand website,Friend,Work event,6,5500
+R0106,Mumbai,29-35,Myntra,Other,NA,6,4500
+R0107,Delhi,22-28,Myntra,Influencer,Gifting,6,4500
+R0108,Bengaluru,29-35,Offline,Myntra browse,Wedding,9,5500
+R0109,Pune,36-38,Offline,Other,NA,6,4500
+R0110,Prayagraj,36-38,Myntra,Other,Wedding,7,5500
+R0111,Bengaluru,36-38,Myntra,Instagram,Festival,10,6500
+R0112,Pune,22-28,Brand website,Influencer,Gifting,5,3500
+R0113,Hyderabad,22-28,Offline,Friend,Gifting,6,4500
+R0114,Lucknow,29-35,Brand website,Myntra browse,Festival,9,5500
+R0115,Prayagraj,29-35,Myntra,Instagram,Gifting,6,5500
+R0116,Pune,22-28,Offline,Instagram,Wedding,8,5500
+R0117,Bhopal,22-28,Myntra,Myntra browse,Gifting,7,4500
+R0118,Pune,36-38,Offline,Instagram,Festival,6,4500
+R0119,Prayagraj,29-35,Offline,Myntra browse,Work event,6,4500
+R0120,Lucknow,22-28,Offline,Myntra browse,Gifting,10,6500
+R0121,Pune,29-35,Offline,Myntra browse,Work event,7,5500
+R0122,Mumbai,22-28,Myntra,Myntra browse,Festival,10,6500
+R0123,Pune,29-35,Myntra,Other,Gifting,10,6500
+R0124,Hyderabad,22-28,Offline,Friend,Gifting,9,6500
+R0125,Pune,29-35,Myntra,Instagram,Wedding,4,3500
+R0126,Mumbai,29-35,Brand website,Friend,Work event,10,6500
+R0127,Pune,22-28,Myntra,Myntra browse,Gifting,10,6500
+R0128,Mumbai,36-38,Offline,Other,Wedding,5,3500
+R0129,Hyderabad,29-35,Brand website,Myntra browse,Festival,10,6500
+R0130,Mumbai,29-35,Myntra,Other,Festival,8,5500
+R0131,Delhi,29-35,Myntra,Myntra browse,Work event,10,6500
+R0132,Hyderabad,36-38,Myntra,Myntra browse,NA,6,4500
+R0133,Bhopal,22-28,Offline,Instagram,Festival,10,6500
+R0134,Delhi,29-35,Offline,Myntra browse,Festival,10,6500
+R0135,Lucknow,36-38,Offline,Influencer,Festival,8,6500
+R0136,Bengaluru,22-28,Offline,Other,NA,10,6500
+R0137,Prayagraj,36-38,Brand website,Other,Gifting,5,4500
+R0138,Prayagraj,29-35,Brand website,Other,Wedding,7,4500
+R0139,Pune,36-38,Myntra,Other,NA,3,3500
+R0140,Prayagraj,29-35,Myntra,Friend,Gifting,3,2500
+R0141,Lucknow,29-35,Offline,Friend,Festival,10,6500
+R0142,Delhi,29-35,Offline,Instagram,Work event,9,6500
+R0143,Pune,29-35,Myntra,Friend,Wedding,10,6500
+R0144,Mumbai,36-38,Brand website,Influencer,NA,8,6500
+R0145,Bhopal,29-35,Myntra,Other,Wedding,4,3500
+R0146,Hyderabad,22-28,Myntra,Other,Gifting,10,6500
+R0147,Mumbai,22-28,Myntra,Myntra browse,Festival,10,6500
+R0148,Lucknow,29-35,Offline,Influencer,NA,7,5500
+R0149,Prayagraj,29-35,Myntra,Other,NA,5,4500
+R0150,Hyderabad,29-35,Brand website,Other,NA,4,3500
+R0151,Mumbai,29-35,Offline,Influencer,Gifting,10,6500
+R0152,Delhi,29-35,Brand website,Influencer,NA,8,5500
+R0153,Delhi,36-38,Myntra,Influencer,Festival,9,6500
+R0154,Prayagraj,36-38,Offline,Friend,NA,6,5500
+R0155,Delhi,36-38,Offline,Influencer,Work event,10,6500
+R0156,Bhopal,36-38,Myntra,Influencer,NA,9,5500
+R0157,Bengaluru,36-38,Myntra,Myntra browse,NA,6,5500
+R0158,Delhi,22-28,Brand website,Myntra browse,Wedding,10,6500
+R0159,Bhopal,22-28,Brand website,Friend,Gifting,9,6500
+R0160,Pune,22-28,Brand website,Influencer,Wedding,7,5500
+R0161,Lucknow,36-38,Offline,Other,Wedding,8,6500
+R0162,Hyderabad,22-28,Offline,Instagram,Work event,5,3500
+R0163,Delhi,29-35,Offline,Instagram,Wedding,6,4500
+R0164,Mumbai,36-38,Myntra,Influencer,Gifting,10,6500
+R0165,Bengaluru,22-28,Myntra,Myntra browse,Festival,10,6500
+R0166,Pune,36-38,Offline,Influencer,Work event,6,4500
+R0167,Pune,36-38,Myntra,Myntra browse,Gifting,6,4500
+R0168,Bengaluru,22-28,Offline,Friend,Festival,9,6500
+R0169,Delhi,29-35,Myntra,Other,Gifting,9,6500
+R0170,Bengaluru,22-28,Offline,Influencer,Festival,10,6500
+R0171,Hyderabad,36-38,Brand website,Friend,Festival,7,5500
+R0172,Pune,22-28,Offline,Other,NA,10,6500
+R0173,Delhi,29-35,Offline,Myntra browse,NA,10,6500
+R0174,Pune,22-28,Offline,Friend,Gifting,10,6500
+R0175,Delhi,36-38,Brand website,Instagram,Work event,9,5500
+R0176,Lucknow,22-28,Brand website,Myntra browse,NA,3,3500
+R0177,Hyderabad,29-35,Offline,Influencer,Wedding,10,6500
+R0178,Prayagraj,22-28,Myntra,Instagram,NA,9,5500
+R0179,Prayagraj,22-28,Brand website,Other,Work event,9,6500
+R0180,Mumbai,36-38,Myntra,Friend,Work event,5,4500
+R0181,Delhi,29-35,Myntra,Myntra browse,Work event,10,6500
+R0182,Bhopal,36-38,Myntra,Friend,Gifting,8,5500
+R0183,Mumbai,29-35,Offline,Instagram,NA,10,6500
+R0184,Hyderabad,29-35,Offline,Instagram,Wedding,10,6500
+R0185,Lucknow,22-28,Offline,Influencer,NA,6,5500
+R0186,Mumbai,22-28,Offline,Influencer,Wedding,10,6500
+R0187,Lucknow,36-38,Brand website,Instagram,Wedding,7,5500
+R0188,Delhi,22-28,Offline,Other,NA,8,5500
+R0189,Lucknow,22-28,Brand website,Other,Wedding,10,6500
+R0190,Bhopal,29-35,Offline,Myntra browse,Work event,8,5500
+R0191,Hyderabad,29-35,Myntra,Myntra browse,NA,10,6500
+R0192,Hyderabad,29-35,Brand website,Instagram,Wedding,7,5500
+R0193,Hyderabad,29-35,Myntra,Instagram,NA,6,5500
+R0194,Pune,36-38,Myntra,Myntra browse,Gifting,10,6500
+R0195,Pune,36-38,Brand website,Other,Wedding,6,4500
+R0196,Hyderabad,29-35,Myntra,Myntra browse,Work event,9,6500
+R0197,Bengaluru,29-35,Offline,Instagram,Work event,10,6500
+R0198,Lucknow,29-35,Offline,Instagram,Wedding,7,5500
+R0199,Mumbai,36-38,Brand website,Myntra browse,NA,5,4500
+R0200,Bhopal,29-35,Myntra,Myntra browse,Festival,9,6500
+R0201,Delhi,36-38,Brand website,Myntra browse,Work event,4,3500
+R0202,Mumbai,29-35,Brand website,Influencer,Wedding,10,6500
+R0203,Bhopal,36-38,Brand website,Myntra browse,Wedding,6,4500
+R0204,Pune,22-28,Brand website,Other,Gifting,7,5500
+R0205,Bhopal,36-38,Myntra,Friend,Festival,6,4500
+R0206,Prayagraj,36-38,Offline,Myntra browse,Festival,5,3500
+R0207,Delhi,36-38,Brand website,Myntra browse,NA,10,6500
+R0208,Prayagraj,36-38,Brand website,Other,NA,7,5500
+R0209,Prayagraj,36-38,Myntra,Other,Wedding,7,5500
+R0210,Mumbai,22-28,Offline,Myntra browse,Wedding,10,6500
+R0211,Lucknow,36-38,Brand website,Friend,NA,2,3500
+R0212,Lucknow,36-38,Offline,Influencer,Festival,9,6500
+R0213,Pune,29-35,Offline,Friend,NA,9,6500
+R0214,Lucknow,36-38,Brand website,Friend,Work event,2,2500
+R0215,Bengaluru,36-38,Myntra,Other,NA,3,3500
+R0216,Mumbai,29-35,Myntra,Friend,Festival,8,5500
+R0217,Pune,36-38,Myntra,Influencer,Wedding,5,3500
+R0218,Pune,22-28,Brand website,Influencer,Wedding,10,6500
+R0219,Hyderabad,36-38,Offline,Instagram,Festival,10,6500
+R0220,Pune,29-35,Offline,Other,NA,3,2500
+R0221,Hyderabad,29-35,Brand website,Instagram,Gifting,3,2500
+R0222,Bhopal,36-38,Myntra,Instagram,Work event,3,2500
+R0223,Hyderabad,36-38,Brand website,Other,Work event,4,3500
+R0224,Bhopal,36-38,Myntra,Friend,NA,4,4500
+R0225,Bengaluru,22-28,Brand website,Other,Wedding,7,4500
+R0226,Delhi,29-35,Offline,Instagram,Gifting,6,4500
+R0227,Delhi,22-28,Brand website,Friend,Work event,6,4500
+R0228,Lucknow,36-38,Myntra,Other,Festival,5,4500
+R0229,Bengaluru,36-38,Offline,Instagram,Work event,10,6500
+R0230,Bengaluru,22-28,Offline,Instagram,NA,6,4500
+R0231,Pune,29-35,Myntra,Friend,Gifting,3,2500
+R0232,Pune,29-35,Myntra,Instagram,Work event,3,3500
+R0233,Bengaluru,36-38,Offline,Myntra browse,Work event,4,4500
+R0234,Bhopal,29-35,Brand website,Myntra browse,Gifting,3,3500
+R0235,Lucknow,22-28,Brand website,Myntra browse,Work event,10,6500
+R0236,Mumbai,36-38,Brand website,Other,Wedding,7,5500
+R0237,Bhopal,22-28,Offline,Other,Festival,5,4500
+R0238,Pune,22-28,Brand website,Myntra browse,Work event,10,6500
+R0239,Delhi,36-38,Offline,Other,Wedding,6,4500
+R0240,Prayagraj,22-28,Offline,Friend,Work event,10,6500
+R0241,Pune,22-28,Myntra,Other,Work event,10,6500
+R0242,Lucknow,36-38,Brand website,Myntra browse,NA,4,4500
+R0243,Pune,22-28,Offline,Instagram,Gifting,4,4500
+R0244,Mumbai,22-28,Myntra,Influencer,Gifting,10,6500
+R0245,Bhopal,36-38,Offline,Other,Festival,8,6500
+R0246,Prayagraj,36-38,Offline,Other,Work event,5,3500
+R0247,Prayagraj,29-35,Brand website,Friend,NA,7,4500
+R0248,Prayagraj,36-38,Offline,Friend,Gifting,7,4500
+R0249,Delhi,22-28,Myntra,Influencer,Wedding,10,6500
+R0250,Bengaluru,22-28,Myntra,Instagram,NA,4,3500
+R0251,Bhopal,29-35,Brand website,Influencer,Gifting,4,3500
+R0252,Lucknow,29-35,Offline,Instagram,Work event,5,4500
+R0253,Mumbai,29-35,Offline,Friend,NA,6,4500
+R0254,Delhi,22-28,Myntra,Other,NA,8,5500
+R0255,Delhi,22-28,Brand website,Influencer,Festival,10,6500
+R0256,Pune,29-35,Offline,Friend,Wedding,6,5500
+R0257,Prayagraj,22-28,Brand website,Instagram,Work event,8,5500
+R0258,Pune,29-35,Offline,Influencer,NA,8,5500
+R0259,Hyderabad,29-35,Brand website,Friend,Work event,10,6500
+R0260,Bengaluru,22-28,Myntra,Friend,NA,6,4500
+R0261,Mumbai,36-38,Myntra,Instagram,Gifting,4,4500
+R0262,Mumbai,22-28,Offline,Influencer,Wedding,8,6500
+R0263,Delhi,36-38,Myntra,Other,Work event,10,6500
+R0264,Prayagraj,29-35,Brand website,Other,Work event,8,5500
+R0265,Bengaluru,29-35,Myntra,Instagram,Work event,8,5500
+R0266,Delhi,22-28,Myntra,Myntra browse,Work event,10,6500
+R0267,Lucknow,36-38,Offline,Friend,Wedding,9,6500
+R0268,Pune,29-35,Brand website,Other,Gifting,10,6500
+R0269,Lucknow,29-35,Brand website,Instagram,NA,3,2500
+R0270,Hyderabad,22-28,Brand website,Friend,Work event,6,4500
+R0271,Mumbai,22-28,Offline,Friend,Gifting,5,4500
+R0272,Bhopal,36-38,Myntra,Instagram,Work event,2,3500
+R0273,Bengaluru,22-28,Myntra,Myntra browse,Wedding,8,5500
+R0274,Lucknow,22-28,Brand website,Instagram,NA,10,6500
+R0275,Bengaluru,29-35,Offline,Other,Gifting,8,5500
+R0276,Bhopal,22-28,Myntra,Other,NA,3,3500
+R0277,Delhi,22-28,Brand website,Myntra browse,Gifting,4,3500
+R0278,Pune,22-28,Offline,Instagram,Gifting,7,4500
+R0279,Mumbai,36-38,Brand website,Other,Wedding,10,6500
+R0280,Lucknow,22-28,Offline,Other,Gifting,8,6500
+R0281,Prayagraj,36-38,Myntra,Friend,NA,6,4500
+R0282,Bengaluru,36-38,Myntra,Influencer,Wedding,6,4500
+R0283,Bengaluru,22-28,Offline,Friend,Wedding,8,5500
+R0284,Delhi,22-28,Offline,Other,NA,9,6500
+R0285,Lucknow,36-38,Offline,Myntra browse,Work event,6,4500
+R0286,Pune,29-35,Offline,Other,NA,8,5500
+R0287,Mumbai,36-38,Offline,Myntra browse,NA,10,6500
+R0288,Bhopal,29-35,Offline,Myntra browse,Gifting,8,6500
+R0289,Prayagraj,22-28,Offline,Influencer,Work event,4,3500
+R0290,Delhi,22-28,Myntra,Myntra browse,Festival,7,5500
+R0291,Bengaluru,29-35,Brand website,Influencer,Wedding,7,5500
+R0292,Delhi,22-28,Myntra,Myntra browse,Wedding,10,6500
+R0293,Lucknow,36-38,Brand website,Friend,Festival,6,5500
+R0294,Prayagraj,22-28,Offline,Myntra browse,Work event,10,6500
+R0295,Lucknow,36-38,Myntra,Instagram,Work event,6,4500
+R0296,Bengaluru,36-38,Offline,Friend,Festival,9,6500
+R0297,Prayagraj,36-38,Offline,Friend,NA,6,5500
+R0298,Bhopal,22-28,Brand website,Friend,NA,10,6500
+R0299,Bengaluru,36-38,Brand website,Instagram,Festival,5,4500
+R0300,Prayagraj,29-35,Myntra,Influencer,Festival,8,5500
+R0301,Prayagraj,29-35,Offline,Influencer,Gifting,3,2500
+R0302,Mumbai,22-28,Myntra,Instagram,Work event,5,4500
+R0303,Hyderabad,29-35,Myntra,Myntra browse,NA,7,4500
+R0304,Hyderabad,29-35,Myntra,Influencer,Work event,5,4500
+R0305,Hyderabad,22-28,Myntra,Myntra browse,Festival,10,6500
+R0306,Mumbai,22-28,Brand website,Other,Festival,10,6500
+R0307,Delhi,29-35,Brand website,Influencer,Festival,10,6500
+R0308,Delhi,29-35,Offline,Other,Wedding,7,5500
+R0309,Bengaluru,29-35,Brand website,Myntra browse,Work event,9,6500
+R0310,Mumbai,22-28,Offline,Influencer,Work event,10,6500
+R0311,Pune,29-35,Brand website,Other,NA,10,6500
+R0312,Delhi,29-35,Myntra,Myntra browse,Gifting,9,5500
+R0313,Prayagraj,29-35,Offline,Myntra browse,Work event,8,5500
+R0314,Pune,36-38,Brand website,Myntra browse,Festival,7,5500
+R0315,Lucknow,22-28,Brand website,Myntra browse,Work event,5,4500
+R0316,Delhi,29-35,Brand website,Influencer,Gifting,8,6500
+R0317,Bhopal,29-35,Myntra,Myntra browse,Work event,7,5500
+R0318,Delhi,36-38,Offline,Instagram,Wedding,6,4500
+R0319,Mumbai,22-28,Myntra,Myntra browse,Wedding,10,6500
+R0320,Delhi,36-38,Brand website,Myntra browse,NA,4,3500
+R0321,Delhi,36-38,Brand website,Myntra browse,Festival,7,4500
+R0322,Pune,29-35,Brand website,Other,NA,10,6500
+R0323,Delhi,36-38,Myntra,Instagram,Wedding,4,4500
+R0324,Hyderabad,36-38,Myntra,Influencer,Festival,10,6500
+R0325,Pune,29-35,Offline,Friend,Gifting,4,3500
+R0326,Mumbai,36-38,Offline,Myntra browse,Festival,5,4500
+R0327,Bengaluru,36-38,Offline,Friend,Festival,4,4500
+R0328,Prayagraj,29-35,Offline,Instagram,Wedding,5,4500
+R0329,Hyderabad,36-38,Brand website,Friend,Work event,3,2500
+R0330,Delhi,22-28,Brand website,Instagram,Festival,10,6500
+R0331,Delhi,22-28,Myntra,Myntra browse,Festival,10,6500
+R0332,Delhi,29-35,Myntra,Myntra browse,Wedding,7,5500
+R0333,Delhi,22-28,Myntra,Other,Work event,8,5500
+R0334,Hyderabad,36-38,Myntra,Other,Festival,5,3500
+R0335,Mumbai,36-38,Brand website,Instagram,Wedding,10,6500
+R0336,Delhi,29-35,Myntra,Friend,Wedding,6,4500
+R0337,Hyderabad,36-38,Brand website,Myntra browse,Gifting,7,4500
+R0338,Mumbai,36-38,Brand website,Friend,Festival,6,4500
+R0339,Prayagraj,22-28,Myntra,Influencer,Festival,6,4500
+R0340,Prayagraj,22-28,Offline,Influencer,Gifting,9,5500
+R0341,Prayagraj,29-35,Offline,Influencer,Festival,5,4500
+R0342,Pune,22-28,Offline,Influencer,Gifting,6,4500
+R0343,Mumbai,36-38,Offline,Other,Work event,8,5500
+R0344,Prayagraj,22-28,Myntra,Instagram,Wedding,4,4500
+R0345,Hyderabad,36-38,Offline,Instagram,Festival,5,4500
+R0346,Mumbai,36-38,Brand website,Instagram,NA,9,6500
+R0347,Lucknow,29-35,Offline,Instagram,NA,7,4500
+R0348,Bhopal,22-28,Offline,Friend,Festival,9,6500
+R0349,Delhi,22-28,Myntra,Instagram,Gifting,4,3500
+R0350,Prayagraj,36-38,Myntra,Friend,NA,5,4500
+R0351,Delhi,22-28,Offline,Influencer,Festival,10,6500
+R0352,Bhopal,22-28,Myntra,Influencer,Festival,5,4500
+R0353,Bengaluru,29-35,Brand website,Other,NA,3,3500
+R0354,Hyderabad,29-35,Myntra,Other,Wedding,4,4500
+R0355,Hyderabad,29-35,Brand website,Instagram,Festival,4,4500
+R0356,Lucknow,22-28,Offline,Other,Festival,4,3500
+R0357,Hyderabad,22-28,Brand website,Instagram,Gifting,10,6500
+R0358,Mumbai,22-28,Myntra,Influencer,NA,7,5500
+R0359,Bengaluru,22-28,Brand website,Other,Gifting,6,4500
+R0360,Prayagraj,22-28,Offline,Instagram,Wedding,6,4500
+R0361,Prayagraj,22-28,Brand website,Other,Gifting,5,4500
+R0362,Pune,29-35,Offline,Instagram,Wedding,10,6500
+R0363,Pune,22-28,Offline,Friend,Wedding,10,6500
+R0364,Delhi,36-38,Offline,Influencer,Festival,9,6500
+R0365,Lucknow,36-38,Brand website,Friend,Gifting,6,4500
+R0366,Pune,22-28,Brand website,Other,Wedding,8,6500
+R0367,Mumbai,22-28,Offline,Other,Festival,10,6500
+R0368,Bhopal,22-28,Offline,Influencer,NA,6,4500
+R0369,Hyderabad,22-28,Brand website,Other,NA,10,6500
+R0370,Mumbai,29-35,Myntra,Myntra browse,Gifting,5,4500
+R0371,Bengaluru,36-38,Myntra,Other,Wedding,6,5500
+R0372,Lucknow,36-38,Myntra,Influencer,Wedding,6,4500
+R0373,Bhopal,22-28,Myntra,Instagram,Gifting,4,3500
+R0374,Lucknow,22-28,Brand website,Instagram,Wedding,10,6500
+R0375,Delhi,22-28,Brand website,Friend,Wedding,10,6500
+R0376,Delhi,29-35,Brand website,Instagram,Festival,10,6500
+R0377,Lucknow,36-38,Offline,Other,Work event,3,3500
+R0378,Mumbai,29-35,Brand website,Friend,Festival,10,6500
+R0379,Lucknow,22-28,Brand website,Other,Wedding,10,6500
+R0380,Mumbai,29-35,Myntra,Influencer,Gifting,10,6500
+R0381,Hyderabad,29-35,Brand website,Friend,Gifting,5,4500
+R0382,Pune,36-38,Myntra,Instagram,Gifting,10,6500
+R0383,Hyderabad,29-35,Offline,Instagram,Wedding,9,6500
+R0384,Bengaluru,29-35,Offline,Myntra browse,Festival,10,6500
+R0385,Pune,29-35,Myntra,Influencer,Gifting,10,6500
+R0386,Delhi,22-28,Offline,Other,Wedding,7,5500
+R0387,Hyderabad,29-35,Myntra,Other,Work event,5,4500
+R0388,Mumbai,29-35,Myntra,Other,Gifting,10,6500
+R0389,Pune,36-38,Offline,Myntra browse,Gifting,3,3500
+R0390,Bhopal,36-38,Offline,Influencer,NA,3,3500
+R0391,Pune,36-38,Myntra,Influencer,Festival,10,6500
+R0392,Delhi,22-28,Offline,Instagram,Festival,8,6500
+R0393,Bengaluru,29-35,Brand website,Influencer,Festival,10,6500
+R0394,Pune,22-28,Brand website,Other,NA,10,6500
+R0395,Pune,22-28,Offline,Friend,Festival,10,6500
+R0396,Mumbai,29-35,Brand website,Influencer,Gifting,10,6500
+R0397,Lucknow,22-28,Myntra,Friend,Gifting,5,4500
+R0398,Mumbai,36-38,Myntra,Instagram,Festival,6,4500
+R0399,Lucknow,29-35,Offline,Other,Wedding,9,6500
+R0400,Hyderabad,29-35,Myntra,Other,Work event,5,4500
+R0401,Pune,36-38,Offline,Other,Festival,6,4500
+R0402,Prayagraj,29-35,Brand website,Instagram,Wedding,7,5500
+R0403,Delhi,36-38,Offline,Influencer,Work event,10,6500
+R0404,Bengaluru,29-35,Offline,Other,Gifting,6,5500
+R0405,Prayagraj,29-35,Offline,Instagram,Wedding,4,3500
+R0406,Pune,29-35,Myntra,Instagram,Wedding,4,3500
+R0407,Hyderabad,36-38,Brand website,Influencer,Work event,10,6500
+R0408,Mumbai,22-28,Brand website,Myntra browse,Wedding,10,6500
+R0409,Delhi,22-28,Brand website,Instagram,Work event,10,6500
+R0410,Lucknow,29-35,Myntra,Instagram,NA,5,4500
+R0411,Delhi,22-28,Brand website,Influencer,Work event,6,4500
+R0412,Bengaluru,29-35,Offline,Other,NA,10,6500
+R0413,Delhi,22-28,Brand website,Other,NA,10,6500
+R0414,Mumbai,29-35,Brand website,Influencer,NA,9,5500
+R0415,Bhopal,22-28,Offline,Friend,Festival,6,5500
+R0416,Pune,36-38,Myntra,Other,Gifting,9,5500
+R0417,Bhopal,22-28,Brand website,Influencer,NA,9,6500
+R0418,Hyderabad,36-38,Brand website,Other,Wedding,4,3500
+R0419,Pune,36-38,Brand website,Instagram,Wedding,4,3500
+R0420,Lucknow,22-28,Offline,Influencer,Festival,10,6500
+R0421,Bengaluru,29-35,Offline,Other,Festival,10,6500
+R0422,Lucknow,36-38,Myntra,Influencer,Wedding,8,5500
+R0423,Delhi,22-28,Myntra,Friend,Work event,6,4500
+R0424,Prayagraj,22-28,Myntra,Other,Work event,3,2500
+R0425,Delhi,36-38,Brand website,Other,Gifting,8,5500
+R0426,Hyderabad,29-35,Offline,Friend,Gifting,8,5500
+R0427,Mumbai,22-28,Offline,Influencer,Wedding,10,6500
+R0428,Delhi,36-38,Brand website,Myntra browse,Festival,7,4500
+R0429,Delhi,36-38,Myntra,Other,Work event,4,3500
+R0430,Bengaluru,29-35,Myntra,Instagram,NA,6,5500
+R0431,Mumbai,22-28,Brand website,Other,Wedding,7,5500
+R0432,Bhopal,22-28,Offline,Myntra browse,NA,5,4500
+R0433,Bengaluru,22-28,Myntra,Instagram,Gifting,10,6500
+R0434,Bengaluru,22-28,Myntra,Influencer,Wedding,9,6500
+R0435,Prayagraj,36-38,Myntra,Other,Wedding,5,4500
+R0436,Prayagraj,36-38,Brand website,Instagram,Festival,7,5500
+R0437,Mumbai,29-35,Brand website,Myntra browse,Festival,8,6500
+R0438,Pune,36-38,Offline,Instagram,Gifting,8,6500
+R0439,Prayagraj,36-38,Brand website,Myntra browse,Gifting,4,3500
+R0440,Bengaluru,22-28,Brand website,Influencer,Work event,8,5500
+R0441,Delhi,36-38,Offline,Myntra browse,Gifting,9,5500
+R0442,Bengaluru,22-28,Brand website,Myntra browse,Wedding,10,6500
+R0443,Pune,22-28,Brand website,Myntra browse,Wedding,5,4500
+R0444,Pune,36-38,Brand website,Influencer,NA,6,5500
+R0445,Pune,36-38,Myntra,Myntra browse,Festival,9,5500
+R0446,Delhi,22-28,Brand website,Instagram,Festival,10,6500
+R0447,Delhi,36-38,Offline,Instagram,Work event,7,5500
+R0448,Mumbai,36-38,Myntra,Instagram,Wedding,10,6500
+R0449,Mumbai,29-35,Brand website,Myntra browse,Festival,10,6500
+R0450,Lucknow,22-28,Myntra,Instagram,Festival,10,6500
+R0451,Hyderabad,29-35,Brand website,Friend,Festival,8,5500
+R0452,Lucknow,22-28,Brand website,Friend,Gifting,9,6500
+R0453,Bhopal,36-38,Brand website,Friend,Gifting,7,5500
+R0454,Lucknow,29-35,Brand website,Instagram,NA,9,6500
+R0455,Bengaluru,36-38,Offline,Other,Wedding,4,3500
+R0456,Hyderabad,22-28,Offline,Myntra browse,Wedding,6,4500
+R0457,Delhi,22-28,Myntra,Instagram,Work event,10,6500
+R0458,Bhopal,22-28,Myntra,Other,Festival,10,6500
+R0459,Hyderabad,29-35,Offline,Friend,Work event,8,5500
+R0460,Delhi,22-28,Myntra,Myntra browse,Wedding,6,4500
+R0461,Pune,36-38,Myntra,Instagram,Festival,7,4500
+R0462,Hyderabad,29-35,Offline,Friend,Wedding,9,5500
+R0463,Hyderabad,36-38,Offline,Influencer,Festival,8,5500
+R0464,Hyderabad,36-38,Brand website,Friend,Work event,8,5500
+R0465,Hyderabad,36-38,Brand website,Myntra browse,Work event,7,5500
+R0466,Bhopal,36-38,Brand website,Friend,Festival,6,5500
+R0467,Pune,22-28,Brand website,Influencer,Wedding,10,6500
+R0468,Bhopal,36-38,Offline,Influencer,NA,7,5500
+R0469,Mumbai,36-38,Offline,Friend,Work event,6,4500
+R0470,Delhi,36-38,Offline,Friend,Festival,9,6500
+R0471,Lucknow,22-28,Myntra,Influencer,NA,10,6500
+R0472,Delhi,22-28,Brand website,Other,NA,10,6500
+R0473,Pune,22-28,Offline,Friend,Festival,5,4500
+R0474,Mumbai,36-38,Offline,Myntra browse,Festival,10,6500
+R0475,Hyderabad,29-35,Brand website,Influencer,Festival,6,5500
+R0476,Hyderabad,22-28,Brand website,Instagram,Gifting,10,6500
+R0477,Delhi,29-35,Myntra,Instagram,NA,9,6500
+R0478,Delhi,36-38,Offline,Other,Gifting,8,5500
+R0479,Delhi,36-38,Myntra,Myntra browse,Wedding,10,6500
+R0480,Prayagraj,22-28,Offline,Other,NA,4,4500
+R0481,Pune,36-38,Brand website,Influencer,Festival,8,6500
+R0482,Pune,36-38,Myntra,Other,Gifting,6,5500
+R0483,Mumbai,29-35,Brand website,Friend,Work event,10,6500
+R0484,Bhopal,22-28,Myntra,Myntra browse,Festival,4,4500
+R0485,Mumbai,29-35,Brand website,Myntra browse,Wedding,10,6500
+R0486,Mumbai,36-38,Offline,Friend,Festival,10,6500
+R0487,Prayagraj,36-38,Myntra,Other,NA,4,4500
+R0488,Bengaluru,29-35,Brand website,Friend,Work event,3,2500
+R0489,Bengaluru,29-35,Offline,Influencer,Wedding,10,6500
+R0490,Bengaluru,22-28,Myntra,Instagram,Wedding,8,5500
+R0491,Mumbai,29-35,Brand website,Myntra browse,Festival,8,6500
+R0492,Bhopal,36-38,Offline,Other,Work event,4,3500
+R0493,Bhopal,22-28,Brand website,Friend,Wedding,6,4500
+R0494,Pune,22-28,Myntra,Friend,Work event,5,4500
+R0495,Delhi,29-35,Brand website,Influencer,NA,10,6500
+R0496,Prayagraj,36-38,Brand website,Myntra browse,NA,6,5500
+R0497,Hyderabad,29-35,Myntra,Influencer,Festival,5,4500
+R0498,Hyderabad,29-35,Offline,Other,Work event,6,5500
+R0499,Bhopal,36-38,Myntra,Instagram,Work event,6,4500
+R0500,Bengaluru,22-28,Offline,Influencer,Festival,10,6500
+R0501,Bhopal,29-35,Offline,Influencer,Work event,4,4500
+R0502,Mumbai,29-35,Myntra,Other,NA,5,4500
+R0503,Bengaluru,36-38,Brand website,Friend,NA,4,3500
+R0504,Pune,36-38,Offline,Instagram,Wedding,5,4500
+R0505,Bhopal,22-28,Myntra,Other,NA,3,3500
+R0506,Pune,36-38,Offline,Influencer,Festival,5,4500
+R0507,Prayagraj,22-28,Brand website,Friend,Work event,8,6500
+R0508,Hyderabad,36-38,Brand website,Myntra browse,Wedding,10,6500
+R0509,Mumbai,36-38,Offline,Influencer,Festival,10,6500
+R0510,Lucknow,22-28,Myntra,Instagram,Wedding,10,6500
+R0511,Pune,36-38,Myntra,Instagram,Wedding,5,4500
+R0512,Pune,29-35,Brand website,Influencer,Wedding,8,6500
+R0513,Delhi,22-28,Offline,Myntra browse,Gifting,4,3500
+R0514,Delhi,22-28,Brand website,Other,NA,10,6500
+R0515,Prayagraj,36-38,Brand website,Instagram,NA,6,4500
+R0516,Pune,36-38,Myntra,Friend,Wedding,7,5500
+R0517,Delhi,22-28,Brand website,Myntra browse,NA,10,6500
+R0518,Prayagraj,36-38,Offline,Other,Work event,4,3500
+R0519,Bengaluru,29-35,Offline,Friend,Work event,3,3500
+R0520,Mumbai,36-38,Offline,Friend,Gifting,4,4500
+R0521,Hyderabad,22-28,Myntra,Instagram,Festival,10,6500
+R0522,Hyderabad,29-35,Myntra,Influencer,Festival,9,5500
+R0523,Hyderabad,29-35,Offline,Other,Wedding,10,6500
+R0524,Lucknow,36-38,Myntra,Instagram,Gifting,7,4500
+R0525,Prayagraj,36-38,Brand website,Influencer,Work event,5,3500
+R0526,Bhopal,36-38,Myntra,Friend,NA,6,4500
+R0527,Prayagraj,36-38,Offline,Influencer,Wedding,9,6500
+R0528,Pune,29-35,Offline,Influencer,Work event,10,6500
+R0529,Mumbai,22-28,Brand website,Other,Gifting,9,6500
+R0530,Hyderabad,36-38,Offline,Myntra browse,Gifting,9,6500
+R0531,Bhopal,22-28,Brand website,Myntra browse,Festival,6,4500
+R0532,Bhopal,36-38,Offline,Influencer,Festival,8,5500
+R0533,Delhi,22-28,Offline,Other,Gifting,10,6500
+R0534,Pune,29-35,Myntra,Other,Gifting,10,6500
+R0535,Mumbai,22-28,Brand website,Influencer,Gifting,10,6500
+R0536,Lucknow,36-38,Offline,Instagram,Wedding,7,5500
+R0537,Mumbai,29-35,Myntra,Other,Festival,10,6500
+R0538,Mumbai,22-28,Offline,Influencer,Gifting,7,5500
+R0539,Delhi,29-35,Myntra,Friend,Wedding,7,4500
+R0540,Pune,22-28,Brand website,Myntra browse,NA,4,3500
+R0541,Delhi,22-28,Myntra,Instagram,Gifting,10,6500
+R0542,Pune,29-35,Brand website,Myntra browse,Festival,6,4500
+R0543,Hyderabad,22-28,Offline,Friend,NA,10,6500
+R0544,Hyderabad,36-38,Brand website,Other,Wedding,4,4500
+R0545,Lucknow,29-35,Offline,Friend,NA,4,3500
+R0546,Bhopal,36-38,Myntra,Instagram,NA,5,4500
+R0547,Mumbai,22-28,Offline,Instagram,Festival,7,5500
+R0548,Prayagraj,36-38,Brand website,Influencer,Work event,7,5500
+R0549,Pune,36-38,Offline,Instagram,Festival,4,4500
+R0550,Pune,29-35,Myntra,Influencer,Festival,10,6500
+R0551,Mumbai,22-28,Myntra,Influencer,Work event,10,6500
+R0552,Lucknow,29-35,Myntra,Influencer,NA,5,4500
+R0553,Lucknow,36-38,Offline,Myntra browse,Festival,8,5500
+R0554,Delhi,22-28,Brand website,Other,Festival,8,5500
+R0555,Mumbai,36-38,Brand website,Friend,Gifting,9,5500
+R0556,Bhopal,22-28,Offline,Instagram,Work event,5,4500
+R0557,Mumbai,36-38,Brand website,Influencer,Work event,8,5500
+R0558,Delhi,22-28,Myntra,Other,NA,10,6500
+R0559,Prayagraj,29-35,Offline,Friend,Work event,3,3500
+R0560,Prayagraj,29-35,Offline,Myntra browse,NA,4,4500
+R0561,Prayagraj,29-35,Offline,Instagram,Gifting,2,3500
+R0562,Prayagraj,22-28,Offline,Influencer,Work event,10,6500
+R0563,Pune,29-35,Offline,Influencer,Gifting,8,5500
+R0564,Pune,29-35,Myntra,Myntra browse,Wedding,8,5500
+R0565,Delhi,29-35,Brand website,Influencer,Gifting,8,5500
+R0566,Hyderabad,36-38,Myntra,Other,Festival,6,4500
+R0567,Bhopal,22-28,Brand website,Other,Work event,9,5500
+R0568,Mumbai,36-38,Brand website,Other,Festival,8,5500
+R0569,Hyderabad,36-38,Offline,Influencer,Festival,9,6500
+R0570,Bengaluru,29-35,Offline,Instagram,Gifting,5,4500
+R0571,Pune,22-28,Brand website,Other,Work event,4,3500
+R0572,Hyderabad,29-35,Myntra,Friend,Work event,3,2500
+R0573,Bhopal,22-28,Offline,Instagram,NA,3,2500
+R0574,Lucknow,22-28,Brand website,Myntra browse,NA,4,4500
+R0575,Bengaluru,36-38,Brand website,Friend,NA,10,6500
+R0576,Pune,36-38,Myntra,Instagram,Work event,8,5500
+R0577,Prayagraj,36-38,Offline,Other,Festival,5,3500
+R0578,Bhopal,29-35,Myntra,Friend,Gifting,8,5500
+R0579,Bhopal,22-28,Offline,Instagram,NA,6,4500
+R0580,Bengaluru,22-28,Myntra,Friend,Work event,8,6500
+R0581,Hyderabad,22-28,Brand website,Influencer,Festival,10,6500
+R0582,Prayagraj,22-28,Myntra,Myntra browse,NA,4,4500
+R0583,Bengaluru,36-38,Offline,Other,Wedding,7,5500
+R0584,Bhopal,22-28,Myntra,Influencer,Gifting,10,6500
+R0585,Bhopal,36-38,Offline,Other,NA,7,5500
+R0586,Hyderabad,29-35,Brand website,Friend,Gifting,7,4500
+R0587,Bhopal,29-35,Myntra,Instagram,Work event,3,3500
+R0588,Bhopal,29-35,Offline,Friend,Wedding,9,5500
+R0589,Mumbai,29-35,Myntra,Myntra browse,Wedding,5,3500
+R0590,Delhi,29-35,Offline,Influencer,Festival,10,6500
+R0591,Hyderabad,29-35,Myntra,Myntra browse,NA,4,4500
+R0592,Hyderabad,36-38,Myntra,Influencer,NA,4,4500
+R0593,Bhopal,22-28,Offline,Friend,Work event,4,4500
+R0594,Delhi,22-28,Brand website,Other,NA,9,6500
+R0595,Lucknow,36-38,Brand website,Myntra browse,Work event,2,3500
+R0596,Bhopal,36-38,Offline,Other,NA,7,4500
+R0597,Mumbai,29-35,Myntra,Other,Wedding,10,6500
+R0598,Mumbai,36-38,Offline,Instagram,Gifting,10,6500
+R0599,Prayagraj,36-38,Myntra,Myntra browse,Gifting,5,3500
+R0600,Bengaluru,36-38,Brand website,Influencer,Wedding,8,6500
+R0601,Delhi,36-38,Myntra,Influencer,Wedding,10,6500
+R0602,Hyderabad,29-35,Myntra,Friend,Work event,4,3500
+R0603,Bhopal,29-35,Myntra,Myntra browse,Gifting,5,4500
+R0604,Prayagraj,36-38,Brand website,Myntra browse,Gifting,2,2500
+R0605,Hyderabad,29-35,Brand website,Instagram,Gifting,4,4500
+R0606,Hyderabad,29-35,Brand website,Friend,Wedding,5,3500
+R0607,Mumbai,29-35,Myntra,Other,Wedding,10,6500
+R0608,Delhi,29-35,Brand website,Myntra browse,Work event,6,4500
+R0609,Bhopal,29-35,Myntra,Other,NA,3,2500
+R0610,Prayagraj,36-38,Offline,Influencer,Festival,5,4500
+R0611,Lucknow,29-35,Brand website,Other,Wedding,8,5500
+R0612,Pune,29-35,Brand website,Influencer,NA,4,4500
+R0613,Hyderabad,29-35,Myntra,Instagram,Wedding,6,4500
+R0614,Bengaluru,29-35,Brand website,Myntra browse,NA,3,2500
+R0615,Bengaluru,36-38,Myntra,Other,NA,4,3500
+R0616,Bhopal,36-38,Myntra,Myntra browse,Festival,6,4500
+R0617,Prayagraj,36-38,Offline,Myntra browse,NA,5,4500
+R0618,Bengaluru,36-38,Brand website,Friend,NA,7,5500
+R0619,Bengaluru,29-35,Offline,Friend,NA,8,6500
+R0620,Prayagraj,36-38,Offline,Other,NA,6,4500
+R0621,Prayagraj,36-38,Myntra,Influencer,Festival,4,3500
+R0622,Bhopal,36-38,Brand website,Myntra browse,Gifting,5,4500
+R0623,Pune,22-28,Myntra,Myntra browse,Wedding,8,5500
+R0624,Lucknow,36-38,Brand website,Influencer,Work event,7,4500
+R0625,Pune,22-28,Myntra,Influencer,Work event,10,6500
+R0626,Bhopal,22-28,Offline,Friend,Gifting,10,6500
+R0627,Delhi,22-28,Offline,Influencer,Gifting,10,6500
+R0628,Lucknow,29-35,Brand website,Influencer,NA,9,6500
+R0629,Bengaluru,22-28,Myntra,Friend,Work event,6,4500
+R0630,Hyderabad,29-35,Offline,Influencer,Gifting,9,5500
+R0631,Bengaluru,29-35,Offline,Friend,Festival,6,4500
+R0632,Mumbai,36-38,Myntra,Instagram,Work event,8,5500
+R0633,Pune,29-35,Brand website,Other,Wedding,6,4500
+R0634,Mumbai,29-35,Brand website,Other,Work event,9,6500
+R0635,Bhopal,36-38,Brand website,Instagram,Gifting,5,4500
+R0636,Pune,22-28,Offline,Other,NA,10,6500
+R0637,Lucknow,29-35,Myntra,Myntra browse,Work event,9,5500
+R0638,Bhopal,36-38,Brand website,Myntra browse,NA,8,6500
+R0639,Bhopal,22-28,Brand website,Myntra browse,Festival,4,3500
+R0640,Prayagraj,29-35,Offline,Myntra browse,Gifting,7,4500
+R0641,Prayagraj,36-38,Brand website,Influencer,Work event,7,4500
+R0642,Mumbai,22-28,Offline,Friend,Work event,10,6500
+R0643,Pune,29-35,Offline,Influencer,Festival,10,6500
+R0644,Lucknow,36-38,Brand website,Other,Wedding,4,4500
+R0645,Pune,36-38,Myntra,Instagram,Gifting,3,3500
+R0646,Delhi,29-35,Brand website,Other,Wedding,10,6500
+R0647,Bengaluru,36-38,Brand website,Influencer,NA,9,6500
+R0648,Pune,22-28,Myntra,Influencer,NA,6,4500
+R0649,Bhopal,36-38,Brand website,Friend,NA,2,3500
+R0650,Lucknow,36-38,Myntra,Friend,Festival,5,4500
+R0651,Prayagraj,29-35,Offline,Myntra browse,Festival,7,4500
+R0652,Prayagraj,29-35,Brand website,Influencer,Work event,8,5500
+R0653,Prayagraj,22-28,Offline,Other,NA,7,5500
+R0654,Bhopal,29-35,Brand website,Other,Gifting,3,3500
+R0655,Pune,22-28,Brand website,Friend,Work event,9,6500
+R0656,Delhi,22-28,Offline,Instagram,Wedding,10,6500
+R0657,Mumbai,36-38,Offline,Friend,Festival,7,5500
+R0658,Pune,29-35,Brand website,Instagram,Work event,9,6500
+R0659,Hyderabad,22-28,Offline,Influencer,NA,6,5500
+R0660,Mumbai,29-35,Myntra,Friend,Festival,8,6500
+R0661,Delhi,29-35,Offline,Friend,Wedding,10,6500
+R0662,Lucknow,36-38,Brand website,Instagram,Festival,7,5500
+R0663,Mumbai,36-38,Brand website,Myntra browse,Gifting,7,4500
+R0664,Prayagraj,36-38,Brand website,Myntra browse,Work event,2,2500
+R0665,Delhi,36-38,Myntra,Instagram,Wedding,10,6500
+R0666,Lucknow,36-38,Offline,Friend,Gifting,6,4500
+R0667,Bhopal,29-35,Offline,Myntra browse,Work event,6,4500
+R0668,Mumbai,36-38,Myntra,Other,Wedding,10,6500
+R0669,Pune,29-35,Myntra,Influencer,NA,8,6500
+R0670,Pune,29-35,Brand website,Myntra browse,NA,8,5500
+R0671,Hyderabad,22-28,Brand website,Instagram,Wedding,10,6500
+R0672,Prayagraj,29-35,Offline,Friend,Wedding,3,2500
+R0673,Bengaluru,22-28,Offline,Influencer,Work event,10,6500
+R0674,Prayagraj,29-35,Myntra,Influencer,Work event,4,3500
+R0675,Lucknow,22-28,Myntra,Influencer,Wedding,10,6500
+R0676,Mumbai,29-35,Myntra,Instagram,Festival,5,4500
+R0677,Pune,29-35,Myntra,Friend,Work event,7,5500
+R0678,Pune,22-28,Offline,Friend,NA,10,6500
+R0679,Prayagraj,36-38,Myntra,Myntra browse,Wedding,7,5500
+R0680,Prayagraj,29-35,Offline,Other,Festival,3,3500
+R0681,Pune,36-38,Brand website,Instagram,Festival,9,6500
+R0682,Hyderabad,36-38,Offline,Instagram,Festival,6,4500
+R0683,Hyderabad,22-28,Myntra,Instagram,NA,10,6500
+R0684,Bengaluru,36-38,Brand website,Myntra browse,Work event,10,6500
+R0685,Hyderabad,22-28,Myntra,Myntra browse,Festival,6,4500
+R0686,Prayagraj,22-28,Brand website,Myntra browse,NA,3,2500
+R0687,Delhi,22-28,Myntra,Influencer,NA,10,6500
+R0688,Hyderabad,22-28,Brand website,Other,Gifting,4,4500
+R0689,Bhopal,36-38,Offline,Myntra browse,Wedding,8,6500
+R0690,Hyderabad,22-28,Myntra,Other,Festival,10,6500
+R0691,Prayagraj,29-35,Myntra,Other,Gifting,3,3500
+R0692,Bengaluru,29-35,Myntra,Instagram,Festival,10,6500
+R0693,Bengaluru,22-28,Brand website,Other,Festival,9,5500
+R0694,Bhopal,22-28,Offline,Myntra browse,Work event,4,4500
+R0695,Bhopal,22-28,Myntra,Other,Work event,9,6500
+R0696,Bhopal,36-38,Myntra,Influencer,Gifting,6,5500
+R0697,Lucknow,22-28,Myntra,Friend,Festival,10,6500
+R0698,Bengaluru,22-28,Brand website,Influencer,Work event,10,6500
+R0699,Mumbai,36-38,Myntra,Myntra browse,Gifting,6,4500
+R0700,Lucknow,29-35,Offline,Friend,Gifting,5,4500
+R0701,Bhopal,29-35,Brand website,Instagram,Work event,8,6500
+R0702,Pune,22-28,Brand website,Friend,Wedding,10,6500
+R0703,Delhi,36-38,Brand website,Friend,Work event,7,5500
+R0704,Hyderabad,36-38,Brand website,Other,Gifting,4,4500
+R0705,Prayagraj,36-38,Myntra,Influencer,NA,5,4500
+R0706,Hyderabad,22-28,Offline,Myntra browse,Gifting,5,4500
+R0707,Hyderabad,29-35,Offline,Other,NA,8,5500
+R0708,Mumbai,22-28,Brand website,Instagram,Gifting,9,6500
+R0709,Bhopal,29-35,Offline,Influencer,Gifting,8,5500
+R0710,Lucknow,22-28,Myntra,Influencer,Festival,10,6500
+R0711,Prayagraj,29-35,Myntra,Other,Wedding,8,5500
+R0712,Prayagraj,29-35,Offline,Friend,NA,2,3500
+R0713,Bhopal,29-35,Offline,Other,Work event,3,2500
+R0714,Lucknow,22-28,Brand website,Instagram,NA,8,5500
+R0715,Mumbai,36-38,Myntra,Instagram,Wedding,8,6500
+R0716,Bengaluru,22-28,Brand website,Other,Wedding,10,6500
+R0717,Hyderabad,29-35,Brand website,Friend,Wedding,7,4500
+R0718,Bhopal,29-35,Offline,Influencer,NA,10,6500
+R0719,Pune,22-28,Offline,Other,Work event,4,3500
+R0720,Hyderabad,36-38,Brand website,Instagram,Wedding,4,3500
+R0721,Hyderabad,29-35,Brand website,Friend,Wedding,5,3500
+R0722,Prayagraj,22-28,Brand website,Influencer,Wedding,9,6500
+R0723,Hyderabad,29-35,Myntra,Other,Work event,3,3500
+R0724,Prayagraj,29-35,Brand website,Other,Work event,2,3500
+R0725,Delhi,36-38,Myntra,Instagram,Festival,7,5500
+R0726,Bhopal,29-35,Myntra,Other,NA,3,2500
+R0727,Lucknow,29-35,Myntra,Friend,Wedding,9,5500
+R0728,Lucknow,29-35,Myntra,Influencer,Festival,6,4500
+R0729,Bengaluru,29-35,Brand website,Influencer,Work event,10,6500
+R0730,Hyderabad,22-28,Brand website,Friend,Festival,7,5500
+R0731,Pune,22-28,Brand website,Friend,Gifting,10,6500
+R0732,Mumbai,22-28,Brand website,Influencer,NA,10,6500
+R0733,Pune,36-38,Offline,Other,Wedding,10,6500
+R0734,Pune,29-35,Offline,Myntra browse,Festival,10,6500
+R0735,Bengaluru,22-28,Brand website,Other,NA,6,5500
+R0736,Mumbai,36-38,Offline,Other,NA,10,6500
+R0737,Mumbai,22-28,Offline,Friend,Gifting,5,4500
+R0738,Pune,22-28,Myntra,Instagram,Wedding,9,6500
+R0739,Bengaluru,36-38,Offline,Myntra browse,Festival,9,6500
+R0740,Delhi,22-28,Myntra,Other,NA,6,4500
+R0741,Bhopal,29-35,Myntra,Friend,Gifting,6,4500
+R0742,Prayagraj,29-35,Offline,Other,Wedding,9,6500
+R0743,Prayagraj,29-35,Myntra,Instagram,Work event,4,3500
+R0744,Prayagraj,22-28,Brand website,Instagram,Wedding,10,6500
+R0745,Bengaluru,29-35,Brand website,Other,Festival,7,5500
+R0746,Hyderabad,22-28,Brand website,Myntra browse,Festival,10,6500
+R0747,Pune,36-38,Offline,Friend,Work event,10,6500
+R0748,Lucknow,29-35,Brand website,Myntra browse,NA,4,4500
+R0749,Mumbai,36-38,Brand website,Influencer,NA,8,5500
+R0750,Hyderabad,29-35,Offline,Friend,Festival,9,6500
+R0751,Bengaluru,22-28,Offline,Instagram,Gifting,6,4500
+R0752,Pune,36-38,Brand website,Influencer,NA,10,6500
+R0753,Hyderabad,36-38,Myntra,Friend,NA,6,4500
+R0754,Bengaluru,29-35,Myntra,Other,NA,10,6500
+R0755,Prayagraj,29-35,Offline,Other,NA,5,3500
+R0756,Lucknow,22-28,Brand website,Myntra browse,NA,9,6500
+R0757,Lucknow,36-38,Brand website,Instagram,Gifting,8,5500
+R0758,Bhopal,36-38,Myntra,Influencer,Work event,3,3500
+R0759,Pune,22-28,Brand website,Friend,NA,9,6500
+R0760,Delhi,29-35,Brand website,Myntra browse,NA,10,6500
+R0761,Delhi,29-35,Offline,Instagram,NA,5,4500
+R0762,Prayagraj,36-38,Offline,Friend,NA,3,2500
+R0763,Mumbai,36-38,Offline,Instagram,NA,9,6500
+R0764,Hyderabad,36-38,Myntra,Other,NA,9,6500
+R0765,Hyderabad,36-38,Brand website,Influencer,Work event,10,6500
+R0766,Bengaluru,22-28,Myntra,Instagram,NA,6,5500
+R0767,Bengaluru,22-28,Brand website,Other,NA,10,6500
+R0768,Prayagraj,29-35,Offline,Instagram,Festival,4,3500
+R0769,Bhopal,22-28,Offline,Instagram,Gifting,7,5500
+R0770,Pune,22-28,Brand website,Myntra browse,Wedding,10,6500
+R0771,Lucknow,22-28,Myntra,Friend,Festival,9,5500
+R0772,Bhopal,36-38,Offline,Friend,Gifting,3,3500
+R0773,Bhopal,22-28,Brand website,Influencer,Wedding,5,4500
+R0774,Bhopal,22-28,Brand website,Instagram,NA,9,6500
+R0775,Bhopal,22-28,Brand website,Myntra browse,Gifting,7,5500
+R0776,Bhopal,22-28,Offline,Influencer,Festival,8,5500
+R0777,Mumbai,36-38,Offline,Friend,Work event,9,5500
+R0778,Prayagraj,29-35,Myntra,Influencer,Wedding,6,5500
+R0779,Bhopal,36-38,Myntra,Myntra browse,NA,5,3500
+R0780,Lucknow,22-28,Offline,Friend,Work event,5,4500
+R0781,Bengaluru,22-28,Offline,Myntra browse,Wedding,10,6500
+R0782,Lucknow,22-28,Brand website,Influencer,Festival,6,4500
+R0783,Hyderabad,22-28,Myntra,Instagram,Wedding,6,5500
+R0784,Mumbai,36-38,Myntra,Instagram,Gifting,4,3500
+R0785,Bengaluru,22-28,Brand website,Friend,Festival,5,3500
+R0786,Mumbai,29-35,Offline,Friend,Wedding,6,5500
+R0787,Hyderabad,36-38,Brand website,Influencer,Festival,5,3500
+R0788,Hyderabad,29-35,Myntra,Influencer,Wedding,10,6500
+R0789,Mumbai,29-35,Brand website,Other,Work event,10,6500
+R0790,Mumbai,36-38,Myntra,Influencer,Gifting,5,4500
+R0791,Prayagraj,29-35,Offline,Instagram,Festival,8,5500
+R0792,Hyderabad,22-28,Brand website,Other,Gifting,4,3500
+R0793,Delhi,22-28,Brand website,Instagram,Wedding,10,6500
+R0794,Prayagraj,36-38,Brand website,Friend,NA,6,4500
+R0795,Bhopal,29-35,Brand website,Friend,Wedding,5,3500
+R0796,Bengaluru,29-35,Brand website,Influencer,Gifting,10,6500
+R0797,Bhopal,22-28,Myntra,Friend,Festival,8,5500
+R0798,Bhopal,29-35,Brand website,Influencer,Wedding,5,4500
+R0799,Hyderabad,36-38,Brand website,Influencer,Work event,9,6500
+R0800,Bengaluru,29-35,Myntra,Other,Wedding,10,6500
+R0801,Bengaluru,36-38,Myntra,Influencer,NA,8,6500
+R0802,Delhi,29-35,Offline,Myntra browse,NA,9,6500
+R0803,Hyderabad,36-38,Offline,Influencer,Work event,7,5500
+R0804,Bengaluru,22-28,Myntra,Influencer,Festival,10,6500
+R0805,Lucknow,22-28,Brand website,Myntra browse,Wedding,9,5500
+R0806,Bengaluru,36-38,Brand website,Other,Festival,4,3500
+R0807,Lucknow,29-35,Brand website,Other,Festival,8,5500
+R0808,Delhi,29-35,Offline,Instagram,Work event,9,6500
+R0809,Pune,22-28,Offline,Other,Work event,10,6500
+R0810,Mumbai,29-35,Myntra,Friend,Wedding,5,4500
+R0811,Hyderabad,22-28,Myntra,Friend,Wedding,10,6500
+R0812,Pune,29-35,Brand website,Instagram,NA,7,4500
+R0813,Bengaluru,36-38,Brand website,Friend,Wedding,7,5500
+R0814,Mumbai,36-38,Myntra,Myntra browse,Festival,9,6500
+R0815,Prayagraj,36-38,Offline,Other,NA,6,5500
+R0816,Bengaluru,36-38,Offline,Instagram,Wedding,8,5500
+R0817,Pune,29-35,Myntra,Instagram,NA,10,6500
+R0818,Bengaluru,36-38,Offline,Myntra browse,Gifting,6,4500
+R0819,Bhopal,22-28,Brand website,Influencer,Wedding,8,5500
+R0820,Hyderabad,22-28,Offline,Instagram,Wedding,10,6500
+R0821,Bengaluru,22-28,Myntra,Friend,Work event,10,6500
+R0822,Pune,36-38,Myntra,Other,Work event,9,5500
+R0823,Bhopal,22-28,Offline,Myntra browse,Work event,8,5500
+R0824,Delhi,22-28,Offline,Instagram,Festival,7,4500
+R0825,Mumbai,29-35,Myntra,Friend,Work event,6,5500
+R0826,Prayagraj,36-38,Brand website,Myntra browse,Wedding,3,2500
+R0827,Bengaluru,29-35,Brand website,Influencer,Festival,5,4500
+R0828,Delhi,36-38,Offline,Other,Wedding,9,5500
+R0829,Mumbai,22-28,Brand website,Other,Wedding,10,6500
+R0830,Prayagraj,29-35,Offline,Other,Gifting,6,4500
+R0831,Prayagraj,29-35,Offline,Myntra browse,Wedding,9,6500
+R0832,Bhopal,22-28,Brand website,Myntra browse,NA,9,6500
+R0833,Pune,36-38,Offline,Other,Work event,3,2500
+R0834,Mumbai,36-38,Myntra,Friend,Wedding,10,6500
+R0835,Mumbai,29-35,Brand website,Instagram,Gifting,8,5500
+R0836,Mumbai,29-35,Offline,Myntra browse,Wedding,10,6500
+R0837,Bhopal,36-38,Offline,Other,NA,4,3500
+R0838,Pune,22-28,Myntra,Instagram,Wedding,10,6500
+R0839,Lucknow,36-38,Myntra,Myntra browse,Festival,5,4500
+R0840,Lucknow,36-38,Brand website,Myntra browse,NA,6,5500
+R0841,Prayagraj,22-28,Brand website,Friend,NA,4,4500
+R0842,Pune,36-38,Offline,Other,Work event,8,5500
+R0843,Prayagraj,36-38,Offline,Influencer,Gifting,5,4500
+R0844,Delhi,29-35,Brand website,Friend,Gifting,10,6500
+R0845,Bengaluru,36-38,Offline,Myntra browse,Wedding,10,6500
+R0846,Prayagraj,36-38,Offline,Myntra browse,NA,3,2500
+R0847,Hyderabad,36-38,Myntra,Instagram,Gifting,9,6500
+R0848,Bhopal,29-35,Brand website,Influencer,Wedding,10,6500
+R0849,Delhi,29-35,Brand website,Friend,Work event,10,6500
+R0850,Pune,29-35,Offline,Friend,Gifting,4,3500
+R0851,Bhopal,22-28,Brand website,Friend,Gifting,7,5500
+R0852,Bengaluru,22-28,Myntra,Myntra browse,Wedding,7,5500
+R0853,Bengaluru,22-28,Offline,Friend,Festival,7,5500
+R0854,Lucknow,29-35,Brand website,Myntra browse,Wedding,6,5500
+R0855,Lucknow,36-38,Brand website,Other,Wedding,4,3500
+R0856,Lucknow,36-38,Myntra,Other,NA,6,4500
+R0857,Prayagraj,29-35,Myntra,Influencer,Gifting,8,5500
+R0858,Bengaluru,29-35,Brand website,Friend,Festival,10,6500
+R0859,Lucknow,29-35,Myntra,Instagram,Festival,8,5500
+R0860,Prayagraj,29-35,Offline,Friend,Work event,6,4500
+R0861,Delhi,36-38,Myntra,Myntra browse,NA,9,5500
+R0862,Bengaluru,29-35,Myntra,Myntra browse,NA,8,5500
+R0863,Pune,36-38,Myntra,Influencer,NA,9,6500
+R0864,Delhi,29-35,Brand website,Friend,Gifting,6,4500
+R0865,Bengaluru,29-35,Brand website,Other,Wedding,7,5500
+R0866,Lucknow,36-38,Offline,Instagram,Wedding,9,6500
+R0867,Pune,29-35,Offline,Other,Gifting,8,5500
+R0868,Pune,36-38,Myntra,Instagram,Work event,3,3500
+R0869,Lucknow,22-28,Brand website,Friend,Wedding,5,4500
+R0870,Bengaluru,22-28,Myntra,Instagram,Gifting,10,6500
+R0871,Prayagraj,29-35,Brand website,Myntra browse,Gifting,3,2500
+R0872,Pune,29-35,Offline,Instagram,Festival,10,6500
+R0873,Mumbai,22-28,Offline,Influencer,Festival,10,6500
+R0874,Lucknow,36-38,Brand website,Friend,Work event,6,5500
+R0875,Delhi,29-35,Brand website,Instagram,NA,6,4500
+R0876,Hyderabad,36-38,Myntra,Influencer,Festival,10,6500
+R0877,Bengaluru,36-38,Myntra,Friend,NA,9,5500
+R0878,Mumbai,29-35,Myntra,Instagram,Gifting,4,4500
+R0879,Bengaluru,22-28,Brand website,Friend,Festival,5,4500
+R0880,Hyderabad,22-28,Brand website,Influencer,Wedding,10,6500
+R0881,Hyderabad,22-28,Myntra,Other,Festival,5,4500
+R0882,Mumbai,22-28,Myntra,Myntra browse,Work event,10,6500
+R0883,Bhopal,36-38,Myntra,Myntra browse,Wedding,8,5500
+R0884,Pune,36-38,Brand website,Friend,Gifting,6,4500
+R0885,Pune,22-28,Offline,Other,Work event,10,6500
+R0886,Delhi,36-38,Offline,Friend,NA,3,3500
+R0887,Hyderabad,29-35,Myntra,Myntra browse,Work event,9,6500
+R0888,Hyderabad,22-28,Brand website,Instagram,Work event,10,6500
+R0889,Bengaluru,22-28,Myntra,Instagram,Festival,10,6500
+R0890,Lucknow,29-35,Myntra,Friend,Festival,7,5500
+R0891,Hyderabad,36-38,Offline,Other,Gifting,8,5500
+R0892,Bhopal,29-35,Brand website,Myntra browse,Work event,8,5500
+R0893,Bengaluru,22-28,Brand website,Influencer,Festival,10,6500
+R0894,Pune,22-28,Offline,Other,Festival,10,6500
+R0895,Mumbai,36-38,Myntra,Friend,NA,10,6500
+R0896,Bhopal,29-35,Myntra,Instagram,Wedding,9,5500
+R0897,Bhopal,36-38,Brand website,Instagram,Festival,4,3500
+R0898,Pune,29-35,Offline,Myntra browse,Festival,10,6500
+R0899,Bhopal,22-28,Offline,Influencer,Festival,8,5500
+R0900,Prayagraj,36-38,Myntra,Other,Work event,6,4500
+R0901,Delhi,36-38,Offline,Myntra browse,NA,4,4500
+R0902,Bengaluru,36-38,Brand website,Other,Wedding,9,6500
+R0903,Prayagraj,36-38,Offline,Myntra browse,Wedding,3,3500
+R0904,Bhopal,29-35,Offline,Instagram,Wedding,6,4500
+R0905,Hyderabad,36-38,Offline,Instagram,Wedding,9,6500
+R0906,Bengaluru,29-35,Brand website,Friend,Work event,7,5500
+R0907,Lucknow,36-38,Offline,Instagram,NA,8,5500
+R0908,Prayagraj,36-38,Myntra,Myntra browse,Wedding,3,2500
+R0909,Prayagraj,36-38,Offline,Friend,Work event,3,3500
+R0910,Prayagraj,36-38,Brand website,Influencer,Work event,7,5500
+R0911,Pune,22-28,Myntra,Other,Gifting,4,4500
+R0912,Bengaluru,36-38,Offline,Other,Festival,4,3500
+R0913,Delhi,29-35,Brand website,Instagram,Work event,6,5500
+R0914,Bhopal,36-38,Brand website,Influencer,Wedding,4,3500
+R0915,Mumbai,36-38,Brand website,Friend,Gifting,6,5500
+R0916,Hyderabad,22-28,Brand website,Friend,Festival,10,6500
+R0917,Pune,29-35,Myntra,Myntra browse,Wedding,4,3500
+R0918,Mumbai,36-38,Brand website,Myntra browse,Work event,5,4500
+R0919,Delhi,36-38,Myntra,Instagram,Gifting,10,6500
+R0920,Pune,36-38,Brand website,Friend,Work event,7,5500
+R0921,Hyderabad,22-28,Offline,Myntra browse,Festival,6,5500
+R0922,Delhi,29-35,Brand website,Other,Festival,10,6500
+R0923,Bengaluru,36-38,Myntra,Myntra browse,Wedding,6,4500
+R0924,Pune,22-28,Myntra,Instagram,Wedding,10,6500
+R0925,Lucknow,36-38,Brand website,Myntra browse,Wedding,6,4500
+R0926,Bengaluru,36-38,Brand website,Myntra browse,Gifting,10,6500
+R0927,Delhi,29-35,Brand website,Myntra browse,NA,4,3500
+R0928,Mumbai,22-28,Myntra,Myntra browse,Festival,10,6500
+R0929,Bengaluru,29-35,Myntra,Influencer,Festival,7,4500
+R0930,Hyderabad,29-35,Brand website,Instagram,Gifting,3,2500
+R0931,Prayagraj,36-38,Brand website,Friend,Work event,6,4500
+R0932,Delhi,29-35,Brand website,Influencer,NA,10,6500
+R0933,Pune,29-35,Offline,Myntra browse,NA,10,6500
+R0934,Bengaluru,22-28,Brand website,Other,Work event,8,5500
+R0935,Delhi,36-38,Myntra,Friend,Wedding,8,5500
+R0936,Hyderabad,29-35,Offline,Instagram,Festival,10,6500
+R0937,Pune,36-38,Brand website,Influencer,Gifting,4,4500
+R0938,Mumbai,22-28,Offline,Influencer,Gifting,10,6500
+R0939,Lucknow,29-35,Offline,Other,NA,4,4500
+R0940,Pune,29-35,Brand website,Other,Gifting,3,2500
+R0941,Lucknow,22-28,Offline,Myntra browse,Gifting,9,5500
+R0942,Prayagraj,29-35,Offline,Other,Gifting,3,3500
+R0943,Mumbai,36-38,Brand website,Influencer,Wedding,10,6500
+R0944,Pune,36-38,Myntra,Friend,NA,10,6500
+R0945,Bengaluru,22-28,Myntra,Influencer,Work event,10,6500
+R0946,Bhopal,29-35,Myntra,Friend,NA,3,3500
+R0947,Mumbai,22-28,Offline,Other,Wedding,7,4500
+R0948,Hyderabad,22-28,Myntra,Other,Wedding,9,6500
+R0949,Delhi,22-28,Brand website,Instagram,Work event,10,6500
+R0950,Bengaluru,29-35,Offline,Other,Work event,9,6500
+R0951,Bhopal,22-28,Brand website,Other,Gifting,9,5500
+R0952,Delhi,29-35,Offline,Instagram,Gifting,10,6500
+R0953,Bengaluru,36-38,Offline,Instagram,Gifting,5,4500
+R0954,Mumbai,36-38,Offline,Friend,Wedding,7,5500
+R0955,Delhi,36-38,Brand website,Influencer,Work event,9,6500
+R0956,Lucknow,22-28,Brand website,Myntra browse,NA,10,6500
+R0957,Delhi,29-35,Myntra,Influencer,NA,8,5500
+R0958,Prayagraj,36-38,Myntra,Other,Gifting,5,4500
+R0959,Bengaluru,29-35,Myntra,Other,NA,6,5500
+R0960,Pune,22-28,Myntra,Friend,NA,7,4500
+R0961,Lucknow,29-35,Myntra,Friend,NA,7,4500
+R0962,Hyderabad,29-35,Brand website,Other,Gifting,3,3500
+R0963,Hyderabad,29-35,Myntra,Other,Festival,6,5500
+R0964,Lucknow,22-28,Brand website,Instagram,Wedding,6,4500
+R0965,Bhopal,22-28,Brand website,Instagram,NA,6,4500
+R0966,Bengaluru,22-28,Brand website,Friend,Gifting,10,6500
+R0967,Lucknow,29-35,Brand website,Other,Work event,3,3500
+R0968,Mumbai,29-35,Brand website,Other,Wedding,9,6500
+R0969,Pune,36-38,Brand website,Other,Gifting,9,5500
+R0970,Bengaluru,36-38,Brand website,Friend,Work event,9,6500
+R0971,Hyderabad,36-38,Myntra,Myntra browse,NA,4,4500
+R0972,Bhopal,29-35,Brand website,Instagram,NA,4,3500
+R0973,Mumbai,29-35,Offline,Other,NA,8,5500
+R0974,Prayagraj,22-28,Myntra,Influencer,Work event,10,6500
+R0975,Bhopal,22-28,Offline,Other,Gifting,7,4500
+R0976,Delhi,36-38,Brand website,Influencer,Work event,4,3500
+R0977,Bengaluru,36-38,Myntra,Myntra browse,Work event,4,3500
+R0978,Prayagraj,29-35,Myntra,Myntra browse,Work event,8,6500
+R0979,Prayagraj,36-38,Myntra,Other,Wedding,3,3500
+R0980,Bengaluru,36-38,Myntra,Influencer,Work event,8,5500
+R0981,Pune,22-28,Myntra,Myntra browse,Gifting,7,4500
+R0982,Hyderabad,36-38,Brand website,Friend,Gifting,7,4500
+R0983,Delhi,36-38,Brand website,Myntra browse,Work event,9,6500
+R0984,Lucknow,29-35,Myntra,Instagram,Wedding,10,6500
+R0985,Prayagraj,36-38,Offline,Friend,Work event,3,3500
+R0986,Bhopal,22-28,Offline,Influencer,Gifting,8,5500
+R0987,Bengaluru,29-35,Myntra,Myntra browse,Wedding,6,4500
+R0988,Mumbai,36-38,Brand website,Instagram,Festival,10,6500
+R0989,Bhopal,22-28,Brand website,Instagram,Wedding,4,3500
+R0990,Delhi,29-35,Offline,Friend,NA,10,6500
+R0991,Bhopal,29-35,Myntra,Friend,Work event,3,3500
+R0992,Hyderabad,36-38,Brand website,Influencer,Festival,6,4500
+R0993,Lucknow,36-38,Brand website,Influencer,Wedding,5,3500
+R0994,Mumbai,22-28,Myntra,Instagram,Festival,7,5500
+R0995,Prayagraj,22-28,Brand website,Instagram,Festival,10,6500
+R0996,Bengaluru,36-38,Myntra,Other,NA,7,5500
+R0997,Hyderabad,22-28,Myntra,Instagram,Festival,10,6500
+R0998,Bengaluru,29-35,Offline,Friend,Festival,6,4500
+R0999,Bhopal,22-28,Myntra,Myntra browse,Wedding,6,4500
+R1000,Bhopal,36-38,Brand website,Other,NA,7,4500
