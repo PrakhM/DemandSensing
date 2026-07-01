@@ -1,5 +1,6 @@
 import pandas as pd
 from datetime import date
+from weather import get_weather_category
 
 def create_product(df):
     rows = []
@@ -17,15 +18,16 @@ def create_product(df):
                    .drop_duplicates('city'))
     channels = channels.set_index("city")
     cities = df['city'].unique().tolist()
-    weather = "Summer"
     light = bool(int(input("Made of light cloth? (0,1): ")))
     vibrant = bool(int(input("Is colourful? (0,1): ")))
 
     print(cities, ratings, channels)
 
     for city in cities:
-        rating = ratings.loc[city, "purchase_intent"]
+        rating = ratings.loc[city, "purchase_intent"] * 2
         channel = channels.loc[city, "preferred_channel"]
+        weather = get_weather_category(city, pd.to_datetime(date_now))
+        print("Weather for", city, "is", weather)
         rows.append(
             {
                 "date": date_now,
